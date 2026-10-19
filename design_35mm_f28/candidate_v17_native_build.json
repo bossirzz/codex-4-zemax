@@ -1,0 +1,146 @@
+{
+  "status": "built_and_analyzed",
+  "sampling": 1024,
+  "target": ".\\design_35mm_f28\\candidate_v17.zos",
+  "backup": ".\\design_35mm_f28\\user_session_backup_20261011_152819.zos",
+  "rows": [
+    {
+      "surface": 0,
+      "radius": "inf",
+      "thickness": 500.0,
+      "material": "",
+      "semi_diameter": 125.89557335407088,
+      "stop": false
+    },
+    {
+      "surface": 1,
+      "radius": "20.349261948507",
+      "thickness": 3.96388985640746,
+      "material": "H-LAF54",
+      "semi_diameter": 9.06985175911403,
+      "stop": false
+    },
+    {
+      "surface": 2,
+      "radius": "2276.27844089255",
+      "thickness": 0.129425025920586,
+      "material": "",
+      "semi_diameter": 9.06985175911403,
+      "stop": false
+    },
+    {
+      "surface": 3,
+      "radius": "12.359950061882301",
+      "thickness": 3.46159467989666,
+      "material": "H-FK61B",
+      "semi_diameter": 6.91535053067918,
+      "stop": false
+    },
+    {
+      "surface": 4,
+      "radius": "-71.7107260077801",
+      "thickness": 0.651052374180593,
+      "material": "H-ZLAF53B",
+      "semi_diameter": 6.91535053067918,
+      "stop": false
+    },
+    {
+      "surface": 5,
+      "radius": "10.2668904544248",
+      "thickness": 3.14735539985405,
+      "material": "",
+      "semi_diameter": 6.91535053067918,
+      "stop": false
+    },
+    {
+      "surface": 6,
+      "radius": "inf",
+      "thickness": 6.54201591981331,
+      "material": "",
+      "semi_diameter": 4.168474998444911,
+      "stop": true
+    },
+    {
+      "surface": 7,
+      "radius": "-11.5516400876238",
+      "thickness": 1.32435320761789,
+      "material": "H-LAF10LA",
+      "semi_diameter": 8.15047046589502,
+      "stop": false
+    },
+    {
+      "surface": 8,
+      "radius": "20.7800050949324",
+      "thickness": 5.82965632111492,
+      "material": "H-FK69",
+      "semi_diameter": 8.15047046589502,
+      "stop": false
+    },
+    {
+      "surface": 9,
+      "radius": "-10.9888197907607",
+      "thickness": 0.100054670858852,
+      "material": "",
+      "semi_diameter": 8.15047046589502,
+      "stop": false
+    },
+    {
+      "surface": 10,
+      "radius": "27.2769829665199",
+      "thickness": 2.91510097562271,
+      "material": "H-LAF10LA",
+      "semi_diameter": 10.1942371618679,
+      "stop": false
+    },
+    {
+      "surface": 11,
+      "radius": "-177.042539383705",
+      "thickness": 6.79057817754977,
+      "material": "",
+      "semi_diameter": 10.1942371618679,
+      "stop": false
+    },
+    {
+      "surface": 12,
+      "radius": "196.174998389956",
+      "thickness": 2.6445957366883,
+      "material": "H-ZLAF53B",
+      "semi_diameter": 9.40005192628777,
+      "stop": false
+    },
+    {
+      "surface": 13,
+      "radius": "-25.1809124580531",
+      "thickness": 0.664793654375977,
+      "material": "",
+      "semi_diameter": 9.40005192628777,
+      "stop": false
+    },
+    {
+      "surface": 14,
+      "radius": "-19.6372747678796",
+      "thickness": 1.00547123644596,
+      "material": "H-ZF1",
+      "semi_diameter": 9.24466692392796,
+      "stop": false
+    },
+    {
+      "surface": 15,
+      "radius": "44.1228798763585",
+      "thickness": 14.5495788971948,
+      "material": "",
+      "semi_diameter": 9.24466692392796,
+      "stop": false
+    },
+    {
+      "surface": 16,
+      "radius": "inf",
+      "thickness": Infinity,
+      "material": "",
+      "semi_diameter": 9.11618421360756,
+      "stop": false
+    }
+  ],
+  "original_unchanged": true,
+  "messages": []
+}

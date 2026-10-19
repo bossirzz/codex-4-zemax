@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+*.ZDA
+*.zda
+.venv/
+.env
+.env.*
+!.env.example
+*_local_recheck*
+user_session_backup_*
+previous_session_backup_*

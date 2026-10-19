@@ -1,0 +1,4996 @@
+{
+  "initial_merit": 9000000000.0,
+  "variables": [
+    {
+      "editor": "LDE",
+      "surface": 1,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 2,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 3,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 4,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 5,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 7,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 8,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 9,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 11,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 12,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 13,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 14,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 15,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 1,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 1,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 1,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 15,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 15,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 15,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 12,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 12,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 12,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 3,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 3,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 3,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 7,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 7,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 7,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 2,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 2,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 2,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 9,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 9,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 9,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 8,
+      "parameter": "Thickness"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Thickness"
+    },
+    {
+      "editor": "MCE",
+      "configuration": 1,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 1,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 1,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 1,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 2,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 2,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 2,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 2,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 3,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 3,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 3,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 3,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 4,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 4,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 4,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 4,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 5,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 5,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 5,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 5,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 6,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 6,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 6,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 6,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 7,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 7,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 7,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 7,
+      "type": "SDIA",
+      "surface": 6
+    }
+  ],
+  "contrast_blocks": [
+    {
+      "configuration": 1,
+      "wd": 500,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 1,
+      "end": 120
+    },
+    {
+      "configuration": 1,
+      "wd": 500,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 122,
+      "end": 144
+    },
+    {
+      "configuration": 2,
+      "wd": 200,
+      "frequency": 120.0,
+      "centre_only": false,
+      "start": 145,
+      "end": 264
+    },
+    {
+      "configuration": 2,
+      "wd": 200,
+      "frequency": 150.0,
+      "centre_only": true,
+      "start": 265,
+      "end": 287
+    },
+    {
+      "configuration": 3,
+      "wd": 800,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 288,
+      "end": 407
+    },
+    {
+      "configuration": 3,
+      "wd": 800,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 408,
+      "end": 430
+    },
+    {
+      "configuration": 5,
+      "wd": 300.0,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 431,
+      "end": 550
+    },
+    {
+      "configuration": 5,
+      "wd": 300.0,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 551,
+      "end": 573
+    },
+    {
+      "configuration": 6,
+      "wd": 400.0,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 574,
+      "end": 693
+    },
+    {
+      "configuration": 6,
+      "wd": 400.0,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 694,
+      "end": 716
+    },
+    {
+      "configuration": 7,
+      "wd": 2000.0,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 717,
+      "end": 836
+    },
+    {
+      "configuration": 7,
+      "wd": 2000.0,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 837,
+      "end": 859
+    }
+  ],
+  "operand_counts": {
+    "CONF": 20,
+    "DMFS": 12,
+    "BLNK": 36,
+    "DIMX": 6,
+    "MNCA": 96,
+    "MXCA": 96,
+    "MNEA": 96,
+    "MNCG": 96,
+    "MXCG": 96,
+    "MNEG": 96,
+    "MECS": 108,
+    "MECT": 108,
+    "ISFN": 7,
+    "OPGT": 144,
+    "OPLT": 100,
+    "TTHI": 42,
+    "RELI": 7,
+    "REAY": 21,
+    "EFFL": 1,
+    "MTFT": 12,
+    "MTFS": 12,
+    "RANG": 1,
+    "DIFF": 63
+  },
+  "explicit_operands": [
+    {
+      "index": 860,
+      "type": "CONF",
+      "parameters": [
+        1
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 861,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 862,
+      "type": "OPGT",
+      "parameters": [
+        861
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 863,
+      "type": "OPLT",
+      "parameters": [
+        861
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 864,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 865,
+      "type": "OPLT",
+      "parameters": [
+        864
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 866,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 867,
+      "type": "OPGT",
+      "parameters": [
+        866
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 868,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 869,
+      "type": "OPGT",
+      "parameters": [
+        868
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 870,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 871,
+      "type": "OPGT",
+      "parameters": [
+        870
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 872,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 873,
+      "type": "OPGT",
+      "parameters": [
+        872
+      ],
+      "target": 2.991,
+      "weight": 2000.0
+    },
+    {
+      "index": 874,
+      "type": "OPLT",
+      "parameters": [
+        872
+      ],
+      "target": 3.0089999999999995,
+      "weight": 2000.0
+    },
+    {
+      "index": 875,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 876,
+      "type": "OPGT",
+      "parameters": [
+        875
+      ],
+      "target": 6.2810999999999995,
+      "weight": 2000.0
+    },
+    {
+      "index": 877,
+      "type": "OPLT",
+      "parameters": [
+        875
+      ],
+      "target": 6.318899999999999,
+      "weight": 2000.0
+    },
+    {
+      "index": 878,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 879,
+      "type": "OPGT",
+      "parameters": [
+        878
+      ],
+      "target": 9.05276,
+      "weight": 2000.0
+    },
+    {
+      "index": 880,
+      "type": "OPLT",
+      "parameters": [
+        878
+      ],
+      "target": 9.10724,
+      "weight": 2000.0
+    },
+    {
+      "index": 881,
+      "type": "OPGT",
+      "parameters": [
+        878
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 882,
+      "type": "EFFL",
+      "parameters": [
+        0,
+        2
+      ],
+      "target": 35.0,
+      "weight": 2.0
+    },
+    {
+      "index": 883,
+      "type": "OPGT",
+      "parameters": [
+        882
+      ],
+      "target": 34.94,
+      "weight": 2000.0
+    },
+    {
+      "index": 884,
+      "type": "OPLT",
+      "parameters": [
+        882
+      ],
+      "target": 35.06,
+      "weight": 2000.0
+    },
+    {
+      "index": 885,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        1,
+        225.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 886,
+      "type": "OPGT",
+      "parameters": [
+        885
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 887,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        1,
+        225.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 888,
+      "type": "OPGT",
+      "parameters": [
+        887
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 889,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        2,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 890,
+      "type": "OPGT",
+      "parameters": [
+        889
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 891,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        2,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 892,
+      "type": "OPGT",
+      "parameters": [
+        891
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 893,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        3,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 894,
+      "type": "OPGT",
+      "parameters": [
+        893
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 895,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        3,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 896,
+      "type": "OPGT",
+      "parameters": [
+        895
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 897,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        4,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 898,
+      "type": "OPGT",
+      "parameters": [
+        897
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 899,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        4,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 900,
+      "type": "OPGT",
+      "parameters": [
+        899
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 901,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 902,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 903,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 904,
+      "type": "CONF",
+      "parameters": [
+        2
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 905,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 906,
+      "type": "OPGT",
+      "parameters": [
+        905
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 907,
+      "type": "OPLT",
+      "parameters": [
+        905
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 908,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 909,
+      "type": "OPLT",
+      "parameters": [
+        908
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 910,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 911,
+      "type": "OPGT",
+      "parameters": [
+        910
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 912,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 913,
+      "type": "OPGT",
+      "parameters": [
+        912
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 914,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 915,
+      "type": "OPGT",
+      "parameters": [
+        914
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 916,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 917,
+      "type": "OPGT",
+      "parameters": [
+        916
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 918,
+      "type": "OPLT",
+      "parameters": [
+        916
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 919,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 920,
+      "type": "OPGT",
+      "parameters": [
+        919
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 921,
+      "type": "OPLT",
+      "parameters": [
+        919
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 922,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 923,
+      "type": "OPGT",
+      "parameters": [
+        922
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 924,
+      "type": "OPLT",
+      "parameters": [
+        922
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 925,
+      "type": "OPGT",
+      "parameters": [
+        922
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 926,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        1,
+        150.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 927,
+      "type": "OPGT",
+      "parameters": [
+        926
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 928,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        1,
+        150.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 929,
+      "type": "OPGT",
+      "parameters": [
+        928
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 930,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        2,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 931,
+      "type": "OPGT",
+      "parameters": [
+        930
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 932,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        2,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 933,
+      "type": "OPGT",
+      "parameters": [
+        932
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 934,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        3,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 935,
+      "type": "OPGT",
+      "parameters": [
+        934
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 936,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        3,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 937,
+      "type": "OPGT",
+      "parameters": [
+        936
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 938,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        4,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 939,
+      "type": "OPGT",
+      "parameters": [
+        938
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 940,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        4,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 941,
+      "type": "OPGT",
+      "parameters": [
+        940
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 942,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 943,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 944,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 945,
+      "type": "CONF",
+      "parameters": [
+        3
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 946,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 947,
+      "type": "OPGT",
+      "parameters": [
+        946
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 948,
+      "type": "OPLT",
+      "parameters": [
+        946
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 949,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 950,
+      "type": "OPLT",
+      "parameters": [
+        949
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 951,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 952,
+      "type": "OPGT",
+      "parameters": [
+        951
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 953,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 954,
+      "type": "OPGT",
+      "parameters": [
+        953
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 955,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 956,
+      "type": "OPGT",
+      "parameters": [
+        955
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 957,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 958,
+      "type": "OPGT",
+      "parameters": [
+        957
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 959,
+      "type": "OPLT",
+      "parameters": [
+        957
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 960,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 961,
+      "type": "OPGT",
+      "parameters": [
+        960
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 962,
+      "type": "OPLT",
+      "parameters": [
+        960
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 963,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 964,
+      "type": "OPGT",
+      "parameters": [
+        963
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 965,
+      "type": "OPLT",
+      "parameters": [
+        963
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 966,
+      "type": "OPGT",
+      "parameters": [
+        963
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 967,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        1,
+        225.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 968,
+      "type": "OPGT",
+      "parameters": [
+        967
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 969,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        1,
+        225.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 970,
+      "type": "OPGT",
+      "parameters": [
+        969
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 971,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        2,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 972,
+      "type": "OPGT",
+      "parameters": [
+        971
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 973,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        2,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 974,
+      "type": "OPGT",
+      "parameters": [
+        973
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 975,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        3,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 976,
+      "type": "OPGT",
+      "parameters": [
+        975
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 977,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        3,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 978,
+      "type": "OPGT",
+      "parameters": [
+        977
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 979,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        4,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 980,
+      "type": "OPGT",
+      "parameters": [
+        979
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 981,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        4,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 982,
+      "type": "OPGT",
+      "parameters": [
+        981
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 983,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 984,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 985,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 986,
+      "type": "CONF",
+      "parameters": [
+        4
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 987,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 988,
+      "type": "OPGT",
+      "parameters": [
+        987
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 989,
+      "type": "OPLT",
+      "parameters": [
+        987
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 990,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 991,
+      "type": "OPLT",
+      "parameters": [
+        990
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 992,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 993,
+      "type": "OPGT",
+      "parameters": [
+        992
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 994,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 995,
+      "type": "OPGT",
+      "parameters": [
+        994
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 996,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 997,
+      "type": "OPGT",
+      "parameters": [
+        996
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 998,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 999,
+      "type": "OPGT",
+      "parameters": [
+        998
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 1000,
+      "type": "OPLT",
+      "parameters": [
+        998
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 1001,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1002,
+      "type": "OPGT",
+      "parameters": [
+        1001
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 1003,
+      "type": "OPLT",
+      "parameters": [
+        1001
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 1004,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1005,
+      "type": "OPGT",
+      "parameters": [
+        1004
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 1006,
+      "type": "OPLT",
+      "parameters": [
+        1004
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 1007,
+      "type": "OPGT",
+      "parameters": [
+        1004
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1008,
+      "type": "RANG",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1009,
+      "type": "OPLT",
+      "parameters": [
+        1008
+      ],
+      "target": 0.17453292519943295,
+      "weight": 2000.0
+    },
+    {
+      "index": 1010,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1011,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1012,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1013,
+      "type": "CONF",
+      "parameters": [
+        5
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1014,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1015,
+      "type": "OPGT",
+      "parameters": [
+        1014
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1016,
+      "type": "OPLT",
+      "parameters": [
+        1014
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 1017,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1018,
+      "type": "OPLT",
+      "parameters": [
+        1017
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 1019,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1020,
+      "type": "OPGT",
+      "parameters": [
+        1019
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1021,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1022,
+      "type": "OPGT",
+      "parameters": [
+        1021
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 1023,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1024,
+      "type": "OPGT",
+      "parameters": [
+        1023
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 1025,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1026,
+      "type": "OPGT",
+      "parameters": [
+        1025
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 1027,
+      "type": "OPLT",
+      "parameters": [
+        1025
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 1028,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1029,
+      "type": "OPGT",
+      "parameters": [
+        1028
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 1030,
+      "type": "OPLT",
+      "parameters": [
+        1028
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 1031,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1032,
+      "type": "OPGT",
+      "parameters": [
+        1031
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 1033,
+      "type": "OPLT",
+      "parameters": [
+        1031
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 1034,
+      "type": "OPGT",
+      "parameters": [
+        1031
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1035,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1036,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1037,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1038,
+      "type": "CONF",
+      "parameters": [
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1039,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1040,
+      "type": "OPGT",
+      "parameters": [
+        1039
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1041,
+      "type": "OPLT",
+      "parameters": [
+        1039
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 1042,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1043,
+      "type": "OPLT",
+      "parameters": [
+        1042
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 1044,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1045,
+      "type": "OPGT",
+      "parameters": [
+        1044
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1046,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1047,
+      "type": "OPGT",
+      "parameters": [
+        1046
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 1048,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1049,
+      "type": "OPGT",
+      "parameters": [
+        1048
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 1050,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1051,
+      "type": "OPGT",
+      "parameters": [
+        1050
+      ],
+      "target": 2.991,
+      "weight": 2000.0
+    },
+    {
+      "index": 1052,
+      "type": "OPLT",
+      "parameters": [
+        1050
+      ],
+      "target": 3.0089999999999995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1053,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1054,
+      "type": "OPGT",
+      "parameters": [
+        1053
+      ],
+      "target": 6.2810999999999995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1055,
+      "type": "OPLT",
+      "parameters": [
+        1053
+      ],
+      "target": 6.318899999999999,
+      "weight": 2000.0
+    },
+    {
+      "index": 1056,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1057,
+      "type": "OPGT",
+      "parameters": [
+        1056
+      ],
+      "target": 9.05276,
+      "weight": 2000.0
+    },
+    {
+      "index": 1058,
+      "type": "OPLT",
+      "parameters": [
+        1056
+      ],
+      "target": 9.10724,
+      "weight": 2000.0
+    },
+    {
+      "index": 1059,
+      "type": "OPGT",
+      "parameters": [
+        1056
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1060,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1061,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1062,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1063,
+      "type": "CONF",
+      "parameters": [
+        7
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1064,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1065,
+      "type": "OPGT",
+      "parameters": [
+        1064
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1066,
+      "type": "OPLT",
+      "parameters": [
+        1064
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 1067,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1068,
+      "type": "OPLT",
+      "parameters": [
+        1067
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 1069,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1070,
+      "type": "OPGT",
+      "parameters": [
+        1069
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1071,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1072,
+      "type": "OPGT",
+      "parameters": [
+        1071
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 1073,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1074,
+      "type": "OPGT",
+      "parameters": [
+        1073
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 1075,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1076,
+      "type": "OPGT",
+      "parameters": [
+        1075
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 1077,
+      "type": "OPLT",
+      "parameters": [
+        1075
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 1078,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1079,
+      "type": "OPGT",
+      "parameters": [
+        1078
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 1080,
+      "type": "OPLT",
+      "parameters": [
+        1078
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 1081,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1082,
+      "type": "OPGT",
+      "parameters": [
+        1081
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 1083,
+      "type": "OPLT",
+      "parameters": [
+        1081
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 1084,
+      "type": "OPGT",
+      "parameters": [
+        1081
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1085,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1086,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1087,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1088,
+      "type": "DIFF",
+      "parameters": [
+        942,
+        901
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1089,
+      "type": "OPGT",
+      "parameters": [
+        1088
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1090,
+      "type": "OPLT",
+      "parameters": [
+        1088
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1091,
+      "type": "DIFF",
+      "parameters": [
+        943,
+        902
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1092,
+      "type": "OPGT",
+      "parameters": [
+        1091
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1093,
+      "type": "OPLT",
+      "parameters": [
+        1091
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1094,
+      "type": "DIFF",
+      "parameters": [
+        944,
+        903
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1095,
+      "type": "OPGT",
+      "parameters": [
+        1094
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1096,
+      "type": "OPLT",
+      "parameters": [
+        1094
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1097,
+      "type": "DIFF",
+      "parameters": [
+        983,
+        901
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1098,
+      "type": "OPGT",
+      "parameters": [
+        1097
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1099,
+      "type": "OPLT",
+      "parameters": [
+        1097
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1100,
+      "type": "DIFF",
+      "parameters": [
+        984,
+        902
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1101,
+      "type": "OPGT",
+      "parameters": [
+        1100
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1102,
+      "type": "OPLT",
+      "parameters": [
+        1100
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1103,
+      "type": "DIFF",
+      "parameters": [
+        985,
+        903
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1104,
+      "type": "OPGT",
+      "parameters": [
+        1103
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1105,
+      "type": "OPLT",
+      "parameters": [
+        1103
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1106,
+      "type": "DIFF",
+      "parameters": [
+        983,
+        942
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1107,
+      "type": "OPGT",
+      "parameters": [
+        1106
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1108,
+      "type": "OPLT",
+      "parameters": [
+        1106
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1109,
+      "type": "DIFF",
+      "parameters": [
+        984,
+        943
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1110,
+      "type": "OPGT",
+      "parameters": [
+        1109
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1111,
+      "type": "OPLT",
+      "parameters": [
+        1109
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1112,
+      "type": "DIFF",
+      "parameters": [
+        985,
+        944
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1113,
+      "type": "OPGT",
+      "parameters": [
+        1112
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1114,
+      "type": "OPLT",
+      "parameters": [
+        1112
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1115,
+      "type": "DIFF",
+      "parameters": [
+        1010,
+        901
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1116,
+      "type": "OPGT",
+      "parameters": [
+        1115
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1117,
+      "type": "OPLT",
+      "parameters": [
+        1115
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1118,
+      "type": "DIFF",
+      "parameters": [
+        1011,
+        902
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1119,
+      "type": "OPGT",
+      "parameters": [
+        1118
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1120,
+      "type": "OPLT",
+      "parameters": [
+        1118
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1121,
+      "type": "DIFF",
+      "parameters": [
+        1012,
+        903
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1122,
+      "type": "OPGT",
+      "parameters": [
+        1121
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1123,
+      "type": "OPLT",
+      "parameters": [
+        1121
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1124,
+      "type": "DIFF",
+      "parameters": [
+        1010,
+        942
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1125,
+      "type": "OPGT",
+      "parameters": [
+        1124
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1126,
+      "type": "OPLT",
+      "parameters": [
+        1124
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1127,
+      "type": "DIFF",
+      "parameters": [
+        1011,
+        943
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1128,
+      "type": "OPGT",
+      "parameters": [
+        1127
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1129,
+      "type": "OPLT",
+      "parameters": [
+        1127
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1130,
+      "type": "DIFF",
+      "parameters": [
+        1012,
+        944
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1131,
+      "type": "OPGT",
+      "parameters": [
+        1130
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1132,
+      "type": "OPLT",
+      "parameters": [
+        1130
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1133,
+      "type": "DIFF",
+      "parameters": [
+        1010,
+        983
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1134,
+      "type": "OPGT",
+      "parameters": [
+        1133
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1135,
+      "type": "OPLT",
+      "parameters": [
+        1133
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1136,
+      "type": "DIFF",
+      "parameters": [
+        1011,
+        984
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1137,
+      "type": "OPGT",
+      "parameters": [
+        1136
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1138,
+      "type": "OPLT",
+      "parameters": [
+        1136
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1139,
+      "type": "DIFF",
+      "parameters": [
+        1012,
+        985
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1140,
+      "type": "OPGT",
+      "parameters": [
+        1139
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1141,
+      "type": "OPLT",
+      "parameters": [
+        1139
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1142,
+      "type": "DIFF",
+      "parameters": [
+        1035,
+        901
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1143,
+      "type": "OPGT",
+      "parameters": [
+        1142
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1144,
+      "type": "OPLT",
+      "parameters": [
+        1142
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1145,
+      "type": "DIFF",
+      "parameters": [
+        1036,
+        902
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1146,
+      "type": "OPGT",
+      "parameters": [
+        1145
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1147,
+      "type": "OPLT",
+      "parameters": [
+        1145
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1148,
+      "type": "DIFF",
+      "parameters": [
+        1037,
+        903
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1149,
+      "type": "OPGT",
+      "parameters": [
+        1148
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1150,
+      "type": "OPLT",
+      "parameters": [
+        1148
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1151,
+      "type": "DIFF",
+      "parameters": [
+        1035,
+        942
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1152,
+      "type": "OPGT",
+      "parameters": [
+        1151
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1153,
+      "type": "OPLT",
+      "parameters": [
+        1151
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1154,
+      "type": "DIFF",
+      "parameters": [
+        1036,
+        943
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1155,
+      "type": "OPGT",
+      "parameters": [
+        1154
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1156,
+      "type": "OPLT",
+      "parameters": [
+        1154
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1157,
+      "type": "DIFF",
+      "parameters": [
+        1037,
+        944
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1158,
+      "type": "OPGT",
+      "parameters": [
+        1157
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1159,
+      "type": "OPLT",
+      "parameters": [
+        1157
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1160,
+      "type": "DIFF",
+      "parameters": [
+        1035,
+        983
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1161,
+      "type": "OPGT",
+      "parameters": [
+        1160
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1162,
+      "type": "OPLT",
+      "parameters": [
+        1160
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1163,
+      "type": "DIFF",
+      "parameters": [
+        1036,
+        984
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1164,
+      "type": "OPGT",
+      "parameters": [
+        1163
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1165,
+      "type": "OPLT",
+      "parameters": [
+        1163
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1166,
+      "type": "DIFF",
+      "parameters": [
+        1037,
+        985
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1167,
+      "type": "OPGT",
+      "parameters": [
+        1166
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1168,
+      "type": "OPLT",
+      "parameters": [
+        1166
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1169,
+      "type": "DIFF",
+      "parameters": [
+        1035,
+        1010
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1170,
+      "type": "OPGT",
+      "parameters": [
+        1169
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1171,
+      "type": "OPLT",
+      "parameters": [
+        1169
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1172,
+      "type": "DIFF",
+      "parameters": [
+        1036,
+        1011
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1173,
+      "type": "OPGT",
+      "parameters": [
+        1172
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1174,
+      "type": "OPLT",
+      "parameters": [
+        1172
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1175,
+      "type": "DIFF",
+      "parameters": [
+        1037,
+        1012
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1176,
+      "type": "OPGT",
+      "parameters": [
+        1175
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1177,
+      "type": "OPLT",
+      "parameters": [
+        1175
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1178,
+      "type": "DIFF",
+      "parameters": [
+        1060,
+        901
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1179,
+      "type": "OPGT",
+      "parameters": [
+        1178
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1180,
+      "type": "OPLT",
+      "parameters": [
+        1178
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1181,
+      "type": "DIFF",
+      "parameters": [
+        1061,
+        902
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1182,
+      "type": "OPGT",
+      "parameters": [
+        1181
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1183,
+      "type": "OPLT",
+      "parameters": [
+        1181
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1184,
+      "type": "DIFF",
+      "parameters": [
+        1062,
+        903
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1185,
+      "type": "OPGT",
+      "parameters": [
+        1184
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1186,
+      "type": "OPLT",
+      "parameters": [
+        1184
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1187,
+      "type": "DIFF",
+      "parameters": [
+        1060,
+        942
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1188,
+      "type": "OPGT",
+      "parameters": [
+        1187
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1189,
+      "type": "OPLT",
+      "parameters": [
+        1187
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1190,
+      "type": "DIFF",
+      "parameters": [
+        1061,
+        943
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1191,
+      "type": "OPGT",
+      "parameters": [
+        1190
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1192,
+      "type": "OPLT",
+      "parameters": [
+        1190
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1193,
+      "type": "DIFF",
+      "parameters": [
+        1062,
+        944
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1194,
+      "type": "OPGT",
+      "parameters": [
+        1193
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1195,
+      "type": "OPLT",
+      "parameters": [
+        1193
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1196,
+      "type": "DIFF",
+      "parameters": [
+        1060,
+        983
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1197,
+      "type": "OPGT",
+      "parameters": [
+        1196
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1198,
+      "type": "OPLT",
+      "parameters": [
+        1196
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1199,
+      "type": "DIFF",
+      "parameters": [
+        1061,
+        984
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1200,
+      "type": "OPGT",
+      "parameters": [
+        1199
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1201,
+      "type": "OPLT",
+      "parameters": [
+        1199
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1202,
+      "type": "DIFF",
+      "parameters": [
+        1062,
+        985
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1203,
+      "type": "OPGT",
+      "parameters": [
+        1202
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1204,
+      "type": "OPLT",
+      "parameters": [
+        1202
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1205,
+      "type": "DIFF",
+      "parameters": [
+        1060,
+        1010
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1206,
+      "type": "OPGT",
+      "parameters": [
+        1205
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1207,
+      "type": "OPLT",
+      "parameters": [
+        1205
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1208,
+      "type": "DIFF",
+      "parameters": [
+        1061,
+        1011
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1209,
+      "type": "OPGT",
+      "parameters": [
+        1208
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1210,
+      "type": "OPLT",
+      "parameters": [
+        1208
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1211,
+      "type": "DIFF",
+      "parameters": [
+        1062,
+        1012
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1212,
+      "type": "OPGT",
+      "parameters": [
+        1211
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1213,
+      "type": "OPLT",
+      "parameters": [
+        1211
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1214,
+      "type": "DIFF",
+      "parameters": [
+        1060,
+        1035
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1215,
+      "type": "OPGT",
+      "parameters": [
+        1214
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1216,
+      "type": "OPLT",
+      "parameters": [
+        1214
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1217,
+      "type": "DIFF",
+      "parameters": [
+        1061,
+        1036
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1218,
+      "type": "OPGT",
+      "parameters": [
+        1217
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1219,
+      "type": "OPLT",
+      "parameters": [
+        1217
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1220,
+      "type": "DIFF",
+      "parameters": [
+        1062,
+        1037
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1221,
+      "type": "OPGT",
+      "parameters": [
+        1220
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1222,
+      "type": "OPLT",
+      "parameters": [
+        1220
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1223,
+      "type": "DIFF",
+      "parameters": [
+        1085,
+        901
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1224,
+      "type": "OPGT",
+      "parameters": [
+        1223
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1225,
+      "type": "OPLT",
+      "parameters": [
+        1223
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1226,
+      "type": "DIFF",
+      "parameters": [
+        1086,
+        902
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1227,
+      "type": "OPGT",
+      "parameters": [
+        1226
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1228,
+      "type": "OPLT",
+      "parameters": [
+        1226
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1229,
+      "type": "DIFF",
+      "parameters": [
+        1087,
+        903
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1230,
+      "type": "OPGT",
+      "parameters": [
+        1229
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1231,
+      "type": "OPLT",
+      "parameters": [
+        1229
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1232,
+      "type": "DIFF",
+      "parameters": [
+        1085,
+        942
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1233,
+      "type": "OPGT",
+      "parameters": [
+        1232
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1234,
+      "type": "OPLT",
+      "parameters": [
+        1232
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1235,
+      "type": "DIFF",
+      "parameters": [
+        1086,
+        943
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1236,
+      "type": "OPGT",
+      "parameters": [
+        1235
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1237,
+      "type": "OPLT",
+      "parameters": [
+        1235
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1238,
+      "type": "DIFF",
+      "parameters": [
+        1087,
+        944
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1239,
+      "type": "OPGT",
+      "parameters": [
+        1238
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1240,
+      "type": "OPLT",
+      "parameters": [
+        1238
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1241,
+      "type": "DIFF",
+      "parameters": [
+        1085,
+        983
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1242,
+      "type": "OPGT",
+      "parameters": [
+        1241
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1243,
+      "type": "OPLT",
+      "parameters": [
+        1241
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1244,
+      "type": "DIFF",
+      "parameters": [
+        1086,
+        984
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1245,
+      "type": "OPGT",
+      "parameters": [
+        1244
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1246,
+      "type": "OPLT",
+      "parameters": [
+        1244
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1247,
+      "type": "DIFF",
+      "parameters": [
+        1087,
+        985
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1248,
+      "type": "OPGT",
+      "parameters": [
+        1247
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1249,
+      "type": "OPLT",
+      "parameters": [
+        1247
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1250,
+      "type": "DIFF",
+      "parameters": [
+        1085,
+        1010
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1251,
+      "type": "OPGT",
+      "parameters": [
+        1250
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1252,
+      "type": "OPLT",
+      "parameters": [
+        1250
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1253,
+      "type": "DIFF",
+      "parameters": [
+        1086,
+        1011
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1254,
+      "type": "OPGT",
+      "parameters": [
+        1253
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1255,
+      "type": "OPLT",
+      "parameters": [
+        1253
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1256,
+      "type": "DIFF",
+      "parameters": [
+        1087,
+        1012
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1257,
+      "type": "OPGT",
+      "parameters": [
+        1256
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1258,
+      "type": "OPLT",
+      "parameters": [
+        1256
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1259,
+      "type": "DIFF",
+      "parameters": [
+        1085,
+        1035
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1260,
+      "type": "OPGT",
+      "parameters": [
+        1259
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1261,
+      "type": "OPLT",
+      "parameters": [
+        1259
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1262,
+      "type": "DIFF",
+      "parameters": [
+        1086,
+        1036
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1263,
+      "type": "OPGT",
+      "parameters": [
+        1262
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1264,
+      "type": "OPLT",
+      "parameters": [
+        1262
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1265,
+      "type": "DIFF",
+      "parameters": [
+        1087,
+        1037
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1266,
+      "type": "OPGT",
+      "parameters": [
+        1265
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1267,
+      "type": "OPLT",
+      "parameters": [
+        1265
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1268,
+      "type": "DIFF",
+      "parameters": [
+        1085,
+        1060
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1269,
+      "type": "OPGT",
+      "parameters": [
+        1268
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1270,
+      "type": "OPLT",
+      "parameters": [
+        1268
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1271,
+      "type": "DIFF",
+      "parameters": [
+        1086,
+        1061
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1272,
+      "type": "OPGT",
+      "parameters": [
+        1271
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1273,
+      "type": "OPLT",
+      "parameters": [
+        1271
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1274,
+      "type": "DIFF",
+      "parameters": [
+        1087,
+        1062
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1275,
+      "type": "OPGT",
+      "parameters": [
+        1274
+      ],
+      "target": -6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 1276,
+      "type": "OPLT",
+      "parameters": [
+        1274
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    }
+  ],
+  "largest_contributions": [
+    {
+      "index": 1,
+      "type": "CONF",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 2,
+      "type": "DMFS",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 3,
+      "type": "BLNK",
+      "value": NaN,
+      "target": NaN,
+      "weight": NaN,
+      "contribution": NaN
+    },
+    {
+      "index": 4,
+      "type": "CONF",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 5,
+      "type": "BLNK",
+      "value": NaN,
+      "target": NaN,
+      "weight": NaN,
+      "contribution": NaN
+    },
+    {
+      "index": 8,
+      "type": "MXCA",
+      "value": 500.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.48970875890442617
+    },
+    {
+      "index": 6,
+      "type": "DIMX",
+      "value": 0.3,
+      "target": 0.3,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 7,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 9,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 10,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 11,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 12,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 13,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 14,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 15,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 16,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 17,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 18,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 19,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 20,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 21,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 22,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 23,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 24,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 25,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 26,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 27,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 28,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 29,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 30,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 31,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 32,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 33,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 34,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 35,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 36,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 37,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 38,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 39,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 40,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 41,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 42,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 43,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 44,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 45,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 46,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 47,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 48,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 49,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 50,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    }
+  ]
+}

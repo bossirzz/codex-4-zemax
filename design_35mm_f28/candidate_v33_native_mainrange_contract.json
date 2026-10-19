@@ -1,0 +1,602 @@
+{
+  "parent": "candidate_v32_native_contrast_c",
+  "floating_group_seed": "candidate_v32_native_focus_refine",
+  "optimizer": "OpticStudio native DampedLeastSquares",
+  "common_prescription_variables": 40,
+  "floating_group_and_stop_variables": 28,
+  "materials": [
+    {
+      "surface": 1,
+      "name": "H-LAF54",
+      "indices_F_d_C": [
+        1.812795786635329,
+        1.7995185226689303,
+        1.7938737465515664
+      ]
+    },
+    {
+      "surface": 3,
+      "name": "H-FK61B",
+      "indices_F_d_C": [
+        1.5012293467706195,
+        1.4970001449410866,
+        1.4951390632067358
+      ]
+    },
+    {
+      "surface": 4,
+      "name": "H-ZLAF53B",
+      "indices_F_d_C": [
+        1.8498080040727387,
+        1.8340000218339876,
+        1.8273950081435126
+      ]
+    },
+    {
+      "surface": 7,
+      "name": "H-LAF10LA",
+      "indices_F_d_C": [
+        1.799599219394063,
+        1.7879999691441346,
+        1.783006857980513
+      ]
+    },
+    {
+      "surface": 8,
+      "name": "H-FK69",
+      "indices_F_d_C": [
+        1.5988436572204359,
+        1.592827769837984,
+        1.5902055424381074
+      ]
+    },
+    {
+      "surface": 10,
+      "name": "H-LAF10LA",
+      "indices_F_d_C": [
+        1.799599219394063,
+        1.7879999691441346,
+        1.783006857980513
+      ]
+    },
+    {
+      "surface": 12,
+      "name": "H-ZLAF53B",
+      "indices_F_d_C": [
+        1.8498080040727387,
+        1.8340000218339876,
+        1.8273950081435126
+      ]
+    },
+    {
+      "surface": 14,
+      "name": "H-ZF1",
+      "indices_F_d_C": [
+        1.661239977985317,
+        1.6476900199667837,
+        1.6421003810484345
+      ]
+    }
+  ],
+  "mtf_guards": [
+    {
+      "index": 1875,
+      "configuration": 1,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.315,
+      "weight": 1000000.0
+    },
+    {
+      "index": 1877,
+      "configuration": 1,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.315,
+      "weight": 1000000.0
+    },
+    {
+      "index": 1879,
+      "configuration": 1,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 1881,
+      "configuration": 1,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 1883,
+      "configuration": 1,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 1885,
+      "configuration": 1,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 1887,
+      "configuration": 1,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 1889,
+      "configuration": 1,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2056,
+      "configuration": 2,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.315,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2058,
+      "configuration": 2,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.315,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2060,
+      "configuration": 2,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2062,
+      "configuration": 2,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2064,
+      "configuration": 2,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2066,
+      "configuration": 2,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2068,
+      "configuration": 2,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2070,
+      "configuration": 2,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2237,
+      "configuration": 3,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.315,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2239,
+      "configuration": 3,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.315,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2241,
+      "configuration": 3,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2243,
+      "configuration": 3,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2245,
+      "configuration": 3,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2247,
+      "configuration": 3,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2249,
+      "configuration": 3,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2251,
+      "configuration": 3,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.212,
+      "weight": 1000000.0
+    },
+    {
+      "index": 2585,
+      "configuration": 5,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.31,
+      "weight": 10000.0
+    },
+    {
+      "index": 2587,
+      "configuration": 5,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.31,
+      "weight": 10000.0
+    },
+    {
+      "index": 2589,
+      "configuration": 5,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.18,
+      "weight": 10000.0
+    },
+    {
+      "index": 2591,
+      "configuration": 5,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.18,
+      "weight": 10000.0
+    },
+    {
+      "index": 2593,
+      "configuration": 5,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.18,
+      "weight": 10000.0
+    },
+    {
+      "index": 2595,
+      "configuration": 5,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.18,
+      "weight": 10000.0
+    },
+    {
+      "index": 2597,
+      "configuration": 5,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.18,
+      "weight": 10000.0
+    },
+    {
+      "index": 2599,
+      "configuration": 5,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.18,
+      "weight": 10000.0
+    },
+    {
+      "index": 2766,
+      "configuration": 6,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.31,
+      "weight": 20000.0
+    },
+    {
+      "index": 2768,
+      "configuration": 6,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.31,
+      "weight": 20000.0
+    },
+    {
+      "index": 2770,
+      "configuration": 6,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.205,
+      "weight": 20000.0
+    },
+    {
+      "index": 2772,
+      "configuration": 6,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.205,
+      "weight": 20000.0
+    },
+    {
+      "index": 2774,
+      "configuration": 6,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.205,
+      "weight": 20000.0
+    },
+    {
+      "index": 2776,
+      "configuration": 6,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.205,
+      "weight": 20000.0
+    },
+    {
+      "index": 2778,
+      "configuration": 6,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.205,
+      "weight": 20000.0
+    },
+    {
+      "index": 2780,
+      "configuration": 6,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.205,
+      "weight": 20000.0
+    },
+    {
+      "index": 2947,
+      "configuration": 7,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 2949,
+      "configuration": 7,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 1,
+      "floor": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 2951,
+      "configuration": 7,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.04,
+      "weight": 2000.0
+    },
+    {
+      "index": 2953,
+      "configuration": 7,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 2,
+      "floor": 0.04,
+      "weight": 2000.0
+    },
+    {
+      "index": 2955,
+      "configuration": 7,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.04,
+      "weight": 2000.0
+    },
+    {
+      "index": 2957,
+      "configuration": 7,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 3,
+      "floor": 0.04,
+      "weight": 2000.0
+    },
+    {
+      "index": 2959,
+      "configuration": 7,
+      "type": "MTFT",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.04,
+      "weight": 2000.0
+    },
+    {
+      "index": 2961,
+      "configuration": 7,
+      "type": "MTFS",
+      "sampling": 3,
+      "grid": 1,
+      "field": 4,
+      "floor": 0.04,
+      "weight": 2000.0
+    }
+  ],
+  "phase_scales": {
+    "1": 0.15,
+    "2": 0.15,
+    "3": 0.15,
+    "5": 2.0,
+    "6": 2.0,
+    "7": 0.3
+  },
+  "operand_counts": {
+    "CONF": 20,
+    "DMFS": 12,
+    "BLNK": 54,
+    "DIMX": 6,
+    "MNCA": 96,
+    "MXCA": 96,
+    "MNEA": 96,
+    "MNCG": 96,
+    "MXCG": 96,
+    "MNEG": 96,
+    "MECS": 594,
+    "MECT": 594,
+    "ISFN": 7,
+    "OPGT": 595,
+    "OPLT": 37,
+    "TTHI": 42,
+    "RELI": 7,
+    "REAY": 21,
+    "EFFL": 1,
+    "MTFT": 24,
+    "MTFS": 24,
+    "STHI": 490,
+    "RANG": 1,
+    "ZTHI": 3
+  },
+  "native_infinity_api_value": 10000000000.0,
+  "main_acceptance": "500 mm:225/180 lp/mm at .30/.20; 200 mm:150/120 at .30/.20",
+  "other_distances": "Engineering targets, not new user acceptance thresholds",
+  "temperature_in_objective": false,
+  "independent_acceptance_required": true
+}

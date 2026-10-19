@@ -1,0 +1,131 @@
+[
+  {
+    "wd": 300,
+    "configuration": 5,
+    "tool": "OpticStudio QuickFocus SpotSizeRadial Centroid",
+    "succeeded": true,
+    "error": "None",
+    "source_backfocus_mm": 16.2688861,
+    "probed_backfocus_mm": 16.315203874062824,
+    "native_mtf_sampling4_before": [
+      0.312318454283353,
+      0.312318454283353,
+      0.2034744996218092,
+      0.316531208144625,
+      0.15894866178381797,
+      0.21138575919836233,
+      0.12040781296927172,
+      0.1515289372512352
+    ],
+    "native_mtf_sampling4_after": [
+      0.06002451590832893,
+      0.06002451590832893,
+      0.0630834415051628,
+      0.023390359207719272,
+      0.07625876625180247,
+      0.009729476153929582,
+      0.015818165923857323,
+      0.016261044441536372
+    ],
+    "native_mtf_sampling6_before": [
+      0.31336364792478716,
+      0.31336364792478716,
+      0.2038417752569041,
+      0.3169819878109068,
+      0.1595213989282142,
+      0.2117388771451141,
+      0.12112169245890378,
+      0.15182707672596452
+    ],
+    "native_mtf_sampling6_after": null,
+    "selected_in_disposable_probe": false,
+    "high_sampling_acceptance_required": true,
+    "complete_requirements_passed": false
+  },
+  {
+    "wd": 400,
+    "configuration": 6,
+    "tool": "OpticStudio QuickFocus SpotSizeRadial Centroid",
+    "succeeded": true,
+    "error": "None",
+    "source_backfocus_mm": 15.1771685,
+    "probed_backfocus_mm": 15.19471376150955,
+    "native_mtf_sampling4_before": [
+      0.13188432233381153,
+      0.13188432233381153,
+      0.25704601484641076,
+      0.11525877770546053,
+      0.14949902925458972,
+      0.05748541651210626,
+      0.18547493954917568,
+      0.08123252966268345
+    ],
+    "native_mtf_sampling4_after": [
+      0.06210479724656016,
+      0.06210479724656016,
+      0.06859607818539748,
+      0.03316452816488265,
+      0.012664675968756225,
+      0.01227175509734859,
+      0.0869378562434312,
+      0.0012062862523688897
+    ],
+    "native_mtf_sampling6_before": [
+      0.13180209713076366,
+      0.13180209713076366,
+      0.2578413930983168,
+      0.11525845881807288,
+      0.14976286029614613,
+      0.05761689859599736,
+      0.1860656774422274,
+      0.08128164604481222
+    ],
+    "native_mtf_sampling6_after": null,
+    "selected_in_disposable_probe": false,
+    "high_sampling_acceptance_required": true,
+    "complete_requirements_passed": false
+  },
+  {
+    "wd": 2000,
+    "configuration": 7,
+    "tool": "OpticStudio QuickFocus SpotSizeRadial Centroid",
+    "succeeded": true,
+    "error": "None",
+    "source_backfocus_mm": 14.6056035,
+    "probed_backfocus_mm": 14.696258666382855,
+    "native_mtf_sampling4_before": [
+      0.2367624262602103,
+      0.2367624262602103,
+      0.27225356326498384,
+      0.2773677922754016,
+      0.06752485094547155,
+      0.010175256481789408,
+      0.04545833569771893,
+      0.039006260463391895
+    ],
+    "native_mtf_sampling4_after": [
+      0.012533098172458991,
+      0.012533098172458991,
+      0.009616269047872722,
+      0.014398301006634948,
+      0.03807761999956101,
+      0.008134876183054583,
+      0.0066270391537377165,
+      0.034439844819706855
+    ],
+    "native_mtf_sampling6_before": [
+      0.2370328746678849,
+      0.2370328746678849,
+      0.2728356081685851,
+      0.277731588130324,
+      0.06784258043458373,
+      0.010324463740444377,
+      0.045692364191494944,
+      0.039121650654277224
+    ],
+    "native_mtf_sampling6_after": null,
+    "selected_in_disposable_probe": false,
+    "high_sampling_acceptance_required": true,
+    "complete_requirements_passed": false
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "source": ".\\design_35mm_f28\\candidate_v18_native_mtf.csv",
+  "points": [
+    {
+      "column": 0,
+      "frequency": 225,
+      "mtf_interpolated": 0.33552385677422825,
+      "target": 0.3
+    },
+    {
+      "column": 6,
+      "frequency": 180,
+      "mtf_interpolated": 0.20772844432250998,
+      "target": 0.2
+    },
+    {
+      "column": 7,
+      "frequency": 180,
+      "mtf_interpolated": 0.2188661930745116,
+      "target": 0.2
+    }
+  ]
+}

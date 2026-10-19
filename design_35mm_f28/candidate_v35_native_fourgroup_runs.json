@@ -1,0 +1,239 @@
+[
+  {
+    "wd": 300,
+    "configuration": 5,
+    "source": "candidate_v34_native_thickness",
+    "optimizer": "OpticStudio DLS",
+    "requested_cycles": 10,
+    "variables": 5,
+    "targets": 234,
+    "initial_merit": 0.0003003157436434381,
+    "succeeded": true,
+    "error": "None",
+    "final_merit": 0.00023782062254803284,
+    "elapsed_seconds": 30.04344260000653,
+    "time_limit_reached": false,
+    "native_mtf_sampling6_before": [
+      0.3083223668638161,
+      0.3083223668638161,
+      0.19636082049939277,
+      0.31397864218448734,
+      0.16250251417896103,
+      0.21425331632595943,
+      0.1240195162545896,
+      0.15853746601230556
+    ],
+    "native_mtf_sampling6_after": [
+      0.32365126682771744,
+      0.32365126682771744,
+      0.16582059921403322,
+      0.3197868251884861,
+      0.21511745540586807,
+      0.21032834401986095,
+      0.13751425055201427,
+      0.1942502655267479
+    ],
+    "selected": true,
+    "original_pose": [
+      7.471575556327544,
+      6.826645208878924,
+      16.26984546322827,
+      4.277251625767072,
+      0.119986754413627
+    ],
+    "optimized_pose": [
+      6.983259590391396,
+      6.439311264858532,
+      16.866471051505368,
+      4.268763879775403,
+      0.2301840897000584
+    ],
+    "feasible_after": true,
+    "air_checks": [
+      {
+        "surface": 6,
+        "minimum_mm": 3.453451273941093,
+        "required_mm": 0.3
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 6.439311264858532,
+        "required_mm": 0.1
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.23018408970005855,
+        "required_mm": 0.1
+      }
+    ],
+    "independent_paraxial_bfl_mm": 12.394480787123491,
+    "group_strokes_mm": [
+      5.703281249677701,
+      5.443051987529458,
+      5.443051987529451,
+      5.839052129332956
+    ],
+    "relative_illumination": 0.9539410504359135,
+    "max_distortion_percent": 0.3855702493944291,
+    "engineering_goals_only": true,
+    "complete_requirements_passed": false
+  },
+  {
+    "wd": 400,
+    "configuration": 6,
+    "source": "candidate_v34_native_thickness",
+    "optimizer": "OpticStudio DLS",
+    "requested_cycles": 10,
+    "variables": 5,
+    "targets": 234,
+    "initial_merit": 9.246748632110578e-05,
+    "succeeded": true,
+    "error": "None",
+    "final_merit": 5.6556217490506194e-05,
+    "elapsed_seconds": 35.04896739999822,
+    "time_limit_reached": false,
+    "native_mtf_sampling6_before": [
+      0.3224406482832539,
+      0.3224406482832539,
+      0.21015412076235349,
+      0.3280768866134215,
+      0.20517136531183686,
+      0.21780955803950675,
+      0.18511948273365975,
+      0.19054074112232283
+    ],
+    "native_mtf_sampling6_after": [
+      0.3449548761260648,
+      0.3449548761260648,
+      0.20514441438712785,
+      0.3405187171114151,
+      0.22216803324089437,
+      0.22379037692600767,
+      0.19830123881971928,
+      0.20499991476647805
+    ],
+    "selected": true,
+    "original_pose": [
+      6.998503960844051,
+      6.796766554394667,
+      15.2495179117684,
+      4.246437795383305,
+      0.119986754413627
+    ],
+    "optimized_pose": [
+      6.6889840394378295,
+      6.637192798529119,
+      15.514334245748763,
+      4.237393901630062,
+      0.21749861222214728
+    ],
+    "feasible_after": true,
+    "air_checks": [
+      {
+        "surface": 6,
+        "minimum_mm": 3.159175722987527,
+        "required_mm": 0.3
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 6.637192798529119,
+        "required_mm": 0.1
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.21749861222214745,
+        "required_mm": 0.1
+      }
+    ],
+    "independent_paraxial_bfl_mm": 12.232558604964145,
+    "group_strokes_mm": [
+      5.703281249677701,
+      5.443051987529458,
+      5.443051987529451,
+      5.839052129332956
+    ],
+    "relative_illumination": 0.9482828545628795,
+    "max_distortion_percent": 0.23231604861340127,
+    "engineering_goals_only": true,
+    "complete_requirements_passed": false
+  },
+  {
+    "wd": 2000,
+    "configuration": 7,
+    "source": "candidate_v34_native_thickness",
+    "optimizer": "OpticStudio DLS",
+    "requested_cycles": 10,
+    "variables": 5,
+    "targets": 234,
+    "initial_merit": 0.0009033289844461114,
+    "succeeded": true,
+    "error": "None",
+    "final_merit": 0.0009025630250248234,
+    "elapsed_seconds": 38.55602409999847,
+    "time_limit_reached": false,
+    "native_mtf_sampling6_before": [
+      0.309065538054374,
+      0.309065538054374,
+      0.2296322226352138,
+      0.17960757322284182,
+      0.06853857521931321,
+      0.030256861561082694,
+      0.047012942953311904,
+      0.035684218006250906
+    ],
+    "native_mtf_sampling6_after": [
+      0.3080809189151655,
+      0.3080809189151655,
+      0.2336908731065291,
+      0.18623372004122685,
+      0.06913899001774183,
+      0.02865753673241485,
+      0.04701485537797361,
+      0.036887496457735376
+    ],
+    "selected": false,
+    "original_pose": [
+      6.689664268673279,
+      5.4955856798792935,
+      14.406578045212399,
+      4.2984874352086475,
+      0.119986754413627
+    ],
+    "optimized_pose": [
+      6.6889467414777775,
+      5.496040657973446,
+      14.40515073835197,
+      4.298684298485397,
+      0.12835565468505336
+    ],
+    "feasible_after": true,
+    "air_checks": [
+      {
+        "surface": 6,
+        "minimum_mm": 3.159138425027474,
+        "required_mm": 0.3
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 5.496040657973446,
+        "required_mm": 0.1
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.1283556546850535,
+        "required_mm": 0.1
+      }
+    ],
+    "independent_paraxial_bfl_mm": 13.686602638291374,
+    "group_strokes_mm": [
+      5.696602205368052,
+      5.435655416024304,
+      5.444024316295728,
+      5.839052129332956
+    ],
+    "relative_illumination": 0.9166253504556502,
+    "max_distortion_percent": 0.2527877069902207,
+    "engineering_goals_only": true,
+    "complete_requirements_passed": false
+  }
+]

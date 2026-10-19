@@ -1,0 +1,7 @@
+{
+  "source": "candidate_v29_review.zos",
+  "appended_native_results": "candidate_v29_800_native.json",
+  "total_configurations": 5,
+  "material_and_surface_shapes_unchanged": true,
+  "complete_requirement_acceptance": false
+}

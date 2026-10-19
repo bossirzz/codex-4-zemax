@@ -1,0 +1,3262 @@
+{
+  "initial_merit": 0.01184297342626591,
+  "variables": [
+    {
+      "editor": "LDE",
+      "surface": 1,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 2,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 3,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 4,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 5,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 7,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 8,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 9,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 11,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 12,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 13,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 14,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 15,
+      "parameter": "Radius"
+    },
+    {
+      "editor": "LDE",
+      "surface": 1,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 1,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 1,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 15,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 15,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 15,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 12,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 12,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 12,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 3,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 3,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 3,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 7,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 7,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 7,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 2,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 2,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 2,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 9,
+      "parameter": "Par2"
+    },
+    {
+      "editor": "LDE",
+      "surface": 9,
+      "parameter": "Par3"
+    },
+    {
+      "editor": "LDE",
+      "surface": 9,
+      "parameter": "Par4"
+    },
+    {
+      "editor": "LDE",
+      "surface": 8,
+      "parameter": "Thickness"
+    },
+    {
+      "editor": "LDE",
+      "surface": 10,
+      "parameter": "Thickness"
+    },
+    {
+      "editor": "MCE",
+      "configuration": 1,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 1,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 1,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 1,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 2,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 2,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 2,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 2,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 3,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 3,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 3,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 3,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 4,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 4,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 4,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 4,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 5,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 5,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 5,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 5,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 6,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 6,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 6,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 6,
+      "type": "SDIA",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 7,
+      "type": "THIC",
+      "surface": 6
+    },
+    {
+      "editor": "MCE",
+      "configuration": 7,
+      "type": "THIC",
+      "surface": 11
+    },
+    {
+      "editor": "MCE",
+      "configuration": 7,
+      "type": "THIC",
+      "surface": 15
+    },
+    {
+      "editor": "MCE",
+      "configuration": 7,
+      "type": "SDIA",
+      "surface": 6
+    }
+  ],
+  "contrast_blocks": [
+    {
+      "configuration": 1,
+      "wd": 500,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 1,
+      "end": 285
+    },
+    {
+      "configuration": 1,
+      "wd": 500,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 287,
+      "end": 309
+    },
+    {
+      "configuration": 2,
+      "wd": 200,
+      "frequency": 120.0,
+      "centre_only": false,
+      "start": 310,
+      "end": 594
+    },
+    {
+      "configuration": 2,
+      "wd": 200,
+      "frequency": 150.0,
+      "centre_only": true,
+      "start": 595,
+      "end": 617
+    },
+    {
+      "configuration": 3,
+      "wd": 800,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 618,
+      "end": 902
+    },
+    {
+      "configuration": 3,
+      "wd": 800,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 903,
+      "end": 925
+    },
+    {
+      "configuration": 5,
+      "wd": 300.0,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 926,
+      "end": 1210
+    },
+    {
+      "configuration": 5,
+      "wd": 300.0,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 1211,
+      "end": 1233
+    },
+    {
+      "configuration": 6,
+      "wd": 400.0,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 1234,
+      "end": 1518
+    },
+    {
+      "configuration": 6,
+      "wd": 400.0,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 1519,
+      "end": 1541
+    },
+    {
+      "configuration": 7,
+      "wd": 2000.0,
+      "frequency": 180.0,
+      "centre_only": false,
+      "start": 1542,
+      "end": 1826
+    },
+    {
+      "configuration": 7,
+      "wd": 2000.0,
+      "frequency": 225.0,
+      "centre_only": true,
+      "start": 1827,
+      "end": 1849
+    }
+  ],
+  "operand_counts": {
+    "CONF": 20,
+    "DMFS": 12,
+    "BLNK": 54,
+    "DIMX": 6,
+    "MNCA": 96,
+    "MXCA": 96,
+    "MNEA": 96,
+    "MNCG": 96,
+    "MXCG": 96,
+    "MNEG": 96,
+    "MECS": 594,
+    "MECT": 594,
+    "ISFN": 7,
+    "OPGT": 81,
+    "OPLT": 37,
+    "TTHI": 42,
+    "RELI": 7,
+    "REAY": 21,
+    "EFFL": 1,
+    "MTFT": 12,
+    "MTFS": 12,
+    "RANG": 1,
+    "ZTHI": 3
+  },
+  "explicit_operands": [
+    {
+      "index": 1850,
+      "type": "CONF",
+      "parameters": [
+        1
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1851,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1852,
+      "type": "OPGT",
+      "parameters": [
+        1851
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1853,
+      "type": "OPLT",
+      "parameters": [
+        1851
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 1854,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1855,
+      "type": "OPLT",
+      "parameters": [
+        1854
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 1856,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1857,
+      "type": "OPGT",
+      "parameters": [
+        1856
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1858,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1859,
+      "type": "OPGT",
+      "parameters": [
+        1858
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 1860,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1861,
+      "type": "OPGT",
+      "parameters": [
+        1860
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 1862,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1863,
+      "type": "OPGT",
+      "parameters": [
+        1862
+      ],
+      "target": 2.991,
+      "weight": 2000.0
+    },
+    {
+      "index": 1864,
+      "type": "OPLT",
+      "parameters": [
+        1862
+      ],
+      "target": 3.0089999999999995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1865,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1866,
+      "type": "OPGT",
+      "parameters": [
+        1865
+      ],
+      "target": 6.2810999999999995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1867,
+      "type": "OPLT",
+      "parameters": [
+        1865
+      ],
+      "target": 6.318899999999999,
+      "weight": 2000.0
+    },
+    {
+      "index": 1868,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1869,
+      "type": "OPGT",
+      "parameters": [
+        1868
+      ],
+      "target": 9.05276,
+      "weight": 2000.0
+    },
+    {
+      "index": 1870,
+      "type": "OPLT",
+      "parameters": [
+        1868
+      ],
+      "target": 9.10724,
+      "weight": 2000.0
+    },
+    {
+      "index": 1871,
+      "type": "OPGT",
+      "parameters": [
+        1868
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1872,
+      "type": "EFFL",
+      "parameters": [
+        0,
+        2
+      ],
+      "target": 35.0,
+      "weight": 2.0
+    },
+    {
+      "index": 1873,
+      "type": "OPGT",
+      "parameters": [
+        1872
+      ],
+      "target": 34.94,
+      "weight": 2000.0
+    },
+    {
+      "index": 1874,
+      "type": "OPLT",
+      "parameters": [
+        1872
+      ],
+      "target": 35.06,
+      "weight": 2000.0
+    },
+    {
+      "index": 1875,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        1,
+        225.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1876,
+      "type": "OPGT",
+      "parameters": [
+        1875
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 1877,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        1,
+        225.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1878,
+      "type": "OPGT",
+      "parameters": [
+        1877
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 1879,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        2,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1880,
+      "type": "OPGT",
+      "parameters": [
+        1879
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1881,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        2,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1882,
+      "type": "OPGT",
+      "parameters": [
+        1881
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1883,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        3,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1884,
+      "type": "OPGT",
+      "parameters": [
+        1883
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1885,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        3,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1886,
+      "type": "OPGT",
+      "parameters": [
+        1885
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1887,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        4,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1888,
+      "type": "OPGT",
+      "parameters": [
+        1887
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1889,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        4,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1890,
+      "type": "OPGT",
+      "parameters": [
+        1889
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1891,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1892,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1893,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1894,
+      "type": "CONF",
+      "parameters": [
+        2
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1895,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1896,
+      "type": "OPGT",
+      "parameters": [
+        1895
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1897,
+      "type": "OPLT",
+      "parameters": [
+        1895
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 1898,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1899,
+      "type": "OPLT",
+      "parameters": [
+        1898
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 1900,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1901,
+      "type": "OPGT",
+      "parameters": [
+        1900
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1902,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1903,
+      "type": "OPGT",
+      "parameters": [
+        1902
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 1904,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1905,
+      "type": "OPGT",
+      "parameters": [
+        1904
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 1906,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1907,
+      "type": "OPGT",
+      "parameters": [
+        1906
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 1908,
+      "type": "OPLT",
+      "parameters": [
+        1906
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 1909,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1910,
+      "type": "OPGT",
+      "parameters": [
+        1909
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 1911,
+      "type": "OPLT",
+      "parameters": [
+        1909
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 1912,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1913,
+      "type": "OPGT",
+      "parameters": [
+        1912
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 1914,
+      "type": "OPLT",
+      "parameters": [
+        1912
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 1915,
+      "type": "OPGT",
+      "parameters": [
+        1912
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1916,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        1,
+        150.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1917,
+      "type": "OPGT",
+      "parameters": [
+        1916
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 1918,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        1,
+        150.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1919,
+      "type": "OPGT",
+      "parameters": [
+        1918
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 1920,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        2,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1921,
+      "type": "OPGT",
+      "parameters": [
+        1920
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1922,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        2,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1923,
+      "type": "OPGT",
+      "parameters": [
+        1922
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1924,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        3,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1925,
+      "type": "OPGT",
+      "parameters": [
+        1924
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1926,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        3,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1927,
+      "type": "OPGT",
+      "parameters": [
+        1926
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1928,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        4,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1929,
+      "type": "OPGT",
+      "parameters": [
+        1928
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1930,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        4,
+        120.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1931,
+      "type": "OPGT",
+      "parameters": [
+        1930
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1932,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1933,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1934,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1935,
+      "type": "CONF",
+      "parameters": [
+        3
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1936,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1937,
+      "type": "OPGT",
+      "parameters": [
+        1936
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1938,
+      "type": "OPLT",
+      "parameters": [
+        1936
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 1939,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1940,
+      "type": "OPLT",
+      "parameters": [
+        1939
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 1941,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1942,
+      "type": "OPGT",
+      "parameters": [
+        1941
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1943,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1944,
+      "type": "OPGT",
+      "parameters": [
+        1943
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 1945,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1946,
+      "type": "OPGT",
+      "parameters": [
+        1945
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 1947,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1948,
+      "type": "OPGT",
+      "parameters": [
+        1947
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 1949,
+      "type": "OPLT",
+      "parameters": [
+        1947
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 1950,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1951,
+      "type": "OPGT",
+      "parameters": [
+        1950
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 1952,
+      "type": "OPLT",
+      "parameters": [
+        1950
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 1953,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1954,
+      "type": "OPGT",
+      "parameters": [
+        1953
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 1955,
+      "type": "OPLT",
+      "parameters": [
+        1953
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 1956,
+      "type": "OPGT",
+      "parameters": [
+        1953
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1957,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        1,
+        225.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1958,
+      "type": "OPGT",
+      "parameters": [
+        1957
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 1959,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        1,
+        225.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1960,
+      "type": "OPGT",
+      "parameters": [
+        1959
+      ],
+      "target": 0.3,
+      "weight": 300.0
+    },
+    {
+      "index": 1961,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        2,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1962,
+      "type": "OPGT",
+      "parameters": [
+        1961
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1963,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        2,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1964,
+      "type": "OPGT",
+      "parameters": [
+        1963
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1965,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        3,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1966,
+      "type": "OPGT",
+      "parameters": [
+        1965
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1967,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        3,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1968,
+      "type": "OPGT",
+      "parameters": [
+        1967
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1969,
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        4,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1970,
+      "type": "OPGT",
+      "parameters": [
+        1969
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1971,
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        4,
+        180.0,
+        1,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1972,
+      "type": "OPGT",
+      "parameters": [
+        1971
+      ],
+      "target": 0.2,
+      "weight": 300.0
+    },
+    {
+      "index": 1973,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1974,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1975,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1976,
+      "type": "CONF",
+      "parameters": [
+        4
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1977,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1978,
+      "type": "OPGT",
+      "parameters": [
+        1977
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 1979,
+      "type": "OPLT",
+      "parameters": [
+        1977
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 1980,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1981,
+      "type": "OPLT",
+      "parameters": [
+        1980
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 1982,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1983,
+      "type": "OPGT",
+      "parameters": [
+        1982
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1984,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1985,
+      "type": "OPGT",
+      "parameters": [
+        1984
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 1986,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1987,
+      "type": "OPGT",
+      "parameters": [
+        1986
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 1988,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1989,
+      "type": "OPGT",
+      "parameters": [
+        1988
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 1990,
+      "type": "OPLT",
+      "parameters": [
+        1988
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 1991,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1992,
+      "type": "OPGT",
+      "parameters": [
+        1991
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 1993,
+      "type": "OPLT",
+      "parameters": [
+        1991
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 1994,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1995,
+      "type": "OPGT",
+      "parameters": [
+        1994
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 1996,
+      "type": "OPLT",
+      "parameters": [
+        1994
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 1997,
+      "type": "OPGT",
+      "parameters": [
+        1994
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 1998,
+      "type": "RANG",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 1999,
+      "type": "OPLT",
+      "parameters": [
+        1998
+      ],
+      "target": 0.17453292519943295,
+      "weight": 2000.0
+    },
+    {
+      "index": 2000,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2001,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2002,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2003,
+      "type": "CONF",
+      "parameters": [
+        5
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2004,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2005,
+      "type": "OPGT",
+      "parameters": [
+        2004
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 2006,
+      "type": "OPLT",
+      "parameters": [
+        2004
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 2007,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2008,
+      "type": "OPLT",
+      "parameters": [
+        2007
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 2009,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2010,
+      "type": "OPGT",
+      "parameters": [
+        2009
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 2011,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2012,
+      "type": "OPGT",
+      "parameters": [
+        2011
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 2013,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2014,
+      "type": "OPGT",
+      "parameters": [
+        2013
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 2015,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2016,
+      "type": "OPGT",
+      "parameters": [
+        2015
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 2017,
+      "type": "OPLT",
+      "parameters": [
+        2015
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 2018,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2019,
+      "type": "OPGT",
+      "parameters": [
+        2018
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 2020,
+      "type": "OPLT",
+      "parameters": [
+        2018
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 2021,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2022,
+      "type": "OPGT",
+      "parameters": [
+        2021
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 2023,
+      "type": "OPLT",
+      "parameters": [
+        2021
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 2024,
+      "type": "OPGT",
+      "parameters": [
+        2021
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 2025,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2026,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2027,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2028,
+      "type": "CONF",
+      "parameters": [
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2029,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2030,
+      "type": "OPGT",
+      "parameters": [
+        2029
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 2031,
+      "type": "OPLT",
+      "parameters": [
+        2029
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 2032,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2033,
+      "type": "OPLT",
+      "parameters": [
+        2032
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 2034,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2035,
+      "type": "OPGT",
+      "parameters": [
+        2034
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 2036,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2037,
+      "type": "OPGT",
+      "parameters": [
+        2036
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 2038,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2039,
+      "type": "OPGT",
+      "parameters": [
+        2038
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 2040,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2041,
+      "type": "OPGT",
+      "parameters": [
+        2040
+      ],
+      "target": 2.991,
+      "weight": 2000.0
+    },
+    {
+      "index": 2042,
+      "type": "OPLT",
+      "parameters": [
+        2040
+      ],
+      "target": 3.0089999999999995,
+      "weight": 2000.0
+    },
+    {
+      "index": 2043,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2044,
+      "type": "OPGT",
+      "parameters": [
+        2043
+      ],
+      "target": 6.2810999999999995,
+      "weight": 2000.0
+    },
+    {
+      "index": 2045,
+      "type": "OPLT",
+      "parameters": [
+        2043
+      ],
+      "target": 6.318899999999999,
+      "weight": 2000.0
+    },
+    {
+      "index": 2046,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2047,
+      "type": "OPGT",
+      "parameters": [
+        2046
+      ],
+      "target": 9.05276,
+      "weight": 2000.0
+    },
+    {
+      "index": 2048,
+      "type": "OPLT",
+      "parameters": [
+        2046
+      ],
+      "target": 9.10724,
+      "weight": 2000.0
+    },
+    {
+      "index": 2049,
+      "type": "OPGT",
+      "parameters": [
+        2046
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 2050,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2051,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2052,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2053,
+      "type": "CONF",
+      "parameters": [
+        7
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2054,
+      "type": "ISFN",
+      "parameters": [],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2055,
+      "type": "OPGT",
+      "parameters": [
+        2054
+      ],
+      "target": 2.7995,
+      "weight": 2000.0
+    },
+    {
+      "index": 2056,
+      "type": "OPLT",
+      "parameters": [
+        2054
+      ],
+      "target": 2.8005,
+      "weight": 2000.0
+    },
+    {
+      "index": 2057,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2058,
+      "type": "OPLT",
+      "parameters": [
+        2057
+      ],
+      "target": 59.8,
+      "weight": 2000.0
+    },
+    {
+      "index": 2059,
+      "type": "TTHI",
+      "parameters": [
+        15,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2060,
+      "type": "OPGT",
+      "parameters": [
+        2059
+      ],
+      "target": 8.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 2061,
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2062,
+      "type": "OPGT",
+      "parameters": [
+        2061
+      ],
+      "target": 0.3,
+      "weight": 2000.0
+    },
+    {
+      "index": 2063,
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2064,
+      "type": "OPGT",
+      "parameters": [
+        2063
+      ],
+      "target": 0.75,
+      "weight": 2000.0
+    },
+    {
+      "index": 2065,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2066,
+      "type": "OPGT",
+      "parameters": [
+        2065
+      ],
+      "target": 2.982,
+      "weight": 2000.0
+    },
+    {
+      "index": 2067,
+      "type": "OPLT",
+      "parameters": [
+        2065
+      ],
+      "target": 3.018,
+      "weight": 2000.0
+    },
+    {
+      "index": 2068,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2069,
+      "type": "OPGT",
+      "parameters": [
+        2068
+      ],
+      "target": 6.2622,
+      "weight": 2000.0
+    },
+    {
+      "index": 2070,
+      "type": "OPLT",
+      "parameters": [
+        2068
+      ],
+      "target": 6.3378,
+      "weight": 2000.0
+    },
+    {
+      "index": 2071,
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2072,
+      "type": "OPGT",
+      "parameters": [
+        2071
+      ],
+      "target": 9.02552,
+      "weight": 2000.0
+    },
+    {
+      "index": 2073,
+      "type": "OPLT",
+      "parameters": [
+        2071
+      ],
+      "target": 9.13448,
+      "weight": 2000.0
+    },
+    {
+      "index": 2074,
+      "type": "OPGT",
+      "parameters": [
+        2071
+      ],
+      "target": 9.0,
+      "weight": 2000.0
+    },
+    {
+      "index": 2075,
+      "type": "TTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2076,
+      "type": "TTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2077,
+      "type": "TTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "index": 2078,
+      "type": "ZTHI",
+      "parameters": [
+        1,
+        15
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 2079,
+      "type": "ZTHI",
+      "parameters": [
+        7,
+        15
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    },
+    {
+      "index": 2080,
+      "type": "ZTHI",
+      "parameters": [
+        12,
+        15
+      ],
+      "target": 6.01,
+      "weight": 2000.0
+    }
+  ],
+  "largest_contributions": [
+    {
+      "index": 1,
+      "type": "CONF",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 2,
+      "type": "DMFS",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 3,
+      "type": "BLNK",
+      "value": NaN,
+      "target": NaN,
+      "weight": NaN,
+      "contribution": NaN
+    },
+    {
+      "index": 4,
+      "type": "CONF",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 5,
+      "type": "BLNK",
+      "value": NaN,
+      "target": NaN,
+      "weight": NaN,
+      "contribution": NaN
+    },
+    {
+      "index": 287,
+      "type": "DMFS",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 288,
+      "type": "BLNK",
+      "value": NaN,
+      "target": NaN,
+      "weight": NaN,
+      "contribution": NaN
+    },
+    {
+      "index": 289,
+      "type": "CONF",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 310,
+      "type": "DMFS",
+      "value": Infinity,
+      "target": Infinity,
+      "weight": Infinity,
+      "contribution": Infinity
+    },
+    {
+      "index": 280,
+      "type": "MECT",
+      "value": -9.683348614118842,
+      "target": 0.0,
+      "weight": 0.029088820866572006,
+      "contribution": 9.635298424094081
+    },
+    {
+      "index": 278,
+      "type": "MECT",
+      "value": -3.2304052132898913,
+      "target": 0.0,
+      "weight": 0.04654211338651545,
+      "contribution": 1.7157263574423334
+    },
+    {
+      "index": 6,
+      "type": "DIMX",
+      "value": 0.3,
+      "target": 0.3,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 7,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 8,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 9,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 10,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 11,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 12,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 13,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 14,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 15,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 16,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 17,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 18,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 19,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 20,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 21,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 22,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 23,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 24,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 25,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 26,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 27,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 28,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 29,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 30,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 31,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 32,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 33,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 34,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 35,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 36,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 37,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 38,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 39,
+      "type": "MNEA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 40,
+      "type": "MNCG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 41,
+      "type": "MXCG",
+      "value": 8.0,
+      "target": 8.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 42,
+      "type": "MNEG",
+      "value": 0.45,
+      "target": 0.45,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 43,
+      "type": "MNCA",
+      "value": 0.1,
+      "target": 0.1,
+      "weight": 1.0,
+      "contribution": 0.0
+    },
+    {
+      "index": 44,
+      "type": "MXCA",
+      "value": 25.0,
+      "target": 25.0,
+      "weight": 1.0,
+      "contribution": 0.0
+    }
+  ]
+}

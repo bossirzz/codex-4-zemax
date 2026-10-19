@@ -1,0 +1,15 @@
+{
+  "status": "finished",
+  "started_utc": "2026-10-15T17:21:15.519276+00:00",
+  "algorithm": "DampedLeastSquares",
+  "variables": 68,
+  "targets": 1043,
+  "cores": 8,
+  "initial_merit": 9000000000.0,
+  "source": "candidate_v31_thermal_probe",
+  "full_requirements_passed": false,
+  "elapsed_seconds": 0.00026029999935417436,
+  "succeeded": false,
+  "current_merit": 0.0,
+  "error": "Input settings are invalid"
+}

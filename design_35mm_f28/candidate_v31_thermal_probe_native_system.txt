@@ -1,0 +1,93 @@
+System/Prescription Data
+
+File : .\design_35mm_f28\candidate_v31_thermal_probe.zos
+Title: 35 mm F2.8 | optimized actual glass | WD500 | candidate
+Date : 2026/10/14
+
+
+GENERAL LENS DATA:
+
+Surfaces                : 	              16
+Stop                    : 	               6
+System Aperture         : 	Float By Stop Size = 	4.22449
+Fast Semi-Diameters     :	On 
+Field Unpolarized       :	On
+Convert thin film phase to ray equivalent :	On 
+J/E Conversion Method   :	X Axis Reference  
+Glass Catalogs          : 	SCHOTT CDGM NHG 
+Ray Aiming              :	Real Reference, Cache On
+Automatically Calculate Pupil Shifts : On
+X Pupil Shift           :               0
+Y Pupil Shift           :               0
+Z Pupil Shift           :       0.3294275
+X Pupil Compress        :               0
+Y Pupil Compress        :               0
+Apodization             : 	Uniform, factor = 	   0.00000E+00
+Reference OPD           :	Exit Pupil  
+Paraxial Rays Setting   :	Ignore Coordinate Breaks  
+Method to Compute F/#   :	Tracing Rays  
+Method to Compute Huygens Integral   : Auto
+Print Coordinate Breaks :	On
+Multi-Threading         :	On
+OPD Modulo 2 Pi         :	Off
+Temperature (C)         : 	    2.00000E+01
+Pressure (ATM)          : 	    1.00000E+00
+Adjust Index Data To Environment  :	Off
+Effective Focal Length  :	        35.04493	(in air at system temperature and pressure)
+Effective Focal Length  :	        35.04493	(in image space)
+Back Focal Length       :	        12.00428
+Total Track             :	        53.89696
+Image Space F/#         :	             2.8
+Paraxial Working F/#    :	        2.964229
+Working F/#             :	        2.970336
+Image Space NA          :	       0.1663283
+Object Space NA         :	      0.01220754
+Stop Radius             :	        4.224486
+Paraxial Image Height   :	            9.08
+Paraxial Magnification  :	     -0.07237729
+Entrance Pupil Diameter :	        12.51605
+Entrance Pupil Position :	        12.59765
+Exit Pupil Diameter     :	        15.44476
+Exit Pupil Position     :	       -45.84689
+Field Type              : 	Paraxial Image height in Millimeters
+Maximum Radial Field    :	            9.08
+Primary Wavelength [µm] :	       0.5875618
+Angular Magnification   :	         0.81038
+Lens Units              :	   Millimeters
+Source Units            :	   Watts 
+Analysis Units          :	   Watts/cm^2 
+Afocal Mode Units       :	   milliradians
+MTF Units               :	   cycles/millimeter 
+Include Calculated Data in Session File  :	On 
+Include Calculated Data in Session File  :	On 
+ 
+Fields          : 4
+Field Type              : 	Paraxial Image height in Millimeters
+ #  	   X-Value     	  Y-Value     	   Weight
+ 1 	      0.000000 	      0.000000 	      1.000000
+ 2 	      0.000000 	      3.000000 	      1.000000
+ 3 	      0.000000 	      6.300000 	      1.000000
+ 4 	      0.000000 	      9.080000 	      1.000000
+ 
+Vignetting Factors
+ #     	VDX     	VDY     	VCX     	VCY     	VAN
+ 1 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+ 2 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+ 3 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+ 4 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+ 
+Wavelengths     : 5
+Units: µm
+ #       	Value       	Weight
+ 1 	      0.486133 	      1.000000
+ 2 	      0.587562 	      1.000000
+ 3 	      0.656273 	      1.000000
+ 4 	      0.650000 	      0.000000
+ 5 	      0.850000 	      0.000000
+ 
+Predicted coordinate ABCD matrix:
+A = 	       1.001
+B = 	           0
+C = 	           0
+D = 	       1.001
+ 

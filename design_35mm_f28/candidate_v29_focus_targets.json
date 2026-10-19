@@ -1,0 +1,22 @@
+[
+  {
+    "wd": 500.0,
+    "gap": 6.821818962892501,
+    "iris_gap": 6.710884846120667,
+    "backfocus": 14.606123661938858,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "fixed_stop_radius": 4.227763504051103,
+    "nominal_fno_target": 2.8
+  },
+  {
+    "wd": 200.0,
+    "gap": 7.307985814642571,
+    "iris_gap": 6.950588359637659,
+    "backfocus": 18.034457859730686,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "fixed_stop_radius": 4.227763504051103,
+    "nominal_fno_target": 2.8
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "saved_model_diagnosis": {
+    "basis": "Saved WD500 model and native ray trace; not a measurement of the current UI",
+    "configuration": "WD500",
+    "efl_mm": 29.86664147925419,
+    "last_surface_to_current_image_mm": 14.65,
+    "paraxial_last_surface_to_finite_conjugate_focus_mm": 8.332184450306741,
+    "paraxial_image_shift_mm": -6.317815549693259,
+    "ray_wavelength_um": 0.587562,
+    "ray_normalized_pupil_y": 0.5,
+    "ray_y_at_current_image_mm": -0.5561316682,
+    "ray_axis_intersection_shift_from_current_image_mm": -6.495904302457285,
+    "ray_last_surface_to_axis_intersection_mm": 8.154095697542715,
+    "warning": "Paraxial and single-ray focus are diagnostic estimates, not optimized polychromatic best focus."
+  },
+  "live_settings_error": "ConnectionRefusedError: OpticStudio Licence is not valid for API, connection not established"
+}

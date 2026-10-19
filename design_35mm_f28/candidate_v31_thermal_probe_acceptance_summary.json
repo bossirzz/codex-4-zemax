@@ -1,0 +1,47 @@
+{
+  "candidate": "candidate_v31_thermal_probe",
+  "checks": {
+    "warm_500_mtf": true,
+    "warm_500_geometry": true,
+    "warm_500_distortion": true,
+    "warm_200_mtf": true,
+    "warm_200_geometry": true,
+    "warm_200_distortion": true,
+    "warm_800_mtf": true,
+    "warm_800_geometry": true,
+    "warm_1e+07_geometry": true,
+    "warm_infinity_cra": true,
+    "thermal_500_-20_mtf": true,
+    "thermal_500_-20_distortion": true,
+    "thermal_500_-20_geometry": true,
+    "thermal_500_60_mtf": true,
+    "thermal_500_60_distortion": true,
+    "thermal_500_60_geometry": true,
+    "thermal_200_-20_mtf": true,
+    "thermal_200_-20_distortion": true,
+    "thermal_200_-20_geometry": true,
+    "thermal_200_60_mtf": true,
+    "thermal_200_60_distortion": true,
+    "thermal_200_60_geometry": true,
+    "thermal_1e+07_-20_cra": true,
+    "thermal_1e+07_-20_geometry": true,
+    "thermal_1e+07_60_cra": true,
+    "thermal_1e+07_60_geometry": true,
+    "tested_group_strokes": true
+  },
+  "checked_subset_passed": true,
+  "complete_requirement_acceptance": false,
+  "temperature_compensation": "Active three-group compensation; assumed thin-shell spacers at 23 ppm/K",
+  "group_strokes_mm": [
+    5.749202695604346,
+    4.883598796929668,
+    5.860057541405471
+  ],
+  "missing_work": [
+    "300/2000 mm and continuous working-distance performance",
+    "850 nm refocus and colour-fringe verification",
+    "100 mm adapter",
+    "manufacturing tolerances and stray light",
+    "thermal performance over all distances"
+  ]
+}

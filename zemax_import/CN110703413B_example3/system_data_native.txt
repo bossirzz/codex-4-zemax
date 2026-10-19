@@ -1,0 +1,87 @@
+System/Prescription Data
+
+File : <ZEMAX_USER_DATA>\SAMPLES\LENS.zos
+Title: CN110703413B Ex3 | provisional ModelGlass | WD500
+Date : 2026/10/10
+Configuration 1 of 5
+
+GENERAL LENS DATA:
+
+Surfaces                : 	              17
+Stop                    : 	               7
+System Aperture         : 	Image Space F/# = 	2.8
+Fast Semi-Diameters     :	On 
+Field Unpolarized       :	On
+Convert thin film phase to ray equivalent :	On 
+J/E Conversion Method   :	X Axis Reference  
+Glass Catalogs          : 	SCHOTT 
+Ray Aiming              :	Off
+Apodization             : 	Uniform, factor = 	   0.00000E+00
+Reference OPD           :	Exit Pupil  
+Paraxial Rays Setting   :	Ignore Coordinate Breaks  
+Method to Compute F/#   :	Tracing Rays  
+Method to Compute Huygens Integral   : Auto
+Print Coordinate Breaks :	On
+Multi-Threading         :	On
+OPD Modulo 2 Pi         :	Off
+Temperature (C)         : 	    2.00000E+01
+Pressure (ATM)          : 	    1.00000E+00
+Adjust Index Data To Environment  :	Off
+Effective Focal Length  :	        29.86665	(in air at system temperature and pressure)
+Effective Focal Length  :	        29.86665	(in image space)
+Back Focal Length       :	        6.515165
+Total Track             :	          49.568
+Image Space F/#         :	             2.8
+Paraxial Working F/#    :	          2.9499
+Working F/#             :	        2.870905
+Image Space NA          :	       0.1671137
+Object Space NA         :	      0.01031116
+Stop Radius             :	        3.237858
+Paraxial Image Height   :	               9
+Paraxial Magnification  :	       -0.060837
+Entrance Pupil Diameter :	        10.66666
+Entrance Pupil Position :	        17.21118
+Exit Pupil Diameter     :	        12.12139
+Exit Pupil Position     :	       -42.07474
+Field Type              : 	Paraxial Image height in Millimeters
+Maximum Radial Field    :	               9
+Primary Wavelength [µm] :	       0.5875618
+Angular Magnification   :	       0.8799863
+Lens Units              :	   Millimeters
+Source Units            :	   Watts 
+Analysis Units          :	   Watts/cm^2 
+Afocal Mode Units       :	   milliradians
+MTF Units               :	   cycles/millimeter 
+Include Calculated Data in Session File  :	On 
+Include Calculated Data in Session File  :	On 
+ 
+Fields          : 4
+Field Type              : 	Paraxial Image height in Millimeters
+ #  	   X-Value     	  Y-Value     	   Weight
+ 1 	      0.000000 	      0.000000 	      1.000000
+ 2 	      0.000000 	      4.500000 	      1.000000
+ 3 	      0.000000 	      6.300000 	      1.000000
+ 4 	      0.000000 	      9.000000 	      1.000000
+ 
+Vignetting Factors
+ #     	VDX     	VDY     	VCX     	VCY     	VAN
+ 1 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+ 2 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+ 3 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+ 4 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+ 
+Wavelengths     : 5
+Units: µm
+ #       	Value       	Weight
+ 1 	      0.486133 	      1.000000
+ 2 	      0.587562 	      1.000000
+ 3 	      0.656273 	      1.000000
+ 4 	      0.650000 	      0.000000
+ 5 	      0.850000 	      0.000000
+ 
+Predicted coordinate ABCD matrix:
+A = 	       1.177
+B = 	           0
+C = 	           0
+D = 	       1.177
+ 

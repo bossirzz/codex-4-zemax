@@ -1,0 +1,31 @@
+{
+  "method": "Independent reduced-angle ABCD and thick-lens lensmaker calculations at Nd",
+  "source": "CN110703413B Table7 and Table8; no original or live model modified",
+  "published_system_efl_mm": 35.0,
+  "published_lens7_efl_mm": -41.7,
+  "published_lens8_efl_mm": 37.19,
+  "published_ratio": -1.12,
+  "calculated_system": {
+    "efl_mm": 29.86664147925419,
+    "bfl_infinite_mm": 6.51518773289424,
+    "last_surface_to_paraxial_focus_WD500_mm": 8.332184450306741
+  },
+  "calculated_lens7_efl_mm": -41.90426043008894,
+  "calculated_lens8_efl_mm": 48.52580664459626,
+  "current_ui": {
+    "configuration": 1,
+    "image_distance_mm_displayed": 7.634,
+    "efl_mm_displayed": 29.8666,
+    "basis": "UI text and screenshot captured during this diagnosis",
+    "image_distance_minus_paraxial_focus_mm": -0.6981844503067407,
+    "warning": "Near-axis focus is not polychromatic best focus; spherical and chromatic aberration may change the best plane."
+  },
+  "calculated_ratio": -0.8635458805867232,
+  "nd_rounding_corner_check": {
+    "rounding_half_range": 0.005,
+    "corners": 256,
+    "minimum_efl_mm": 29.214419229197727,
+    "maximum_efl_mm": 30.57543771008958,
+    "scope": "Nd rounding only; corner check, not a full continuous interval proof"
+  }
+}

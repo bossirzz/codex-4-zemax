@@ -1,0 +1,70 @@
+{
+  "frequency_before": "250",
+  "lens_parameters_modified": false,
+  "selections_before": [
+    {
+      "selected": [
+        "512 x 512"
+      ],
+      "position": "491,278,125,23"
+    },
+    {
+      "selected": [
+        "All"
+      ],
+      "position": "781,277,125,25"
+    },
+    {
+      "selected": [
+        "All"
+      ],
+      "position": "781,302,125,25"
+    },
+    {
+      "selected": [
+        "Modulation"
+      ],
+      "position": "491,328,125,23"
+    },
+    {
+      "selected": [
+        "Image"
+      ],
+      "position": "781,327,125,25"
+    }
+  ],
+  "frequency_after": "250",
+  "sampling_requested": 1024,
+  "selections_after": [
+    {
+      "selected": [
+        "1024 x 1024"
+      ],
+      "position": "491,278,125,23"
+    },
+    {
+      "selected": [
+        "All"
+      ],
+      "position": "781,277,125,25"
+    },
+    {
+      "selected": [
+        "All"
+      ],
+      "position": "781,302,125,25"
+    },
+    {
+      "selected": [
+        "Modulation"
+      ],
+      "position": "491,328,125,23"
+    },
+    {
+      "selected": [
+        "Image"
+      ],
+      "position": "781,327,125,25"
+    }
+  ]
+}

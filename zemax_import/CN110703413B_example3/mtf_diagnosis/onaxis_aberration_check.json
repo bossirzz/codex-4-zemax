@@ -1,0 +1,34 @@
+{
+  "method": "Independent on-axis spherical refraction at published Nd; pupil launch validated against native Zemax",
+  "configuration": "WD500",
+  "native_half_pupil_image_y_mm": -0.5561316682,
+  "independent_half_pupil_image_y_mm": -0.5561297902823626,
+  "validation_absolute_error_mm": 1.8779176373939777e-06,
+  "scope": "Monochromatic on-axis estimate, ignoring clipping; not a polychromatic MTF or full design verification",
+  "geometric_best_focus_last_surface_distance_mm": 7.849482151684084,
+  "rms_spot_radius_at_geometric_best_focus_um": 20.950443318089512,
+  "rms_spot_radius_at_current_ui_7_634mm_um": 33.828010389551665,
+  "rms_spot_radius_at_original_14_65mm_um": 838.4710814772577,
+  "ray_axis_intersections_last_surface_distance_mm": [
+    {
+      "normalized_pupil_radius": 0.05,
+      "focus_distance_mm": 8.330410709686308
+    },
+    {
+      "normalized_pupil_radius": 0.25,
+      "focus_distance_mm": 8.287800534047832
+    },
+    {
+      "normalized_pupil_radius": 0.5,
+      "focus_distance_mm": 8.154118383141657
+    },
+    {
+      "normalized_pupil_radius": 0.75,
+      "focus_distance_mm": 7.92933672681055
+    },
+    {
+      "normalized_pupil_radius": 1.0,
+      "focus_distance_mm": 7.609623281515693
+    }
+  ]
+}

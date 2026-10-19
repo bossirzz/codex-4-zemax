@@ -1,0 +1,16 @@
+{
+  "status": "finished",
+  "started_utc": "2026-10-15T17:32:05.073894+00:00",
+  "algorithm": "DampedLeastSquares",
+  "variables": 68,
+  "targets": 1892,
+  "cores": 8,
+  "initial_merit": 0.01184297342626591,
+  "source": "candidate_v31_thermal_probe",
+  "full_requirements_passed": false,
+  "elapsed_seconds": 162.2641669999939,
+  "progress": 0.0,
+  "current_merit": 0.01007329187442493,
+  "succeeded": true,
+  "error": "None"
+}

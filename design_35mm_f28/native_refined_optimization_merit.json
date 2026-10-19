@@ -1,0 +1,809 @@
+{
+  "variables": [
+    [
+      1,
+      "Par2"
+    ],
+    [
+      1,
+      "Par3"
+    ],
+    [
+      1,
+      "Par4"
+    ],
+    [
+      10,
+      "Par2"
+    ],
+    [
+      10,
+      "Par3"
+    ],
+    [
+      10,
+      "Par4"
+    ],
+    [
+      15,
+      "Par2"
+    ],
+    [
+      15,
+      "Par3"
+    ],
+    [
+      15,
+      "Par4"
+    ],
+    [
+      15,
+      "Thickness"
+    ],
+    [
+      1,
+      "Radius"
+    ],
+    [
+      1,
+      "Thickness"
+    ],
+    [
+      2,
+      "Radius"
+    ],
+    [
+      2,
+      "Thickness"
+    ],
+    [
+      3,
+      "Radius"
+    ],
+    [
+      3,
+      "Thickness"
+    ],
+    [
+      4,
+      "Radius"
+    ],
+    [
+      4,
+      "Thickness"
+    ],
+    [
+      5,
+      "Radius"
+    ],
+    [
+      5,
+      "Thickness"
+    ],
+    [
+      6,
+      "Thickness"
+    ],
+    [
+      7,
+      "Radius"
+    ],
+    [
+      7,
+      "Thickness"
+    ],
+    [
+      8,
+      "Radius"
+    ],
+    [
+      8,
+      "Thickness"
+    ],
+    [
+      9,
+      "Radius"
+    ],
+    [
+      9,
+      "Thickness"
+    ],
+    [
+      10,
+      "Radius"
+    ],
+    [
+      10,
+      "Thickness"
+    ],
+    [
+      11,
+      "Radius"
+    ],
+    [
+      11,
+      "Thickness"
+    ],
+    [
+      12,
+      "Radius"
+    ],
+    [
+      12,
+      "Thickness"
+    ],
+    [
+      13,
+      "Radius"
+    ],
+    [
+      13,
+      "Thickness"
+    ],
+    [
+      14,
+      "Radius"
+    ],
+    [
+      14,
+      "Thickness"
+    ],
+    [
+      15,
+      "Radius"
+    ],
+    [
+      15,
+      "Thickness"
+    ]
+  ],
+  "operands": [
+    {
+      "type": "MTFT",
+      "parameters": [
+        4,
+        0,
+        1,
+        225,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 30
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        4,
+        0,
+        2,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 20
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        4,
+        0,
+        2,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 20
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        4,
+        0,
+        3,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 20
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        4,
+        0,
+        3,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 20
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        4,
+        0,
+        4,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 20
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        4,
+        0,
+        4,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 20
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        4,
+        0,
+        1,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 2.0
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        4,
+        0,
+        1,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 2.0
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        4,
+        0,
+        3,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 2.0
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        4,
+        0,
+        3,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 2.0
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        4,
+        0,
+        4,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 2.0
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        4,
+        0,
+        4,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 2.0
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        1,
+        0,
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        1
+      ],
+      "target": 0.65,
+      "weight": 1000
+    },
+    {
+      "type": "CTLT",
+      "parameters": [
+        1
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        3,
+        0,
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        3
+      ],
+      "target": 0.65,
+      "weight": 1000
+    },
+    {
+      "type": "CTLT",
+      "parameters": [
+        3
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        4,
+        0,
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        4
+      ],
+      "target": 0.65,
+      "weight": 1000
+    },
+    {
+      "type": "CTLT",
+      "parameters": [
+        4
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        7,
+        0,
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        7
+      ],
+      "target": 0.65,
+      "weight": 1000
+    },
+    {
+      "type": "CTLT",
+      "parameters": [
+        7
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        8,
+        0,
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        8
+      ],
+      "target": 0.65,
+      "weight": 1000
+    },
+    {
+      "type": "CTLT",
+      "parameters": [
+        8
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        10,
+        0,
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        10
+      ],
+      "target": 0.65,
+      "weight": 1000
+    },
+    {
+      "type": "CTLT",
+      "parameters": [
+        10
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        12,
+        0,
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        12
+      ],
+      "target": 0.65,
+      "weight": 1000
+    },
+    {
+      "type": "CTLT",
+      "parameters": [
+        12
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        14,
+        0,
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        14
+      ],
+      "target": 0.65,
+      "weight": 1000
+    },
+    {
+      "type": "CTLT",
+      "parameters": [
+        14
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        2
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        5
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        6
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        9
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        11
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        13
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        2,
+        0,
+        1
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        9,
+        0,
+        1
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        11,
+        0,
+        1
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        13,
+        0,
+        1
+      ],
+      "target": 0.1,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        15
+      ],
+      "target": 8.0,
+      "weight": 1000
+    },
+    {
+      "type": "EFFL",
+      "parameters": [
+        0,
+        2
+      ],
+      "target": 35.0,
+      "weight": 1000
+    },
+    {
+      "type": "TOTR",
+      "parameters": [
+        1,
+        16
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "OPLT",
+      "parameters": [
+        50
+      ],
+      "target": 59.5,
+      "weight": 1000
+    },
+    {
+      "type": "TTHI",
+      "parameters": [
+        5,
+        5
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "SAGY",
+      "parameters": [
+        5
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "DIFF",
+      "parameters": [
+        52,
+        53
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "OPGT",
+      "parameters": [
+        54
+      ],
+      "target": 0.3,
+      "weight": 1000
+    },
+    {
+      "type": "TTHI",
+      "parameters": [
+        6,
+        6
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "SAGY",
+      "parameters": [
+        7
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "SUMM",
+      "parameters": [
+        56,
+        57
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "OPGT",
+      "parameters": [
+        58
+      ],
+      "target": 0.3,
+      "weight": 1000
+    },
+    {
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.3303964757709251,
+        0.0,
+        0.0
+      ],
+      "target": 3.0,
+      "weight": 30.0
+    },
+    {
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        0.6938325991189427,
+        0.0,
+        0.0
+      ],
+      "target": 6.3,
+      "weight": 30.0
+    },
+    {
+      "type": "REAY",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 9.08,
+      "weight": 30.0
+    },
+    {
+      "type": "RANG",
+      "parameters": [
+        16,
+        2,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "OPLT",
+      "parameters": [
+        63
+      ],
+      "target": 0.16057029118347832,
+      "weight": 1000
+    },
+    {
+      "type": "RELI",
+      "parameters": [
+        20,
+        2,
+        4,
+        0
+      ],
+      "target": 0.0,
+      "weight": 0.0
+    },
+    {
+      "type": "OPGT",
+      "parameters": [
+        65
+      ],
+      "target": 0.8,
+      "weight": 1000
+    }
+  ],
+  "final_merit": 0.01474367815502478
+}

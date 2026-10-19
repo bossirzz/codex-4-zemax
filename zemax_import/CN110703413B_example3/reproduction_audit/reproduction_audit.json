@@ -1,0 +1,1424 @@
+{
+  "status": "Diagnostic complete; faithful patent reproduction is not established",
+  "source": "CN110703413B, source PDF Tables7/8/9 and Figures9/14/17",
+  "methods": [
+    "Reduced-angle ABCD at d-line",
+    "Thick-lens lensmaker formula",
+    "Independent on-axis Snell trace, calibrated and validated against saved native Zemax half-pupil ray"
+  ],
+  "api_or_live_lens_mutations": false,
+  "saved_lens_sha256_before": "2a119c89cbb7ab8f3b1d29c68daa9b1b86f440334238c2f048eeb3d982e10851",
+  "saved_lens_sha256_after": "2a119c89cbb7ab8f3b1d29c68daa9b1b86f440334238c2f048eeb3d982e10851",
+  "native_ray_validation_absolute_error_mm": 1.8779176373939777e-06,
+  "native_launch_over_paraxial_launch_calibration": 1.0000000887137814,
+  "baseline": {
+    "efl_mm": 29.86664147925419,
+    "bfl_infinite_mm": 6.51518773289424,
+    "matrix": [
+      [
+        0.21814263037977621,
+        27.88785668506699
+      ],
+      [
+        -0.033482171093613414,
+        0.3037187684088684
+      ]
+    ],
+    "matrix_determinant": 1.0,
+    "paraxial_focus_from_last_vertex_mm": 8.332184450306741,
+    "published_image_distance_mm": 14.65,
+    "published_image_minus_paraxial_focus_mm": 6.317815549693259,
+    "wd_required_for_published_image_mm": 118.72525243066931,
+    "entrance_pupil_position_mm": 17.211156357478842
+  },
+  "scenarios": [
+    {
+      "scenario": "published_table7",
+      "changes": [],
+      "paraxial": {
+        "efl_mm": 29.86664147925419,
+        "bfl_infinite_mm": 6.51518773289424,
+        "matrix": [
+          [
+            0.21814263037977621,
+            27.88785668506699
+          ],
+          [
+            -0.033482171093613414,
+            0.3037187684088684
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 8.332184450306741,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.317815549693259,
+        "wd_required_for_published_image_mm": 118.72525243066931,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "L8_focal_mm": 48.52580664459626,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.010311705853913673,
+        "geometric_best_focus_from_last_vertex_mm": 7.849482835055998,
+        "rms_at_geometric_best_focus_um": 20.950344703455603,
+        "rms_at_source_14_65mm_um": 838.4705881559282,
+        "rms_at_current_ui_7_634mm_um": 33.82800532782191,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 8.330410709686312
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 8.28780053404784
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 8.154118383141665
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 7.929336726810514
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 7.609623281515687
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.7207874281706248
+      }
+    },
+    {
+      "scenario": "domestic_catalog_Nd",
+      "changes": [
+        {
+          "lens": "L1",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "d",
+          "index": 1.7724999642194605
+        },
+        {
+          "lens": "L2",
+          "catalog": "CDGM",
+          "name": "H-ZPK5",
+          "wave": "d",
+          "index": 1.5927999667494963
+        },
+        {
+          "lens": "L3",
+          "catalog": "CDGM",
+          "name": "H-QF3",
+          "wave": "d",
+          "index": 1.5750100644611542
+        },
+        {
+          "lens": "L4",
+          "catalog": "CDGM",
+          "name": "H-ZF4A",
+          "wave": "d",
+          "index": 1.7282500362635431
+        },
+        {
+          "lens": "L5",
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "wave": "d",
+          "index": 1.8027842901585311
+        },
+        {
+          "lens": "L6",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "d",
+          "index": 1.7724999642194605
+        },
+        {
+          "lens": "L7",
+          "catalog": "CDGM",
+          "name": "H-ZF12",
+          "wave": "d",
+          "index": 1.761819963819777
+        },
+        {
+          "lens": "L8",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "d",
+          "index": 1.7724999642194605
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.966654885224308,
+        "bfl_infinite_mm": 6.602572080085943,
+        "matrix": [
+          [
+            0.2203306343458936,
+            27.94852971225733
+          ],
+          [
+            -0.03337042468804455,
+            0.30565742387786476
+          ]
+        ],
+        "matrix_determinant": 1.0000000000000002,
+        "paraxial_focus_from_last_vertex_mm": 8.432087902177653,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.217912097822348,
+        "wd_required_for_published_image_mm": 120.74802985955687,
+        "entrance_pupil_position_mm": 17.223610041317137
+      },
+      "L8_focal_mm": 48.36802876030264,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.010345987196249943,
+        "geometric_best_focus_from_last_vertex_mm": 7.947409338590138,
+        "rms_at_geometric_best_focus_um": 21.040093757212553,
+        "rms_at_source_14_65mm_um": 826.2724914589501,
+        "rms_at_current_ui_7_634mm_um": 43.982504432392425,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 8.430307904217331
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 8.38754576310147
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 8.253365200543005
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 8.02766216351754
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 7.706419498180893
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.7238884060364379
+      }
+    },
+    {
+      "scenario": "nearest_ordinary_catalog_Nd",
+      "changes": [
+        {
+          "lens": "L1",
+          "catalog": "OHARA",
+          "name": "S-LAH66N",
+          "wave": "d",
+          "index": 1.772498392759422
+        },
+        {
+          "lens": "L2",
+          "catalog": "SUMITA",
+          "name": "K-GFK68",
+          "wave": "d",
+          "index": 1.5923994219218724
+        },
+        {
+          "lens": "L3",
+          "catalog": "OHARA",
+          "name": "S-TIL27",
+          "wave": "d",
+          "index": 1.5750058719309001
+        },
+        {
+          "lens": "L4",
+          "catalog": "LZOS",
+          "name": "LZ_TF7",
+          "wave": "d",
+          "index": 1.7282196531084066
+        },
+        {
+          "lens": "L5",
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "wave": "d",
+          "index": 1.8027842901585311
+        },
+        {
+          "lens": "L6",
+          "catalog": "OHARA",
+          "name": "S-LAH66N",
+          "wave": "d",
+          "index": 1.772498392759422
+        },
+        {
+          "lens": "L7",
+          "catalog": "SUMITA",
+          "name": "K-SFLD14",
+          "wave": "d",
+          "index": 1.7618212081432465
+        },
+        {
+          "lens": "L8",
+          "catalog": "OHARA",
+          "name": "S-LAH66N",
+          "wave": "d",
+          "index": 1.772498392759422
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.975025180381976,
+        "bfl_infinite_mm": 6.6236967044901665,
+        "matrix": [
+          [
+            0.22097384955076657,
+            27.95054149462824
+          ],
+          [
+            -0.033361106253698126,
+            0.3056425703159611
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 8.454242592169708,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.195757407830293,
+        "wd_required_for_published_image_mm": 121.10634623816773,
+        "entrance_pupil_position_mm": 17.219764644851995
+      },
+      "L8_focal_mm": 48.368127616957615,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.010348953981790544,
+        "geometric_best_focus_from_last_vertex_mm": 7.969075528633295,
+        "rms_at_geometric_best_focus_um": 21.062650918396812,
+        "rms_at_source_14_65mm_um": 823.614973662429,
+        "rms_at_current_ui_7_634mm_um": 46.35558703649033,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 8.452460940218844
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 8.409658872969214
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 8.275350371642316
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 8.049420684823419
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 7.727820260527443
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.7246406796914009
+      }
+    },
+    {
+      "scenario": "stop_after_L3_1mm",
+      "changes": [
+        {
+          "parameter": "L3R2_to_stop_mm",
+          "value": 1.0,
+          "total_L3_L4_gap_mm": 8.76
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.86664147925419,
+        "bfl_infinite_mm": 6.515187732894236,
+        "matrix": [
+          [
+            0.2181426303797761,
+            27.88785668506699
+          ],
+          [
+            -0.033482171093613414,
+            0.3037187684088684
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 8.332184450306737,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.317815549693263,
+        "wd_required_for_published_image_mm": 118.72525243066927,
+        "entrance_pupil_position_mm": 9.056290758960255
+      },
+      "L8_focal_mm": 48.52580664459626,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.01047689500265153,
+        "geometric_best_focus_from_last_vertex_mm": 7.833519476425332,
+        "rms_at_geometric_best_focus_um": 22.009127971343588,
+        "rms_at_source_14_65mm_um": 854.7343747002706,
+        "rms_at_current_ui_7_634mm_um": 33.3151262788029,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 8.330353423135033
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 8.286365700752786
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 8.148343096132455
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 7.916185433169922
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 7.5857511419992365
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.7446022811357969
+      }
+    },
+    {
+      "scenario": "stop_after_L3_7_76mm",
+      "changes": [
+        {
+          "parameter": "L3R2_to_stop_mm",
+          "value": 7.76,
+          "total_L3_L4_gap_mm": 8.76
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.86664147925419,
+        "bfl_infinite_mm": 6.515187732894236,
+        "matrix": [
+          [
+            0.2181426303797761,
+            27.88785668506699
+          ],
+          [
+            -0.033482171093613414,
+            0.3037187684088684
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 8.332184450306737,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.317815549693263,
+        "wd_required_for_published_image_mm": 118.72525243066927,
+        "entrance_pupil_position_mm": 27.686462643183976
+      },
+      "L8_focal_mm": 48.52580664459626,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.010107004227484258,
+        "geometric_best_focus_from_last_vertex_mm": 7.86887647974218,
+        "rms_at_geometric_best_focus_um": 19.68867340375271,
+        "rms_at_source_14_65mm_um": 818.5156420282124,
+        "rms_at_current_ui_7_634mm_um": 34.510070340446156,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 8.330480435617835
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 8.28954681491219
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 8.161145585243913
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 7.94533056382821
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 7.63862468951126
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.6918557461065751
+      }
+    },
+    {
+      "scenario": "L6R1_minus115_9_hypothesis",
+      "changes": [
+        {
+          "parameter": "L6R1",
+          "source": -1159,
+          "hypothesis": -115.9
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 32.71211709707662,
+        "bfl_infinite_mm": 8.292877501879914,
+        "matrix": [
+          [
+            0.25351087724679927,
+            29.25785482231617
+          ],
+          [
+            -0.03056971204377863,
+            0.41653361863568134
+          ]
+        ],
+        "matrix_determinant": 1.0000000000000004,
+        "paraxial_focus_from_last_vertex_mm": 10.492999089902398,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 4.157000910097603,
+        "wd_required_for_published_image_mm": 181.95383636801657,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "L8_focal_mm": 48.52580664459626,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.011294129927469095,
+        "geometric_best_focus_from_last_vertex_mm": 9.953438187898065,
+        "rms_at_geometric_best_focus_um": 22.944335221134452,
+        "rms_at_source_14_65mm_um": 574.4868571387692,
+        "rms_at_current_ui_7_634mm_um": 284.4159878104163,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 10.490981127902275
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 10.442568235279934
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 10.291504137367596
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 10.040506094962456
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 9.690846977800263
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.8001341501020125
+      }
+    },
+    {
+      "scenario": "L6R1_plus1159_hypothesis",
+      "changes": [
+        {
+          "parameter": "L6R1",
+          "source": -1159,
+          "hypothesis": 1159.0
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.30026494697456,
+        "bfl_infinite_mm": 6.161348198820989,
+        "matrix": [
+          [
+            0.21028301996488216,
+            27.583412654567177
+          ],
+          [
+            -0.03412938421579892,
+            0.2786488016917989
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 7.906861683594318,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.743138316405682,
+        "wd_required_for_published_image_mm": 109.30015827033087,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "L8_focal_mm": 48.52580664459626,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.010116159655407091,
+        "geometric_best_focus_from_last_vertex_mm": 7.4376461796561175,
+        "rms_at_geometric_best_focus_um": 20.43089061637705,
+        "rms_at_source_14_65mm_um": 890.6144390902828,
+        "rms_at_current_ui_7_634mm_um": 31.701936986156824,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 7.905141607162342
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 7.863812704192964
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 7.734050265392128
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 7.51550365477051
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 7.203837871169591
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.7013037359927514
+      }
+    },
+    {
+      "scenario": "L8R2_minus242_95_hypothesis",
+      "changes": [
+        {
+          "parameter": "L8R2",
+          "source": 242.95,
+          "hypothesis": -242.95
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 28.68212246246843,
+        "bfl_infinite_mm": 6.256793638837728,
+        "matrix": [
+          [
+            0.21814263037977621,
+            27.88785668506699
+          ],
+          [
+            -0.03486492330923331,
+            0.12694453792933286
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 7.914191234591218,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.735808765408782,
+        "wd_required_for_published_image_mm": 101.6565186307627,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "L8_focal_mm": 37.590156786054834,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.009902740832254104,
+        "geometric_best_focus_from_last_vertex_mm": 7.497621078370125,
+        "rms_at_geometric_best_focus_um": 18.23736156212641,
+        "rms_at_source_14_65mm_um": 888.5930914562874,
+        "rms_at_current_ui_7_634mm_um": 24.89092310690217,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 7.9126581476867965
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 7.875830318927567
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 7.760307383735123
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 7.566150575554222
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 7.290316319300591
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.6223418283862054
+      }
+    },
+    {
+      "scenario": "L8_Nd_fitted_to_f8_only",
+      "changes": [
+        {
+          "parameter": "L8_Nd",
+          "source": 1.77,
+          "hypothesis": 2.003436104950318,
+          "scope": "Fits only Table8 f8; not evidence of the original glass"
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 28.26830136854203,
+        "bfl_infinite_mm": 6.303274474185637,
+        "matrix": [
+          [
+            0.2229803054668203,
+            27.432481410131242
+          ],
+          [
+            -0.03537531268549569,
+            0.13260091430792062
+          ]
+        ],
+        "matrix_determinant": 1.0000000000000002,
+        "paraxial_focus_from_last_vertex_mm": 7.913540046047416,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.7364599539525845,
+        "wd_required_for_published_image_mm": 99.48616944678031,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "L8_focal_mm": 37.19000000000001,
+      "onaxis": {
+        "scope": "Monochromatic on-axis geometric estimate at Nd, uniform paraxial entrance pupil, ignoring clipping; not polychromatic MTF",
+        "image_space_f_number": 2.8,
+        "wd_mm": 500,
+        "rays": 600,
+        "input_marginal_tan": 0.009759865664998424,
+        "geometric_best_focus_from_last_vertex_mm": 7.520985191985136,
+        "rms_at_geometric_best_focus_um": 17.178757312746527,
+        "rms_at_source_14_65mm_um": 884.831004084398,
+        "rms_at_current_ui_7_634mm_um": 22.17641784397766,
+        "axis_intersections": [
+          {
+            "normalized_pupil_radius": 0.05,
+            "focus_from_last_vertex_mm": 7.9120956454350155
+          },
+          {
+            "normalized_pupil_radius": 0.25,
+            "focus_from_last_vertex_mm": 7.877396835227791
+          },
+          {
+            "normalized_pupil_radius": 0.5,
+            "focus_from_last_vertex_mm": 7.768535809385803
+          },
+          {
+            "normalized_pupil_radius": 0.75,
+            "focus_from_last_vertex_mm": 7.585527820357276
+          },
+          {
+            "normalized_pupil_radius": 1.0,
+            "focus_from_last_vertex_mm": 7.3254664070274735
+          }
+        ],
+        "axial_intersection_spread_nearaxis_to_marginal_mm": 0.586629238407542
+      }
+    }
+  ],
+  "source_configurations": [
+    {
+      "configuration": {
+        "name": "WD500_source",
+        "object_mm": 500,
+        "gap_mm": 3.13
+      },
+      "paraxial": {
+        "efl_mm": 29.86664147925419,
+        "bfl_infinite_mm": 6.51518773289424,
+        "matrix": [
+          [
+            0.21814263037977621,
+            27.88785668506699
+          ],
+          [
+            -0.033482171093613414,
+            0.3037187684088684
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 8.332184450306741,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.317815549693259,
+        "wd_required_for_published_image_mm": 118.72525243066931,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "track_to_source_image_mm": 49.568
+    },
+    {
+      "configuration": {
+        "name": "WD150_source",
+        "object_mm": 150,
+        "gap_mm": 7.71
+      },
+      "paraxial": {
+        "efl_mm": 29.624998009074066,
+        "bfl_infinite_mm": 1.0789941182528324,
+        "matrix": [
+          [
+            0.03642174483597734,
+            29.295005407563075
+          ],
+          [
+            -0.03375527653010145,
+            0.3058335499041868
+          ]
+        ],
+        "matrix_determinant": 1.0000000000000004,
+        "paraxial_focus_from_last_vertex_mm": 7.306058749699024,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 7.343941250300976,
+        "wd_required_for_published_image_mm": 73.73058038523872,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "track_to_source_image_mm": 54.148
+    },
+    {
+      "configuration": {
+        "name": "WD300_source",
+        "object_mm": 300,
+        "gap_mm": 4.88
+      },
+      "paraxial": {
+        "efl_mm": 29.773846548829734,
+        "bfl_infinite_mm": 4.427603045136979,
+        "matrix": [
+          [
+            0.14870779420037705,
+            28.425522681653923
+          ],
+          [
+            -0.03358652360755534,
+            0.3045268181068614
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 7.474633596850182,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 7.175366403149819,
+        "wd_required_for_published_image_mm": 95.78651160180944,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "track_to_source_image_mm": 51.318
+    },
+    {
+      "configuration": {
+        "name": "WD1000_source",
+        "object_mm": 1000,
+        "gap_mm": 1.88
+      },
+      "paraxial": {
+        "efl_mm": 29.93327849744086,
+        "bfl_infinite_mm": 8.014304313595098,
+        "matrix": [
+          [
+            0.26773894193648984,
+            27.50380954464775
+          ],
+          [
+            -0.03340763358365489,
+            0.30314159005315944
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 8.918510259520087,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 5.731489740479914,
+        "wd_required_for_published_image_mm": 144.1014858192088,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "track_to_source_image_mm": 48.318
+    },
+    {
+      "configuration": {
+        "name": "Infinity_source",
+        "object_mm": "Infinity",
+        "gap_mm": 0.79
+      },
+      "paraxial": {
+        "efl_mm": 29.991629148882907,
+        "bfl_infinite_mm": 9.327004543164648,
+        "matrix": [
+          [
+            0.31098692561394414,
+            27.168920438202175
+          ],
+          [
+            -0.033342636874971056,
+            0.30263829052698105
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 9.327004543164648,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 5.322995456835352,
+        "wd_required_for_published_image_mm": 178.06000570515434,
+        "entrance_pupil_position_mm": 17.211156357478842
+      },
+      "track_to_source_image_mm": 47.228
+    }
+  ],
+  "catalog_spectral_paraxial_check": [
+    {
+      "wavelength": "F",
+      "glass_indices": [
+        {
+          "lens": "L1",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "F",
+          "index": 1.7833730595066908
+        },
+        {
+          "lens": "L2",
+          "catalog": "CDGM",
+          "name": "H-ZPK5",
+          "wave": "F",
+          "index": 1.598845219041491
+        },
+        {
+          "lens": "L3",
+          "catalog": "CDGM",
+          "name": "H-QF3",
+          "wave": "F",
+          "index": 1.5847638885260236
+        },
+        {
+          "lens": "L4",
+          "catalog": "CDGM",
+          "name": "H-ZF4A",
+          "wave": "F",
+          "index": 1.7465439025401663
+        },
+        {
+          "lens": "L5",
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "wave": "F",
+          "index": 1.8148074607652072
+        },
+        {
+          "lens": "L6",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "F",
+          "index": 1.7833730595066908
+        },
+        {
+          "lens": "L7",
+          "catalog": "CDGM",
+          "name": "H-ZF12",
+          "wave": "F",
+          "index": 1.7822240799102689
+        },
+        {
+          "lens": "L8",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "F",
+          "index": 1.7833730595066908
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 30.008740439511573,
+        "bfl_infinite_mm": 6.548911526015213,
+        "matrix": [
+          [
+            0.21823346898600468,
+            27.99923914004807
+          ],
+          [
+            -0.033323624562506836,
+            0.30684508280205947
+          ]
+        ],
+        "matrix_determinant": 0.9999999999999998,
+        "paraxial_focus_from_last_vertex_mm": 8.383751062859595,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.266248937140405,
+        "wd_required_for_published_image_mm": 120.36896123371814,
+        "entrance_pupil_position_mm": 17.29430246835358
+      }
+    },
+    {
+      "wavelength": "d",
+      "glass_indices": [
+        {
+          "lens": "L1",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "d",
+          "index": 1.7724999642194605
+        },
+        {
+          "lens": "L2",
+          "catalog": "CDGM",
+          "name": "H-ZPK5",
+          "wave": "d",
+          "index": 1.5927999667494963
+        },
+        {
+          "lens": "L3",
+          "catalog": "CDGM",
+          "name": "H-QF3",
+          "wave": "d",
+          "index": 1.5750100644611542
+        },
+        {
+          "lens": "L4",
+          "catalog": "CDGM",
+          "name": "H-ZF4A",
+          "wave": "d",
+          "index": 1.7282500362635431
+        },
+        {
+          "lens": "L5",
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "wave": "d",
+          "index": 1.8027842901585311
+        },
+        {
+          "lens": "L6",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "d",
+          "index": 1.7724999642194605
+        },
+        {
+          "lens": "L7",
+          "catalog": "CDGM",
+          "name": "H-ZF12",
+          "wave": "d",
+          "index": 1.761819963819777
+        },
+        {
+          "lens": "L8",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "d",
+          "index": 1.7724999642194605
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.966654885224308,
+        "bfl_infinite_mm": 6.602572080085943,
+        "matrix": [
+          [
+            0.2203306343458936,
+            27.94852971225733
+          ],
+          [
+            -0.03337042468804455,
+            0.30565742387786476
+          ]
+        ],
+        "matrix_determinant": 1.0000000000000002,
+        "paraxial_focus_from_last_vertex_mm": 8.432087902177653,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.217912097822348,
+        "wd_required_for_published_image_mm": 120.74802985955687,
+        "entrance_pupil_position_mm": 17.223610041317137
+      }
+    },
+    {
+      "wavelength": "C",
+      "glass_indices": [
+        {
+          "lens": "L1",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "C",
+          "index": 1.7677981482893248
+        },
+        {
+          "lens": "L2",
+          "catalog": "CDGM",
+          "name": "H-ZPK5",
+          "wave": "C",
+          "index": 1.590171200699445
+        },
+        {
+          "lens": "L3",
+          "catalog": "CDGM",
+          "name": "H-QF3",
+          "wave": "C",
+          "index": 1.5709097985030156
+        },
+        {
+          "lens": "L4",
+          "catalog": "CDGM",
+          "name": "H-ZF4A",
+          "wave": "C",
+          "index": 1.7208277665530738
+        },
+        {
+          "lens": "L5",
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "wave": "C",
+          "index": 1.7976274878431004
+        },
+        {
+          "lens": "L6",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "C",
+          "index": 1.7677981482893248
+        },
+        {
+          "lens": "L7",
+          "catalog": "CDGM",
+          "name": "H-ZF12",
+          "wave": "C",
+          "index": 1.7535928271418524
+        },
+        {
+          "lens": "L8",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "C",
+          "index": 1.7677981482893248
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.96675876680573,
+        "bfl_infinite_mm": 6.640980553944996,
+        "matrix": [
+          [
+            0.2216115731976069,
+            27.935143682470606
+          ],
+          [
+            -0.03337030900744938,
+            0.30592095065362973
+          ]
+        ],
+        "matrix_determinant": 1.0,
+        "paraxial_focus_from_last_vertex_mm": 8.470538614138054,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.179461385861947,
+        "wd_required_for_published_image_mm": 121.2918756878416,
+        "entrance_pupil_position_mm": 17.192401907405614
+      }
+    },
+    {
+      "wavelength": "650nm",
+      "glass_indices": [
+        {
+          "lens": "L1",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "650nm",
+          "index": 1.7681697632550866
+        },
+        {
+          "lens": "L2",
+          "catalog": "CDGM",
+          "name": "H-ZPK5",
+          "wave": "650nm",
+          "index": 1.590379065813093
+        },
+        {
+          "lens": "L3",
+          "catalog": "CDGM",
+          "name": "H-QF3",
+          "wave": "650nm",
+          "index": 1.5712312515859097
+        },
+        {
+          "lens": "L4",
+          "catalog": "CDGM",
+          "name": "H-ZF4A",
+          "wave": "650nm",
+          "index": 1.7214029813466918
+        },
+        {
+          "lens": "L5",
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "wave": "650nm",
+          "index": 1.7980337219005371
+        },
+        {
+          "lens": "L6",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "650nm",
+          "index": 1.7681697632550866
+        },
+        {
+          "lens": "L7",
+          "catalog": "CDGM",
+          "name": "H-ZF12",
+          "wave": "650nm",
+          "index": 1.7542292579897576
+        },
+        {
+          "lens": "L8",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "650nm",
+          "index": 1.7681697632550866
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.966331939171308,
+        "bfl_infinite_mm": 6.637605002638382,
+        "matrix": [
+          [
+            0.22150208494359816,
+            27.936006606561683
+          ],
+          [
+            -0.03337078431987943,
+            0.30588221682407996
+          ]
+        ],
+        "matrix_determinant": 1.0000000000000002,
+        "paraxial_focus_from_last_vertex_mm": 8.46710613199093,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.182893868009071,
+        "wd_required_for_published_image_mm": 121.24015468362622,
+        "entrance_pupil_position_mm": 17.194880361670744
+      }
+    },
+    {
+      "wavelength": "850nm",
+      "glass_indices": [
+        {
+          "lens": "L1",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "850nm",
+          "index": 1.7596648342039398
+        },
+        {
+          "lens": "L2",
+          "catalog": "CDGM",
+          "name": "H-ZPK5",
+          "wave": "850nm",
+          "index": 1.5856370116590286
+        },
+        {
+          "lens": "L3",
+          "catalog": "CDGM",
+          "name": "H-QF3",
+          "wave": "850nm",
+          "index": 1.5640034410963284
+        },
+        {
+          "lens": "L4",
+          "catalog": "CDGM",
+          "name": "H-ZF4A",
+          "wave": "850nm",
+          "index": 1.7088426527291725
+        },
+        {
+          "lens": "L5",
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "wave": "850nm",
+          "index": 1.7888100918965295
+        },
+        {
+          "lens": "L6",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "850nm",
+          "index": 1.7596648342039398
+        },
+        {
+          "lens": "L7",
+          "catalog": "CDGM",
+          "name": "H-ZF12",
+          "wave": "850nm",
+          "index": 1.7403789610283553
+        },
+        {
+          "lens": "L8",
+          "catalog": "CDGM",
+          "name": "H-LAF50B",
+          "wave": "850nm",
+          "index": 1.7596648342039398
+        }
+      ],
+      "paraxial": {
+        "efl_mm": 29.9978242617387,
+        "bfl_infinite_mm": 6.731778971323259,
+        "matrix": [
+          [
+            0.22440890754565276,
+            27.926398362280903
+          ],
+          [
+            -0.033335750995630346,
+            0.3077085430585094
+          ]
+        ],
+        "matrix_determinant": 0.9999999999999998,
+        "paraxial_focus_from_last_vertex_mm": 8.565368099398565,
+        "published_image_distance_mm": 14.65,
+        "published_image_minus_paraxial_focus_mm": 6.084631900601435,
+        "wd_required_for_published_image_mm": 122.87599492479717,
+        "entrance_pupil_position_mm": 17.137736455993775
+      }
+    }
+  ],
+  "L8_print_precision_corner_check": {
+    "corners": 16,
+    "min_focal_mm": 48.20254643456458,
+    "max_focal_mm": 48.8533018702697,
+    "published_focal_mm": 37.19,
+    "scope": "Nearest-rounding endpoints for R1/R2/thickness/Nd; not a continuous interval proof"
+  },
+  "other_examples_cross_check": [
+    {
+      "example": 1,
+      "nominal_efl_mm": 25.0,
+      "literal_table_metrics": {
+        "efl_mm": 24.189472697132487,
+        "bfl_infinite_mm": 10.567053241470248,
+        "matrix": [
+          [
+            0.4368451257196238,
+            20.99449529550014
+          ],
+          [
+            -0.041340297596422756,
+            0.3023527305695488
+          ]
+        ],
+        "matrix_determinant": 0.9999999999999993,
+        "paraxial_focus_from_last_vertex_mm": 11.754686533594677,
+        "published_image_distance_mm": 12.76,
+        "published_image_minus_paraxial_focus_mm": 1.0053134664053225,
+        "wd_required_for_published_image_mm": 274.1376452603827
+      },
+      "Table_WD500_gap_mm": 1.95,
+      "with_WD500_gap_metrics": {
+        "efl_mm": 24.131130587770564,
+        "bfl_infinite_mm": 11.446499478157325,
+        "matrix": [
+          [
+            0.4743457599934545,
+            20.660046901118466
+          ],
+          [
+            -0.04144024650493545,
+            0.30324412221183883
+          ]
+        ],
+        "matrix_determinant": 0.9999999999999997,
+        "paraxial_focus_from_last_vertex_mm": 12.628420105390237,
+        "published_image_distance_mm": 12.76,
+        "published_image_minus_paraxial_focus_mm": 0.1315798946097626,
+        "wd_required_for_published_image_mm": 450.6455504994438
+      },
+      "published_f7_mm": -56.97,
+      "computed_f7_mm": -57.206270266183935,
+      "published_f8_mm": 46.88,
+      "computed_f8_mm": 47.72151252232867
+    },
+    {
+      "example": 2,
+      "nominal_efl_mm": 25.0,
+      "literal_table_metrics": {
+        "efl_mm": 25.392857261513303,
+        "bfl_infinite_mm": 12.616364325610592,
+        "matrix": [
+          [
+            0.4968469753395019,
+            22.027446387434996
+          ],
+          [
+            -0.03938115312118304,
+            0.2667496583977594
+          ]
+        ],
+        "matrix_determinant": 0.9999999999999998,
+        "paraxial_focus_from_last_vertex_mm": 13.923668874264978,
+        "published_image_distance_mm": 12.85,
+        "published_image_minus_paraxial_focus_mm": -1.0736688742649783,
+        "wd_required_for_published_image_mm": 2766.6140508904637
+      },
+      "Table_WD500_gap_mm": 2.35,
+      "with_WD500_gap_metrics": {
+        "efl_mm": 25.391889366448332,
+        "bfl_infinite_mm": 12.62514997857931,
+        "matrix": [
+          [
+            0.4972119166233293,
+            22.02395353136128
+          ],
+          [
+            -0.03938265426287473,
+            0.26676402583742104
+          ]
+        ],
+        "matrix_determinant": 0.9999999999999998,
+        "paraxial_focus_from_last_vertex_mm": 13.932355151143941,
+        "published_image_distance_mm": 12.85,
+        "published_image_minus_paraxial_focus_mm": -1.0823551511439415,
+        "wd_required_for_published_image_mm": 2874.2318777878877
+      },
+      "published_f7_mm": -48.54,
+      "computed_f7_mm": -49.10325623200937,
+      "published_f8_mm": 39.75,
+      "computed_f8_mm": 40.63947659330378
+    }
+  ],
+  "figure_conditions": {
+    "Figure9": {
+      "example": 1,
+      "plot": "Polychromatic diffraction MTF versus spatial frequency",
+      "field_degrees_read_from_original_image": [
+        0.0,
+        3.0,
+        6.0,
+        8.0,
+        10.0,
+        10.8
+      ],
+      "max_frequency_cycles_per_mm": 200.0,
+      "nominal_f_number_from_Table2": 1.82
+    },
+    "Figure14": {
+      "example": 3,
+      "plot": "OTF modulus versus focus shift",
+      "field_degrees_read_from_original_image": [
+        0.0,
+        6.0,
+        8.0,
+        10.0,
+        11.0,
+        13.5
+      ],
+      "focus_shift_plot_mm": [
+        -0.05,
+        0.05
+      ],
+      "frequency_and_wavelength_weights": "Not present in the disclosed image; cannot infer an exact reproduction setting"
+    },
+    "current_import_fields": {
+      "type": "ParaxialImageHeight_mm",
+      "values": [
+        0.0,
+        4.5,
+        6.3,
+        9.0
+      ],
+      "basis": "User Phi18 requirement; not copied from patent Figure14"
+    },
+    "initial_image_distance_mm": 14.65,
+    "current_UI_image_distance_mm": 7.634
+  },
+  "remaining_unknowns": [
+    "Corrected original prescription matching Tables8 and9",
+    "Exact glass catalog names or full spectral index/partial dispersion data",
+    "Exact axial stop position and clear apertures",
+    "WD reference plane",
+    "Spectral lines and weights; Figure14 evaluation frequency",
+    "Full temperature and mechanical compensation data"
+  ],
+  "limitation": "Geometry and paraxial contradiction audit with single-color on-axis estimates. No newly computed Zemax polychromatic MTF or full-field verification."
+}

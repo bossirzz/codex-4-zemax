@@ -1,0 +1,86 @@
+[
+  {
+    "wd": 500.0,
+    "gap": 6.775712015340544,
+    "iris_gap": 6.630342972922963,
+    "backfocus": 14.55048925856978,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "fixed_stop_radius": 4.153888863468297,
+    "nominal_fno_target": 2.8
+  },
+  {
+    "wd": 200.0,
+    "gap": 7.383480353962008,
+    "iris_gap": 6.924812850021274,
+    "backfocus": 17.846937996753077,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "fixed_stop_radius": 4.153888863468297,
+    "nominal_fno_target": 2.8
+  },
+  {
+    "wd": 10000000.0,
+    "gap": 3.6579344499089843,
+    "iris_gap": 7.195243283958039,
+    "backfocus": 15.657823575223052,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "nominal_fno_target": 2.8,
+    "fixed_stop_radius": 4.153888863468297,
+    "predicted_mtf": [
+      [
+        0.24902601423869256,
+        0.2490260142386914
+      ],
+      [
+        0.11318744861924561,
+        0.1953057826859136
+      ],
+      [
+        0.020950972793725927,
+        0.01195043411426411
+      ],
+      [
+        0.025615800515241486,
+        0.0705109268355135
+      ]
+    ],
+    "predicted_cra": 9.949999966873213,
+    "predicted_illumination": 0.8199999984766458,
+    "min_constraint": -1.5233541095227565e-09,
+    "note": "150/120 lp/mm at far distances is an engineering check, not a user-defined acceptance threshold"
+  },
+  {
+    "wd": 2000.0,
+    "gap": 5.564976411341719,
+    "iris_gap": 6.693625895476131,
+    "backfocus": 14.077153680355448,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "nominal_fno_target": 2.8,
+    "fixed_stop_radius": 4.153888863468297,
+    "predicted_mtf": [
+      [
+        0.30792422544913356,
+        0.30792422541183473
+      ],
+      [
+        0.35642834046598315,
+        0.3703559270513279
+      ],
+      [
+        0.13021793534015258,
+        0.12429241696751898
+      ],
+      [
+        0.07132687940233005,
+        0.06555338138716908
+      ]
+    ],
+    "predicted_cra": 10.575131326248934,
+    "predicted_illumination": 0.8864562446006882,
+    "min_constraint": 0.0,
+    "note": "150/120 lp/mm at far distances is an engineering check, not a user-defined acceptance threshold"
+  }
+]

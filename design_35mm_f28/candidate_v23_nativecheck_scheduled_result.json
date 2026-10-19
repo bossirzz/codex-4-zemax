@@ -1,0 +1,294 @@
+{
+  "updated_utc": "2026-10-12T06:11:04.600764+00:00",
+  "checked_targets_passed": false,
+  "full_requirements_passed": false,
+  "native_model": ".\\design_35mm_f28\\candidate_v23_nativecheck_review.zos",
+  "tests": [
+    {
+      "name": "500 mm中心MTF",
+      "value": 0.3180595085223521,
+      "passed": true,
+      "requirement": "225 lp/mm ≥0.30"
+    },
+    {
+      "name": "500 mm边缘MTF T/S",
+      "value": [
+        0.2178004028866003,
+        0.21696296702632858
+      ],
+      "passed": true,
+      "requirement": "180 lp/mm 均≥0.20"
+    },
+    {
+      "name": "500 mm畸变",
+      "value": 0.09623891165226883,
+      "passed": true,
+      "requirement": "≤0.3%"
+    },
+    {
+      "name": "500 mm测试光圈",
+      "value": 2.8000565256129457,
+      "passed": true,
+      "requirement": "ISFN F/2.8，数值核对容差±0.02"
+    },
+    {
+      "name": "500 mm真实瞄准",
+      "value": "Real",
+      "passed": true,
+      "requirement": "Real"
+    },
+    {
+      "name": "500 mm像圈",
+      "value": 18.169538601226712,
+      "passed": true,
+      "requirement": "≥18 mm"
+    },
+    {
+      "name": "500 mm总长",
+      "value": 53.66058154905998,
+      "passed": true,
+      "requirement": "≤60 mm"
+    },
+    {
+      "name": "500 mm后部几何间距",
+      "value": 14.549143194510531,
+      "passed": true,
+      "requirement": "≥8 mm"
+    },
+    {
+      "name": "500 mm全径厚度及间隙",
+      "value": 0.003002278454625973,
+      "passed": true,
+      "requirement": "玻璃≥0.45 mm，空气≥0.10 mm，光阑相邻间隙≥0.30 mm；33个径向检查点"
+    },
+    {
+      "name": "500 mm采样光线通过固定口径",
+      "value": 0.07066692123781415,
+      "passed": true,
+      "requirement": "采样光线无口径截断、无无效光线"
+    },
+    {
+      "name": "200 mm中心MTF",
+      "value": 0.30746596268633475,
+      "passed": true,
+      "requirement": "150 lp/mm ≥0.30"
+    },
+    {
+      "name": "200 mm边缘MTF T/S",
+      "value": [
+        0.2091500752891066,
+        0.22087714049368012
+      ],
+      "passed": true,
+      "requirement": "120 lp/mm 均≥0.20"
+    },
+    {
+      "name": "200 mm畸变",
+      "value": 0.47938282725232817,
+      "passed": true,
+      "requirement": "≤0.6%"
+    },
+    {
+      "name": "200 mm测试光圈",
+      "value": 2.8000000000000007,
+      "passed": true,
+      "requirement": "ISFN F/2.8，数值核对容差±0.02"
+    },
+    {
+      "name": "200 mm真实瞄准",
+      "value": "Real",
+      "passed": true,
+      "requirement": "Real"
+    },
+    {
+      "name": "200 mm像圈",
+      "value": 18.072944078570977,
+      "passed": true,
+      "requirement": "≥18 mm"
+    },
+    {
+      "name": "200 mm总长",
+      "value": 57.8774109040107,
+      "passed": true,
+      "requirement": "≤60 mm"
+    },
+    {
+      "name": "200 mm后部几何间距",
+      "value": 17.843942323008832,
+      "passed": true,
+      "requirement": "≥8 mm"
+    },
+    {
+      "name": "200 mm全径厚度及间隙",
+      "value": 0.003002278454625973,
+      "passed": true,
+      "requirement": "玻璃≥0.45 mm，空气≥0.10 mm，光阑相邻间隙≥0.30 mm；33个径向检查点"
+    },
+    {
+      "name": "200 mm采样光线通过固定口径",
+      "value": -0.00431648030793319,
+      "passed": false,
+      "requirement": "采样光线无口径截断、无无效光线"
+    },
+    {
+      "name": "2000 mm测试光圈",
+      "value": 2.79991382553332,
+      "passed": true,
+      "requirement": "ISFN F/2.8，数值核对容差±0.02"
+    },
+    {
+      "name": "2000 mm真实瞄准",
+      "value": "Real",
+      "passed": true,
+      "requirement": "Real"
+    },
+    {
+      "name": "2000 mm像圈",
+      "value": 18.226904531698175,
+      "passed": true,
+      "requirement": "≥18 mm"
+    },
+    {
+      "name": "2000 mm总长",
+      "value": 52.06711782013763,
+      "passed": true,
+      "requirement": "≤60 mm"
+    },
+    {
+      "name": "2000 mm后部几何间距",
+      "value": 14.549143194510531,
+      "passed": true,
+      "requirement": "≥8 mm"
+    },
+    {
+      "name": "2000 mm全径厚度及间隙",
+      "value": 0.003002278454625973,
+      "passed": true,
+      "requirement": "玻璃≥0.45 mm，空气≥0.10 mm，光阑相邻间隙≥0.30 mm；33个径向检查点"
+    },
+    {
+      "name": "2000 mm采样光线通过固定口径",
+      "value": -0.10722398993220317,
+      "passed": false,
+      "requirement": "采样光线无口径截断、无无效光线"
+    },
+    {
+      "name": "∞测试光圈",
+      "value": 2.7998795827782486,
+      "passed": true,
+      "requirement": "ISFN F/2.8，数值核对容差±0.02"
+    },
+    {
+      "name": "∞真实瞄准",
+      "value": "Real",
+      "passed": true,
+      "requirement": "Real"
+    },
+    {
+      "name": "∞像圈",
+      "value": 18.212649990142033,
+      "passed": true,
+      "requirement": "≥18 mm"
+    },
+    {
+      "name": "∞总长",
+      "value": 52.60040028491603,
+      "passed": true,
+      "requirement": "≤60 mm"
+    },
+    {
+      "name": "∞后部几何间距",
+      "value": 19.54914319451053,
+      "passed": true,
+      "requirement": "≥8 mm"
+    },
+    {
+      "name": "无穷远CRA",
+      "value": 9.960502293754374,
+      "passed": true,
+      "requirement": "≤10°"
+    },
+    {
+      "name": "无穷远相对照度",
+      "value": 0.8658759949434783,
+      "passed": true,
+      "requirement": "≥75%"
+    },
+    {
+      "name": "∞全径厚度及间隙",
+      "value": 0.003002278454625973,
+      "passed": true,
+      "requirement": "玻璃≥0.45 mm，空气≥0.10 mm，光阑相邻间隙≥0.30 mm；33个径向检查点"
+    },
+    {
+      "name": "∞采样光线通过固定口径",
+      "value": -0.566000764137657,
+      "passed": false,
+      "requirement": "采样光线无口径截断、无无效光线"
+    },
+    {
+      "name": "500 mm名义焦距",
+      "value": 35.04571001944375,
+      "passed": true,
+      "requirement": "35 mm；本轮数值核对容差±0.05 mm"
+    },
+    {
+      "name": "最大镜片毛坯直径",
+      "value": 20.49770250966621,
+      "passed": true,
+      "requirement": "≤23 mm"
+    },
+    {
+      "name": "三组移动跨度",
+      "value": [
+        5.81029308387307,
+        5.508338049001072,
+        5.0
+      ],
+      "passed": true,
+      "requirement": "约6 mm；本轮按≤6.01 mm核对"
+    },
+    {
+      "name": "512/1024 MTF采样收敛",
+      "value": 0.00046963678504330364,
+      "passed": true,
+      "requirement": "全部曲线最大差异≤0.005"
+    }
+  ],
+  "physical_checks": [
+    {
+      "wd": 500.0,
+      "minimum_clearance_margin": 0.003002278454625973,
+      "minimum_ray_radius_margin": 0.07066692123781415,
+      "invalid_rays": 0
+    },
+    {
+      "wd": 200.0,
+      "minimum_clearance_margin": 0.003002278454625973,
+      "minimum_ray_radius_margin": -0.00431648030793319,
+      "invalid_rays": 0
+    },
+    {
+      "wd": 2000.0,
+      "minimum_clearance_margin": 0.003002278454625973,
+      "minimum_ray_radius_margin": -0.10722398993220317,
+      "invalid_rays": 0
+    },
+    {
+      "wd": 10000000.0,
+      "minimum_clearance_margin": 0.003002278454625973,
+      "minimum_ray_radius_margin": -0.566000764137657,
+      "invalid_rays": 0
+    }
+  ],
+  "unverified_requirements": [
+    "400–500 mm整个最佳物距范围的逐点MTF",
+    "100 mm转接状态",
+    "传感器盖玻璃及滤光片堆栈",
+    "−20～60°C热性能",
+    "制造与装配公差",
+    "镀膜、杂散光及色边",
+    "650 nm独立调焦核验；850 nm仅为附加指标"
+  ],
+  "aperture_note": "各配置明确设置名义F/2.8；光阑半径若变化，以MCE SDIA控制并记录，工作F数另外列出。"
+}

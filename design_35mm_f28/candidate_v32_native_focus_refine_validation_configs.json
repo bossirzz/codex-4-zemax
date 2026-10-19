@@ -1,0 +1,72 @@
+[
+  {
+    "wd": 500,
+    "gap": 6.822305456944513,
+    "iris_gap": 6.707941032230182,
+    "backfocus": 14.607115959869693,
+    "fixed_stop_radius": 4.224472556080848,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0
+  },
+  {
+    "wd": 200,
+    "gap": 7.305461500667251,
+    "iris_gap": 6.947416721571193,
+    "backfocus": 18.03462340604622,
+    "fixed_stop_radius": 4.2138909369374336,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0
+  },
+  {
+    "wd": 800,
+    "gap": 6.817627095544689,
+    "iris_gap": 6.167225058721751,
+    "backfocus": 13.767045047604624,
+    "fixed_stop_radius": 4.1884709165455245,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0
+  },
+  {
+    "wd": 10000000.0,
+    "gap": 1.2155095050408422,
+    "iris_gap": 6.71088484612067,
+    "backfocus": 19.6061236619389,
+    "fixed_stop_radius": 4.557537698599099,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0
+  },
+  {
+    "wd": 300.0,
+    "gap": 6.826446582956873,
+    "iris_gap": 7.4718558708038865,
+    "backfocus": 16.268886074214283,
+    "fixed_stop_radius": 4.276209397323225,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0
+  },
+  {
+    "wd": 400.0,
+    "gap": 6.796457898299571,
+    "iris_gap": 6.998333949832737,
+    "backfocus": 15.248427470877468,
+    "fixed_stop_radius": 4.244804769161937,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0
+  },
+  {
+    "wd": 2000.0,
+    "gap": 5.49547837975606,
+    "iris_gap": 6.689535766062533,
+    "backfocus": 14.406441886501687,
+    "fixed_stop_radius": 4.293807754871051,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0
+  }
+]

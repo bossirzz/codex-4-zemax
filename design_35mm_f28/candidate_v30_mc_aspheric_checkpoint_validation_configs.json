@@ -1,0 +1,68 @@
+[
+  {
+    "wd": 500.0,
+    "gap": 6.821870053557506,
+    "iris_gap": 6.710987293813268,
+    "backfocus": 14.606151504408171,
+    "fixed_stop_radius": 4.2278255377604825,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "note": "Pure numerical pose; requires native validation; user thresholds"
+  },
+  {
+    "wd": 200.0,
+    "gap": 7.308006231832087,
+    "iris_gap": 6.950743394233456,
+    "backfocus": 18.034492925851417,
+    "fixed_stop_radius": 4.211485820888903,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "note": "Pure numerical pose; requires native validation; user thresholds"
+  },
+  {
+    "wd": 300.0,
+    "gap": 6.825886008756405,
+    "iris_gap": 7.472396300700186,
+    "backfocus": 16.268141282795526,
+    "fixed_stop_radius": 4.277064660756867,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "note": "Pure numerical pose; requires native validation; engineering check only"
+  },
+  {
+    "wd": 800.0,
+    "gap": 6.817634513496302,
+    "iris_gap": 6.168672559701924,
+    "backfocus": 13.766489297635403,
+    "fixed_stop_radius": 4.193014885921441,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "note": "Pure numerical pose; requires native validation; engineering check only"
+  },
+  {
+    "wd": 2000.0,
+    "gap": 5.3319261508165585,
+    "iris_gap": 6.710987293813268,
+    "backfocus": 14.606151504408171,
+    "fixed_stop_radius": 4.314475438372504,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "note": "Pure numerical pose; requires native validation; engineering check only"
+  },
+  {
+    "wd": 10000000.0,
+    "gap": 1.2111135176559766,
+    "iris_gap": 6.711111291995426,
+    "backfocus": 19.60617150564732,
+    "fixed_stop_radius": 4.566625421447831,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "note": "Pure numerical pose; requires native validation; engineering check only"
+  }
+]

@@ -1,0 +1,247 @@
+{
+  "status": "passed",
+  "target": ".\\zemax_import\\CN110703413B_example3\\CN110703413B_example3_modelglass.zos",
+  "assumptions": [
+    "Exact catalog glass names and partial dispersion are not disclosed. Model glasses reproduce published rounded Nd/Vd; dPgF=0 is provisional.",
+    "Stop is between L3 and L4; exact axial position is not disclosed. 8.76mm gap is provisionally split 4.38mm/4.38mm.",
+    "Object distance is interpreted from the object plane to the first surface; patent WD reference is not specified.",
+    "Fields are evaluation settings for user Phi18mm requirement; coverage is not validated.",
+    "650nm and 850nm have zero polychromatic weights but remain selectable for monochromatic analyses; NIR glass dispersion is not validated.",
+    "Semi-diameters use Zemax automatic sizing because the patent does not supply clear apertures; no 23mm diameter compliance is asserted.",
+    "Source spacings and fixed 14.65mm last-surface-to-image distance are retained; no autofocus or optimization is applied.",
+    "Rounded Table 7 track is 49.568mm at WD500, whereas Table 8 nominal TTL is 50mm. The prescription is not stretched to force 50mm."
+  ],
+  "previous_session_backup": ".\\zemax_import\\CN110703413B_example3\\previous_session_backup_20261010_143303.zos",
+  "surface_count": 18,
+  "glass_count": 8,
+  "rows": [
+    {
+      "surface": 1,
+      "comment": "L1R1",
+      "radius": "23.35",
+      "thickness_mm": 3.133,
+      "material": "1.77,49.1",
+      "semi_diameter_mm": 9.51940449284961,
+      "stop": false
+    },
+    {
+      "surface": 2,
+      "comment": "L1R2",
+      "radius": "59.03999999999999",
+      "thickness_mm": 0.14,
+      "material": "",
+      "semi_diameter_mm": 8.901430458154252,
+      "stop": false
+    },
+    {
+      "surface": 3,
+      "comment": "L2R1",
+      "radius": "10.81",
+      "thickness_mm": 4.03,
+      "material": "1.59,68.5",
+      "semi_diameter_mm": 7.576787340486276,
+      "stop": false
+    },
+    {
+      "surface": 4,
+      "comment": "L2R2",
+      "radius": "44.65",
+      "thickness_mm": 0.23,
+      "material": "",
+      "semi_diameter_mm": 6.625290771528404,
+      "stop": false
+    },
+    {
+      "surface": 5,
+      "comment": "L3R1",
+      "radius": "35.96",
+      "thickness_mm": 0.79,
+      "material": "1.57,41.5",
+      "semi_diameter_mm": 6.272086331969712,
+      "stop": false
+    },
+    {
+      "surface": 6,
+      "comment": "L3R2",
+      "radius": "7.83",
+      "thickness_mm": 4.38,
+      "material": "",
+      "semi_diameter_mm": 4.903791803488957,
+      "stop": false
+    },
+    {
+      "surface": 7,
+      "comment": "STOP_assumed_midgap",
+      "radius": "inf",
+      "thickness_mm": 4.38,
+      "material": "",
+      "semi_diameter_mm": 3.3079460719227542,
+      "stop": true
+    },
+    {
+      "surface": 8,
+      "comment": "L4R1",
+      "radius": "-8.35",
+      "thickness_mm": 1.45,
+      "material": "1.72,28.3",
+      "semi_diameter_mm": 4.479455738140005,
+      "stop": false
+    },
+    {
+      "surface": 9,
+      "comment": "L4R2_L5R1_cemented",
+      "radius": "-21.31",
+      "thickness_mm": 1.97,
+      "material": "1.80,46.7",
+      "semi_diameter_mm": 5.482191051042088,
+      "stop": false
+    },
+    {
+      "surface": 10,
+      "comment": "L5R2",
+      "radius": "-13.35",
+      "thickness_mm": 0.14,
+      "material": "",
+      "semi_diameter_mm": 6.073479807586064,
+      "stop": false
+    },
+    {
+      "surface": 11,
+      "comment": "L6R1",
+      "radius": "-1159.0",
+      "thickness_mm": 2.13,
+      "material": "1.77,49.1",
+      "semi_diameter_mm": 6.800614361888506,
+      "stop": false
+    },
+    {
+      "surface": 12,
+      "comment": "L6R2",
+      "radius": "-15.21",
+      "thickness_mm": 3.13,
+      "material": "",
+      "semi_diameter_mm": 6.919081399099724,
+      "stop": false
+    },
+    {
+      "surface": 13,
+      "comment": "L7R1",
+      "radius": "114.24",
+      "thickness_mm": 1.11,
+      "material": "1.76,26.0",
+      "semi_diameter_mm": 7.166179903789789,
+      "stop": false
+    },
+    {
+      "surface": 14,
+      "comment": "L7R2",
+      "radius": "24.8",
+      "thickness_mm": 3.84,
+      "material": "",
+      "semi_diameter_mm": 7.1762579068661925,
+      "stop": false
+    },
+    {
+      "surface": 15,
+      "comment": "L8R1",
+      "radius": "32.62",
+      "thickness_mm": 4.065,
+      "material": "1.77,49.1",
+      "semi_diameter_mm": 8.126364914258252,
+      "stop": false
+    },
+    {
+      "surface": 16,
+      "comment": "L8R2",
+      "radius": "242.95000000000002",
+      "thickness_mm": 14.65,
+      "material": "",
+      "semi_diameter_mm": 8.19179552165082,
+      "stop": false
+    }
+  ],
+  "configurations": [
+    {
+      "number": 1,
+      "name": "WD500_source",
+      "object_mm": 500,
+      "gap_mm": 3.13,
+      "track_mm": 49.568
+    },
+    {
+      "number": 2,
+      "name": "WD150_source",
+      "object_mm": 150,
+      "gap_mm": 7.71,
+      "track_mm": 54.148
+    },
+    {
+      "number": 3,
+      "name": "WD300_source",
+      "object_mm": 300,
+      "gap_mm": 4.88,
+      "track_mm": 51.318
+    },
+    {
+      "number": 4,
+      "name": "WD1000_source",
+      "object_mm": 1000,
+      "gap_mm": 1.88,
+      "track_mm": 48.318
+    },
+    {
+      "number": 5,
+      "name": "Infinity_source",
+      "object_mm": "Infinity",
+      "gap_mm": 0.79,
+      "track_mm": 47.228
+    }
+  ],
+  "primary_configuration": "WD500_source",
+  "disk_round_trip": true,
+  "ray_trace": {
+    "status": "completed",
+    "messages": []
+  },
+  "system_data_metrics": [
+    "System Aperture         : \tImage Space F/# = \t2.8",
+    "Method to Compute F/#   :\tTracing Rays",
+    "Effective Focal Length  :\t        29.86665\t(in air at system temperature and pressure)",
+    "Effective Focal Length  :\t        29.86665\t(in image space)",
+    "Back Focal Length       :\t        6.515165",
+    "Total Track             :\t          49.568",
+    "Image Space F/#         :\t             2.8",
+    "Paraxial Working F/#    :\t          2.9499",
+    "Working F/#             :\t        2.870905"
+  ],
+  "loaded_in_open_zemax": ".\\zemax_import\\CN110703413B_example3\\CN110703413B_example3_modelglass.zos",
+  "independent_paraxial_check": [
+    {
+      "config": "WD500_source",
+      "efl_mm": 29.86664147925419,
+      "paraxial_bfl_infinity_mm": 6.51518773289424
+    },
+    {
+      "config": "WD150_source",
+      "efl_mm": 29.624998009074066,
+      "paraxial_bfl_infinity_mm": 1.0789941182528324
+    },
+    {
+      "config": "WD300_source",
+      "efl_mm": 29.773846548829734,
+      "paraxial_bfl_infinity_mm": 4.427603045136979
+    },
+    {
+      "config": "WD1000_source",
+      "efl_mm": 29.93327849744086,
+      "paraxial_bfl_infinity_mm": 8.014304313595098
+    },
+    {
+      "config": "Infinity_source",
+      "efl_mm": 29.991629148882907,
+      "paraxial_bfl_infinity_mm": 9.327004543164648
+    }
+  ],
+  "optical_reproduction_status": "Published prescription imported faithfully, but nominal 35mm and image focus are not reproduced with rounded Nd/Vd model glasses",
+  "on_axis_half_pupil_image_ray_y_mm": -0.5561316682
+}

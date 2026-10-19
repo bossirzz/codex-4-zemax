@@ -1,0 +1,347 @@
+{
+  "zospy_version": "2.1.5",
+  "tests": [
+    {
+      "name": "cross_section_image",
+      "status": "passed",
+      "seconds": 2.62,
+      "details": {
+        "file": ".\\zospy_image_results\\cross_section.png",
+        "bytes": 8124,
+        "messages": []
+      }
+    },
+    {
+      "name": "viewer3d_image",
+      "status": "passed",
+      "seconds": 1.12,
+      "details": {
+        "file": ".\\zospy_image_results\\viewer3d.png",
+        "bytes": 15196,
+        "messages": []
+      }
+    },
+    {
+      "name": "fft_mtf_64",
+      "status": "passed",
+      "seconds": 3.24,
+      "details": {
+        "sampling": 64,
+        "points": 300,
+        "curves": 4,
+        "messages": [
+          "AnalysisMessage(ErrorCode='Success', Message='Sampling too low, data inaccurate!')"
+        ],
+        "range": [
+          0.0,
+          1.0
+        ],
+        "zero_frequency": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "fft_mtf_256",
+      "status": "passed",
+      "seconds": 0.94,
+      "details": {
+        "sampling": 256,
+        "points": 300,
+        "curves": 4,
+        "messages": [
+          "AnalysisMessage(ErrorCode='Success', Message='Sampling too low, data inaccurate!')"
+        ],
+        "range": [
+          0.0,
+          0.9999999999999999
+        ],
+        "zero_frequency": [
+          0.9999999999999999,
+          0.9999999999999999,
+          0.9999999999999999,
+          0.9999999999999999
+        ],
+        "compared_with_sampling": 64,
+        "max_absolute_difference": 0.5841930026439175,
+        "mean_absolute_difference": 0.01410536478765429
+      }
+    },
+    {
+      "name": "fft_mtf_512",
+      "status": "passed",
+      "seconds": 1.05,
+      "details": {
+        "sampling": 512,
+        "points": 300,
+        "curves": 4,
+        "messages": [
+          "AnalysisMessage(ErrorCode='Success', Message='Sampling too low, data inaccurate!')"
+        ],
+        "range": [
+          0.0,
+          1.0
+        ],
+        "zero_frequency": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "compared_with_sampling": 256,
+        "max_absolute_difference": 0.22184476168353118,
+        "mean_absolute_difference": 0.0038550692209911377
+      }
+    },
+    {
+      "name": "fft_mtf_1024",
+      "status": "passed",
+      "seconds": 2.62,
+      "details": {
+        "sampling": 1024,
+        "points": 300,
+        "curves": 4,
+        "messages": [
+          "AnalysisMessage(ErrorCode='Success', Message='Sampling too low, data inaccurate!')"
+        ],
+        "range": [
+          0.0,
+          1.0
+        ],
+        "zero_frequency": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "compared_with_sampling": 512,
+        "max_absolute_difference": 0.15241020373813102,
+        "mean_absolute_difference": 0.0011874287452164753
+      }
+    },
+    {
+      "name": "cross_section_correct_dimensions",
+      "status": "passed",
+      "seconds": 1.07,
+      "details": {
+        "file": ".\\zospy_image_results\\cross_section_960x640.png",
+        "bytes": 6070,
+        "messages": []
+      }
+    },
+    {
+      "name": "fft_mtf_2048",
+      "status": "passed",
+      "seconds": 15.33,
+      "details": {
+        "sampling": 2048,
+        "points": 300,
+        "curves": 4,
+        "messages": [
+          "AnalysisMessage(ErrorCode='Success', Message='Sampling too low, data inaccurate!')"
+        ],
+        "range": [
+          0.0,
+          0.9999999999999999
+        ],
+        "zero_frequency": [
+          0.9999999999999999,
+          0.9999999999999999,
+          0.9999999999999999,
+          0.9999999999999999
+        ],
+        "compared_with_sampling": 1024,
+        "max_absolute_difference": 0.051954801312449554,
+        "mean_absolute_difference": 0.0005112932673755681
+      }
+    },
+    {
+      "name": "fft_mtf_4096",
+      "status": "passed",
+      "seconds": 105.2,
+      "details": {
+        "sampling": 4096,
+        "points": 300,
+        "curves": 4,
+        "messages": [
+          "AnalysisMessage(ErrorCode='Success', Message='Sampling too low, data inaccurate!')"
+        ],
+        "range": [
+          0.0,
+          1.0
+        ],
+        "zero_frequency": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "compared_with_sampling": 2048,
+        "max_absolute_difference": 0.0051388657393888725,
+        "mean_absolute_difference": 0.00014690378244356598
+      }
+    }
+  ],
+  "connection": {
+    "license_status": "PremiumEdition",
+    "api_license_valid": true
+  },
+  "before": {
+    "file": "<ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+    "rows": [
+      {
+        "surface": 0,
+        "radius": "inf",
+        "thickness": "inf",
+        "material": "",
+        "semi_diameter": 0.0,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": false
+      },
+      {
+        "surface": 1,
+        "radius": 124.50000000000001,
+        "thickness": 2.0,
+        "material": "1.50,0.0",
+        "semi_diameter": 3.0,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": true
+      },
+      {
+        "surface": 2,
+        "radius": -70.76,
+        "thickness": "inf",
+        "material": "",
+        "semi_diameter": 2.9847692881652845,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": false
+      }
+    ],
+    "fields": 1,
+    "wavelengths": 1
+  },
+  "needs_save_before": false,
+  "after": {
+    "file": "<ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+    "rows": [
+      {
+        "surface": 0,
+        "radius": "inf",
+        "thickness": "inf",
+        "material": "",
+        "semi_diameter": 0.0,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": false
+      },
+      {
+        "surface": 1,
+        "radius": 124.50000000000001,
+        "thickness": 2.0,
+        "material": "1.50,0.0",
+        "semi_diameter": 3.0,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": true
+      },
+      {
+        "surface": 2,
+        "radius": -70.76,
+        "thickness": "inf",
+        "material": "",
+        "semi_diameter": 2.9847692881652845,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": false
+      }
+    ],
+    "fields": 1,
+    "wavelengths": 1
+  },
+  "lens_parameters_unchanged": true,
+  "needs_save_after": true,
+  "extra_before": {
+    "file": "<ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+    "rows": [
+      {
+        "surface": 0,
+        "radius": "inf",
+        "thickness": "inf",
+        "material": "",
+        "semi_diameter": 0.0,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": false
+      },
+      {
+        "surface": 1,
+        "radius": 124.50000000000001,
+        "thickness": 2.0,
+        "material": "1.50,0.0",
+        "semi_diameter": 3.0,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": true
+      },
+      {
+        "surface": 2,
+        "radius": -70.76,
+        "thickness": "inf",
+        "material": "",
+        "semi_diameter": 2.9847692881652845,
+        "conic": 0.0,
+        "comment": "",
+        "is_stop": false
+      }
+    ],
+    "fields": 1,
+    "wavelengths": 1
+  },
+  "image_checks": [
+    {
+      "file": "cross_section.png",
+      "width": 640,
+      "height": 960,
+      "nonwhite_pixels": 4151,
+      "decoded": true,
+      "dimensions_match_960x640": false
+    },
+    {
+      "file": "cross_section_960x640.png",
+      "width": 960,
+      "height": 640,
+      "nonwhite_pixels": 2634,
+      "decoded": true,
+      "dimensions_match_960x640": true
+    },
+    {
+      "file": "viewer3d.png",
+      "width": 960,
+      "height": 640,
+      "nonwhite_pixels": 5916,
+      "decoded": true,
+      "dimensions_match_960x640": true
+    }
+  ],
+  "image_size_convention": {
+    "CrossSection": "(height, width)",
+    "Viewer3D": "(width, height)"
+  },
+  "numerical_accuracy_check": {
+    "highest_sampling": 4096,
+    "messages": [
+      "AnalysisMessage(ErrorCode='Success', Message='Sampling too low, data inaccurate!')"
+    ],
+    "compared_with_sampling": 2048,
+    "max_absolute_difference": 0.0051388657393888725,
+    "mean_absolute_difference": 0.00014690378244356598,
+    "convergence_established": false,
+    "note": "Successful API execution and valid image export do not establish optical numerical accuracy."
+  }
+}

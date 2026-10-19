@@ -1,0 +1,17 @@
+{
+  "status": "finished",
+  "started_utc": "2026-10-15T18:46:21.574627+00:00",
+  "source": "candidate_v32_native_contrast_c",
+  "floating_group_seed": "candidate_v32_native_focus_refine",
+  "algorithm": "DampedLeastSquares",
+  "requested_cycles": 5,
+  "variables": 68,
+  "targets": 2406,
+  "cores": 8,
+  "initial_merit": 0.0002617531620193283,
+  "full_requirements_passed": false,
+  "elapsed_seconds": 387.1027170000016,
+  "current_merit": 0.00020859900167029865,
+  "succeeded": true,
+  "error": "None"
+}

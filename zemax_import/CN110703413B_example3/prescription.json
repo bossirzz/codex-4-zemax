@@ -1,0 +1,222 @@
+{
+  "patent": "CN110703413B",
+  "example": 3,
+  "source": "https://patents.google.com/patent/CN110703413B/zh",
+  "source_pdf": ".\\patent_research_35mm\\CN110703413B.pdf",
+  "units": "mm",
+  "sequential": true,
+  "source_table": "Table 7 (PDF page 8)",
+  "surfaces": [
+    {
+      "comment": "L1R1",
+      "radius": 23.35,
+      "thickness": 3.133,
+      "glass": {
+        "kind": "model",
+        "nd": 1.77,
+        "vd": 49.1,
+        "dpgf": 0
+      }
+    },
+    {
+      "comment": "L1R2",
+      "radius": 59.04,
+      "thickness": 0.14,
+      "glass": null
+    },
+    {
+      "comment": "L2R1",
+      "radius": 10.81,
+      "thickness": 4.03,
+      "glass": {
+        "kind": "model",
+        "nd": 1.59,
+        "vd": 68.5,
+        "dpgf": 0
+      }
+    },
+    {
+      "comment": "L2R2",
+      "radius": 44.65,
+      "thickness": 0.23,
+      "glass": null
+    },
+    {
+      "comment": "L3R1",
+      "radius": 35.96,
+      "thickness": 0.79,
+      "glass": {
+        "kind": "model",
+        "nd": 1.57,
+        "vd": 41.5,
+        "dpgf": 0
+      }
+    },
+    {
+      "comment": "L3R2",
+      "radius": 7.83,
+      "thickness": 4.38,
+      "glass": null
+    },
+    {
+      "comment": "STOP_assumed_midgap",
+      "radius": "Infinity",
+      "thickness": 4.38,
+      "glass": null,
+      "stop": true
+    },
+    {
+      "comment": "L4R1",
+      "radius": -8.35,
+      "thickness": 1.45,
+      "glass": {
+        "kind": "model",
+        "nd": 1.72,
+        "vd": 28.3,
+        "dpgf": 0
+      }
+    },
+    {
+      "comment": "L4R2_L5R1_cemented",
+      "radius": -21.31,
+      "thickness": 1.97,
+      "glass": {
+        "kind": "model",
+        "nd": 1.8,
+        "vd": 46.7,
+        "dpgf": 0
+      }
+    },
+    {
+      "comment": "L5R2",
+      "radius": -13.35,
+      "thickness": 0.14,
+      "glass": null
+    },
+    {
+      "comment": "L6R1",
+      "radius": -1159,
+      "thickness": 2.13,
+      "glass": {
+        "kind": "model",
+        "nd": 1.77,
+        "vd": 49.1,
+        "dpgf": 0
+      }
+    },
+    {
+      "comment": "L6R2",
+      "radius": -15.21,
+      "thickness": 3.13,
+      "glass": null
+    },
+    {
+      "comment": "L7R1",
+      "radius": 114.24,
+      "thickness": 1.11,
+      "glass": {
+        "kind": "model",
+        "nd": 1.76,
+        "vd": 26,
+        "dpgf": 0
+      }
+    },
+    {
+      "comment": "L7R2",
+      "radius": 24.8,
+      "thickness": 3.84,
+      "glass": null
+    },
+    {
+      "comment": "L8R1",
+      "radius": 32.62,
+      "thickness": 4.065,
+      "glass": {
+        "kind": "model",
+        "nd": 1.77,
+        "vd": 49.1,
+        "dpgf": 0
+      }
+    },
+    {
+      "comment": "L8R2",
+      "radius": 242.95,
+      "thickness": 14.65,
+      "glass": null
+    }
+  ],
+  "configurations": [
+    {
+      "name": "WD500_source",
+      "object_mm": 500,
+      "gap_mm": 3.13
+    },
+    {
+      "name": "WD150_source",
+      "object_mm": 150,
+      "gap_mm": 7.71
+    },
+    {
+      "name": "WD300_source",
+      "object_mm": 300,
+      "gap_mm": 4.88
+    },
+    {
+      "name": "WD1000_source",
+      "object_mm": 1000,
+      "gap_mm": 1.88
+    },
+    {
+      "name": "Infinity_source",
+      "object_mm": "Infinity",
+      "gap_mm": 0.79
+    }
+  ],
+  "aperture": {
+    "type": "ImageSpaceFNum",
+    "value": 2.8
+  },
+  "fields": {
+    "type": "ParaxialImageHeight",
+    "y_mm": [
+      0,
+      4.5,
+      6.3,
+      9.0
+    ],
+    "origin": "user requirement Phi18mm"
+  },
+  "wavelengths_um_weights": [
+    [
+      0.4861327,
+      1
+    ],
+    [
+      0.5875618,
+      1
+    ],
+    [
+      0.6562725,
+      1
+    ],
+    [
+      0.65,
+      0
+    ],
+    [
+      0.85,
+      0
+    ]
+  ],
+  "primary_wavelength_index": 2,
+  "assumptions": [
+    "Exact catalog glass names and partial dispersion are not disclosed. Model glasses reproduce published rounded Nd/Vd; dPgF=0 is provisional.",
+    "Stop is between L3 and L4; exact axial position is not disclosed. 8.76mm gap is provisionally split 4.38mm/4.38mm.",
+    "Object distance is interpreted from the object plane to the first surface; patent WD reference is not specified.",
+    "Fields are evaluation settings for user Phi18mm requirement; coverage is not validated.",
+    "650nm and 850nm have zero polychromatic weights but remain selectable for monochromatic analyses; NIR glass dispersion is not validated.",
+    "Semi-diameters use Zemax automatic sizing because the patent does not supply clear apertures; no 23mm diameter compliance is asserted.",
+    "Source spacings and fixed 14.65mm last-surface-to-image distance are retained; no autofocus or optimization is applied.",
+    "Rounded Table 7 track is 49.568mm at WD500, whereas Table 8 nominal TTL is 50mm. The prescription is not stretched to force 50mm."
+  ]
+}

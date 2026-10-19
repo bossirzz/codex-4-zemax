@@ -1,0 +1,910 @@
+{
+  "catalogs_scanned": 52,
+  "records_scanned": 4373,
+  "scope_records": 3673,
+  "formulas": {
+    "2": 893,
+    "1": 2256,
+    "3": 25,
+    "6": 36,
+    "12": 118,
+    "13": 345
+  },
+  "errors": [],
+  "formula_checks": {
+    "1": {
+      "evaluated_records": 2252,
+      "max_abs_nd_vs_NM": 3.774335833472975e-05,
+      "max_abs_vd_vs_NM": 0.2288663405481799
+    },
+    "2": {
+      "evaluated_records": 892,
+      "max_abs_nd_vs_NM": 4.774825816955541e-06,
+      "max_abs_vd_vs_NM": 0.004985565982117635
+    },
+    "3": {
+      "evaluated_records": 5,
+      "max_abs_nd_vs_NM": 4.850101182896083e-07,
+      "max_abs_vd_vs_NM": 3.886482957682347e-07
+    },
+    "6": {
+      "evaluated_records": 36,
+      "max_abs_nd_vs_NM": 3.927879836940207e-07,
+      "max_abs_vd_vs_NM": 3.802107784167674e-07
+    },
+    "12": {
+      "evaluated_records": 118,
+      "max_abs_nd_vs_NM": 4.986947446106171e-07,
+      "max_abs_vd_vs_NM": 4.983348418363676e-07
+    },
+    "13": {
+      "evaluated_records": 344,
+      "max_abs_nd_vs_NM": 4.073356940637041e-08,
+      "max_abs_vd_vs_NM": 4.961046684570647e-07
+    }
+  },
+  "not_evaluated_in_scope": [
+    {
+      "catalog": "CDGM",
+      "name": "HWS1",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "CDGM",
+      "name": "HWS2",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "CDGM",
+      "name": "HWS3",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "CDGM",
+      "name": "HWS4",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "CDGM",
+      "name": "HWS5",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "CDGM",
+      "name": "HWS6",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "CDGM",
+      "name": "HWS7",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "CDGM",
+      "name": "HWS9",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "CDGM",
+      "name": "HWS27",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "GBJ",
+      "name": "IRG206",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "GBJ",
+      "name": "IRG205",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "S-ZLAF50C",
+      "formula": 1,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG201",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG202",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG203",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG204",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG205",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG206",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG207",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG208",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "IRG209",
+      "formula": 3,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "ZNSE",
+      "formula": 1,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "D-LAK5",
+      "formula": 1,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    },
+    {
+      "catalog": "NHG",
+      "name": "D-LAF774",
+      "formula": 1,
+      "basis": "Nominal NM reference fields; CD evaluation failed",
+      "dispersion_error": "Catalog wavelength range does not cover F/d/C lines"
+    }
+  ],
+  "groups": [
+    {
+      "lenses": [
+        "L1",
+        "L6",
+        "L8"
+      ],
+      "target": [
+        1.77,
+        49.1
+      ],
+      "within_rounding_count": 0,
+      "closest_active": [
+        {
+          "catalog": "NHG",
+          "name": "D-LAF50-170@MY",
+          "nd": 1.7713328089192095,
+          "vd": 49.254186907177115,
+          "delta_nd": 0.001332808919209505,
+          "delta_vd": 0.15418690717711314,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "L-LAF50-170@MY",
+          "nd": 1.7713328089192095,
+          "vd": 49.254186907177115,
+          "delta_nd": 0.001332808919209505,
+          "delta_vd": 0.15418690717711314,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "HOYA",
+          "name": "MC-TAF101-100",
+          "nd": 1.769015340302386,
+          "vd": 49.29003780001514,
+          "delta_nd": -0.0009846596976139654,
+          "delta_vd": 0.1900378000151406,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_overall": [
+        {
+          "catalog": "NHG",
+          "name": "D-LAF50-170@MY",
+          "nd": 1.7713328089192095,
+          "vd": 49.254186907177115,
+          "delta_nd": 0.001332808919209505,
+          "delta_vd": 0.15418690717711314,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "L-LAF50-170@MY",
+          "nd": 1.7713328089192095,
+          "vd": 49.254186907177115,
+          "delta_nd": 0.001332808919209505,
+          "delta_vd": 0.15418690717711314,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_ordinary": [
+        {
+          "catalog": "OHARA",
+          "name": "S-LAH66N",
+          "nd": 1.772498392759422,
+          "vd": 49.547913716303775,
+          "delta_nd": 0.0024983927594219857,
+          "delta_vd": 0.4479137163037734,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "SUMITA",
+          "name": "K-LaSFn7",
+          "nd": 1.7724928327089504,
+          "vd": 49.5895604182643,
+          "delta_nd": 0.0024928327089503988,
+          "delta_vd": 0.48956041826429697,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "OHARA",
+          "name": "S-LAH66",
+          "nd": 1.7724988556521302,
+          "vd": 49.59837101365643,
+          "delta_nd": 0.0024988556521301497,
+          "delta_vd": 0.4983710136564312,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "H-LAF50B",
+          "nd": 1.7724967877403337,
+          "vd": 49.598856519963014,
+          "delta_nd": 0.0024967877403336836,
+          "delta_vd": 0.49885651996301306,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ]
+    },
+    {
+      "lenses": [
+        "L2"
+      ],
+      "target": [
+        1.59,
+        68.5
+      ],
+      "within_rounding_count": 0,
+      "closest_active": [
+        {
+          "catalog": "SUMITA",
+          "name": "K-GFK68(M)",
+          "nd": 1.5899798742974054,
+          "vd": 68.32670735103206,
+          "delta_nd": -2.01257025946866e-05,
+          "delta_vd": -0.17329264896794427,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "SUMITA",
+          "name": "K-GFK68",
+          "nd": 1.5923994219218724,
+          "vd": 68.36945221759328,
+          "delta_nd": 0.002399421921872369,
+          "delta_vd": -0.1305477824067225,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "CDGM",
+          "name": "D-ZPK5-25",
+          "nd": 1.5921599575325296,
+          "vd": 68.28151061700055,
+          "delta_nd": 0.0021599575325295106,
+          "delta_vd": -0.21848938299945075,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_overall": [
+        {
+          "catalog": "SUMITA",
+          "name": "K-GFK68(M)",
+          "nd": 1.5899798742974054,
+          "vd": 68.32670735103206,
+          "delta_nd": -2.01257025946866e-05,
+          "delta_vd": -0.17329264896794427,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "SCHOTT",
+          "name": "N-PSK57",
+          "nd": 1.5923997993301717,
+          "vd": 68.39866699253922,
+          "delta_nd": 0.002399799330171648,
+          "delta_vd": -0.10133300746078078,
+          "status": "Obsolete",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_ordinary": [
+        {
+          "catalog": "SUMITA",
+          "name": "K-GFK68",
+          "nd": 1.5923994219218724,
+          "vd": 68.36945221759328,
+          "delta_nd": 0.002399421921872369,
+          "delta_vd": -0.1305477824067225,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "HOYA",
+          "name": "FCD515",
+          "nd": 1.5928242844404694,
+          "vd": 68.6243779188443,
+          "delta_nd": 0.002824284440469338,
+          "delta_vd": 0.12437791884430283,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "H-FK69",
+          "nd": 1.592827769837984,
+          "vd": 68.6292998850594,
+          "delta_nd": 0.00282776983798394,
+          "delta_vd": 0.12929988505939605,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "S-FK69",
+          "nd": 1.592827769837984,
+          "vd": 68.6292998850594,
+          "delta_nd": 0.00282776983798394,
+          "delta_vd": 0.12929988505939605,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ]
+    },
+    {
+      "lenses": [
+        "L3"
+      ],
+      "target": [
+        1.57,
+        41.5
+      ],
+      "within_rounding_count": 0,
+      "closest_active": [
+        {
+          "catalog": "OHARA",
+          "name": "S-TIL27",
+          "nd": 1.5750058719309001,
+          "vd": 41.505206601685664,
+          "delta_nd": 0.005005871930900074,
+          "delta_vd": 0.005206601685664225,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "CDGM",
+          "name": "H-QF3",
+          "nd": 1.5750100644611542,
+          "vd": 41.50471546714472,
+          "delta_nd": 0.005010064461154151,
+          "delta_vd": 0.0047154671447202645,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "HIKARI",
+          "name": "J-LF7",
+          "nd": 1.5750100135032392,
+          "vd": 41.5124352721751,
+          "delta_nd": 0.005010013503239152,
+          "delta_vd": 0.012435272175096657,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_overall": [
+        {
+          "catalog": "OHARA",
+          "name": "S-TIL27",
+          "nd": 1.5750058719309001,
+          "vd": 41.505206601685664,
+          "delta_nd": 0.005005871930900074,
+          "delta_vd": 0.005206601685664225,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "OHARA",
+          "name": "PBL27",
+          "nd": 1.5750060246588455,
+          "vd": 41.491051724650916,
+          "delta_nd": 0.005006024658845476,
+          "delta_vd": -0.008948275349084156,
+          "status": "Obsolete",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_ordinary": [
+        {
+          "catalog": "OHARA",
+          "name": "S-TIL27",
+          "nd": 1.5750058719309001,
+          "vd": 41.505206601685664,
+          "delta_nd": 0.005005871930900074,
+          "delta_vd": 0.005206601685664225,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "CDGM",
+          "name": "H-QF3",
+          "nd": 1.5750100644611542,
+          "vd": 41.50471546714472,
+          "delta_nd": 0.005010064461154151,
+          "delta_vd": 0.0047154671447202645,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "HIKARI",
+          "name": "J-LF7",
+          "nd": 1.5750100135032392,
+          "vd": 41.5124352721751,
+          "delta_nd": 0.005010013503239152,
+          "delta_vd": 0.012435272175096657,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NIKON-HIKARI",
+          "name": "J-LF7",
+          "nd": 1.5750100135032392,
+          "vd": 41.5124352721751,
+          "delta_nd": 0.005010013503239152,
+          "delta_vd": 0.012435272175096657,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ]
+    },
+    {
+      "lenses": [
+        "L4"
+      ],
+      "target": [
+        1.72,
+        28.3
+      ],
+      "within_rounding_count": 0,
+      "closest_active": [
+        {
+          "catalog": "LZOS",
+          "name": "LZ_TF7",
+          "nd": 1.7282196531084066,
+          "vd": 28.33125463365691,
+          "delta_nd": 0.008219653108406666,
+          "delta_vd": 0.03125463365691061,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "H-ZF4A",
+          "nd": 1.7282477037235215,
+          "vd": 28.318772375480716,
+          "delta_nd": 0.008247703723521571,
+          "delta_vd": 0.018772375480715198,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "H-ZF4AGT",
+          "nd": 1.7282477037235215,
+          "vd": 28.318772375480716,
+          "delta_nd": 0.008247703723521571,
+          "delta_vd": 0.018772375480715198,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_overall": [
+        {
+          "catalog": "LZOS",
+          "name": "LZ_TF7",
+          "nd": 1.7282196531084066,
+          "vd": 28.33125463365691,
+          "delta_nd": 0.008219653108406666,
+          "delta_vd": 0.03125463365691061,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "H-ZF4A",
+          "nd": 1.7282477037235215,
+          "vd": 28.318772375480716,
+          "delta_nd": 0.008247703723521571,
+          "delta_vd": 0.018772375480715198,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_ordinary": [
+        {
+          "catalog": "LZOS",
+          "name": "LZ_TF7",
+          "nd": 1.7282196531084066,
+          "vd": 28.33125463365691,
+          "delta_nd": 0.008219653108406666,
+          "delta_vd": 0.03125463365691061,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "H-ZF4A",
+          "nd": 1.7282477037235215,
+          "vd": 28.318772375480716,
+          "delta_nd": 0.008247703723521571,
+          "delta_vd": 0.018772375480715198,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "H-ZF4AGT",
+          "nd": 1.7282477037235215,
+          "vd": 28.318772375480716,
+          "delta_nd": 0.008247703723521571,
+          "delta_vd": 0.018772375480715198,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "S-ZF4A",
+          "nd": 1.7282477037235215,
+          "vd": 28.318772375480716,
+          "delta_nd": 0.008247703723521571,
+          "delta_vd": 0.018772375480715198,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ]
+    },
+    {
+      "lenses": [
+        "L5"
+      ],
+      "target": [
+        1.8,
+        46.7
+      ],
+      "within_rounding_count": 3,
+      "closest_active": [
+        {
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "nd": 1.8027842901585311,
+          "vd": 46.72791358859074,
+          "delta_nd": 0.0027842901585310997,
+          "delta_vd": 0.027913588590735117,
+          "status": "Standard",
+          "within_published_rounding": true,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "S-ZLAF2",
+          "nd": 1.8027842901585311,
+          "vd": 46.72791358859074,
+          "delta_nd": 0.0027842901585310997,
+          "delta_vd": 0.027913588590735117,
+          "status": "Standard",
+          "within_published_rounding": true,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "CDGM",
+          "name": "H-ZLAF2A",
+          "nd": 1.802790119215855,
+          "vd": 46.76130659109875,
+          "delta_nd": 0.002790119215855036,
+          "delta_vd": 0.0613065910987487,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_overall": [
+        {
+          "catalog": "SUMITA",
+          "name": "LASFN6",
+          "nd": 1.802360062350547,
+          "vd": 46.72348917547851,
+          "delta_nd": 0.0023600623505468654,
+          "delta_vd": 0.023489175478509594,
+          "status": "Obsolete",
+          "within_published_rounding": true,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "nd": 1.8027842901585311,
+          "vd": 46.72791358859074,
+          "delta_nd": 0.0027842901585310997,
+          "delta_vd": 0.027913588590735117,
+          "status": "Standard",
+          "within_published_rounding": true,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_ordinary": [
+        {
+          "catalog": "NHG",
+          "name": "H-ZLAF2",
+          "nd": 1.8027842901585311,
+          "vd": 46.72791358859074,
+          "delta_nd": 0.0027842901585310997,
+          "delta_vd": 0.027913588590735117,
+          "status": "Standard",
+          "within_published_rounding": true,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "NHG",
+          "name": "S-ZLAF2",
+          "nd": 1.8027842901585311,
+          "vd": 46.72791358859074,
+          "delta_nd": 0.0027842901585310997,
+          "delta_vd": 0.027913588590735117,
+          "status": "Standard",
+          "within_published_rounding": true,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "CDGM",
+          "name": "H-ZLAF2A",
+          "nd": 1.802790119215855,
+          "vd": 46.76130659109875,
+          "delta_nd": 0.002790119215855036,
+          "delta_vd": 0.0613065910987487,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "HIKARI",
+          "name": "J-LASF015",
+          "nd": 1.8040000189902516,
+          "vd": 46.597670326564895,
+          "delta_nd": 0.004000018990251597,
+          "delta_vd": -0.10232967343510779,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ]
+    },
+    {
+      "lenses": [
+        "L7"
+      ],
+      "target": [
+        1.76,
+        26
+      ],
+      "within_rounding_count": 0,
+      "closest_active": [
+        {
+          "catalog": "SUMITA",
+          "name": "K-SFLD14",
+          "nd": 1.7618212081432465,
+          "vd": 26.50612022838979,
+          "delta_nd": 0.0018212081432464888,
+          "delta_vd": 0.5061202283897899,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "OHARA",
+          "name": "S-TIH14",
+          "nd": 1.7618207428267976,
+          "vd": 26.51788494729722,
+          "delta_nd": 0.0018207428267975612,
+          "delta_vd": 0.5178849472972189,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "PILKINGTON",
+          "name": "DEDF762265A",
+          "nd": 1.7618223057931133,
+          "vd": 26.527774489854483,
+          "delta_nd": 0.0018223057931132658,
+          "delta_vd": 0.5277744898544832,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_overall": [
+        {
+          "catalog": "SUMITA",
+          "name": "K-SFLD14",
+          "nd": 1.7618212081432465,
+          "vd": 26.50612022838979,
+          "delta_nd": 0.0018212081432464888,
+          "delta_vd": 0.5061202283897899,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "OHARA",
+          "name": "S-TIH14",
+          "nd": 1.7618207428267976,
+          "vd": 26.51788494729722,
+          "delta_nd": 0.0018207428267975612,
+          "delta_vd": 0.5178849472972189,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ],
+      "closest_ordinary": [
+        {
+          "catalog": "SUMITA",
+          "name": "K-SFLD14",
+          "nd": 1.7618212081432465,
+          "vd": 26.50612022838979,
+          "delta_nd": 0.0018212081432464888,
+          "delta_vd": 0.5061202283897899,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "OHARA",
+          "name": "S-TIH14",
+          "nd": 1.7618207428267976,
+          "vd": 26.51788494729722,
+          "delta_nd": 0.0018207428267975612,
+          "delta_vd": 0.5178849472972189,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "PILKINGTON",
+          "name": "DEDF762265A",
+          "nd": 1.7618223057931133,
+          "vd": 26.527774489854483,
+          "delta_nd": 0.0018223057931132658,
+          "delta_vd": 0.5277744898544832,
+          "status": "Standard",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        },
+        {
+          "catalog": "SCHOTT",
+          "name": "N-SF14",
+          "nd": 1.761820067441329,
+          "vd": 26.530010648197372,
+          "delta_nd": 0.0018200674413288986,
+          "delta_vd": 0.5300106481973721,
+          "status": "Preferred",
+          "within_published_rounding": false,
+          "basis": "Computed from AGF CD dispersion coefficients"
+        }
+      ]
+    }
+  ]
+}

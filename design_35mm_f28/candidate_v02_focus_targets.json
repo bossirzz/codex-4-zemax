@@ -1,0 +1,50 @@
+[
+  {
+    "wd": 200,
+    "gap": 2.0582039759155992,
+    "frequency_center": 150,
+    "frequency_edge": 120
+  },
+  {
+    "wd": 300,
+    "gap": 1.4489100272908337,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 400,
+    "gap": 1.1345858701619798,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 450,
+    "gap": 1.0283267146879393,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 500,
+    "gap": 0.9427758818419517,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 800,
+    "gap": 0.650417482694357,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 2000,
+    "gap": 0.35234169211857647,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 100000000.0,
+    "gap": 0.1503688702857217,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  }
+]

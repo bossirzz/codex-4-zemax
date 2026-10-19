@@ -1,0 +1,732 @@
+[
+  {
+    "row": 1,
+    "type": "TEMP",
+    "surface": 0
+  },
+  {
+    "row": 2,
+    "type": "PRES",
+    "surface": 0
+  },
+  {
+    "row": 3,
+    "type": "THIC",
+    "surface": 0
+  },
+  {
+    "row": 4,
+    "type": "CRVT",
+    "surface": 1
+  },
+  {
+    "row": 5,
+    "type": "THIC",
+    "surface": 1
+  },
+  {
+    "row": 6,
+    "type": "GLSS",
+    "surface": 1
+  },
+  {
+    "row": 7,
+    "type": "SDIA",
+    "surface": 1
+  },
+  {
+    "row": 8,
+    "type": "CHZN",
+    "surface": 1
+  },
+  {
+    "row": 9,
+    "type": "MCSD",
+    "surface": 1
+  },
+  {
+    "row": 10,
+    "type": "PRAM",
+    "surface": 1
+  },
+  {
+    "row": 11,
+    "type": "PRAM",
+    "surface": 1
+  },
+  {
+    "row": 12,
+    "type": "PRAM",
+    "surface": 1
+  },
+  {
+    "row": 13,
+    "type": "PRAM",
+    "surface": 1
+  },
+  {
+    "row": 14,
+    "type": "PRAM",
+    "surface": 1
+  },
+  {
+    "row": 15,
+    "type": "PRAM",
+    "surface": 1
+  },
+  {
+    "row": 16,
+    "type": "PRAM",
+    "surface": 1
+  },
+  {
+    "row": 17,
+    "type": "PRAM",
+    "surface": 1
+  },
+  {
+    "row": 18,
+    "type": "CRVT",
+    "surface": 2
+  },
+  {
+    "row": 19,
+    "type": "THIC",
+    "surface": 2
+  },
+  {
+    "row": 20,
+    "type": "SDIA",
+    "surface": 2
+  },
+  {
+    "row": 21,
+    "type": "CHZN",
+    "surface": 2
+  },
+  {
+    "row": 22,
+    "type": "MCSD",
+    "surface": 2
+  },
+  {
+    "row": 23,
+    "type": "PRAM",
+    "surface": 2
+  },
+  {
+    "row": 24,
+    "type": "PRAM",
+    "surface": 2
+  },
+  {
+    "row": 25,
+    "type": "PRAM",
+    "surface": 2
+  },
+  {
+    "row": 26,
+    "type": "PRAM",
+    "surface": 2
+  },
+  {
+    "row": 27,
+    "type": "PRAM",
+    "surface": 2
+  },
+  {
+    "row": 28,
+    "type": "PRAM",
+    "surface": 2
+  },
+  {
+    "row": 29,
+    "type": "PRAM",
+    "surface": 2
+  },
+  {
+    "row": 30,
+    "type": "PRAM",
+    "surface": 2
+  },
+  {
+    "row": 31,
+    "type": "CRVT",
+    "surface": 3
+  },
+  {
+    "row": 32,
+    "type": "THIC",
+    "surface": 3
+  },
+  {
+    "row": 33,
+    "type": "GLSS",
+    "surface": 3
+  },
+  {
+    "row": 34,
+    "type": "SDIA",
+    "surface": 3
+  },
+  {
+    "row": 35,
+    "type": "CHZN",
+    "surface": 3
+  },
+  {
+    "row": 36,
+    "type": "MCSD",
+    "surface": 3
+  },
+  {
+    "row": 37,
+    "type": "PRAM",
+    "surface": 3
+  },
+  {
+    "row": 38,
+    "type": "PRAM",
+    "surface": 3
+  },
+  {
+    "row": 39,
+    "type": "PRAM",
+    "surface": 3
+  },
+  {
+    "row": 40,
+    "type": "PRAM",
+    "surface": 3
+  },
+  {
+    "row": 41,
+    "type": "PRAM",
+    "surface": 3
+  },
+  {
+    "row": 42,
+    "type": "PRAM",
+    "surface": 3
+  },
+  {
+    "row": 43,
+    "type": "PRAM",
+    "surface": 3
+  },
+  {
+    "row": 44,
+    "type": "PRAM",
+    "surface": 3
+  },
+  {
+    "row": 45,
+    "type": "CRVT",
+    "surface": 4
+  },
+  {
+    "row": 46,
+    "type": "THIC",
+    "surface": 4
+  },
+  {
+    "row": 47,
+    "type": "GLSS",
+    "surface": 4
+  },
+  {
+    "row": 48,
+    "type": "SDIA",
+    "surface": 4
+  },
+  {
+    "row": 49,
+    "type": "CHZN",
+    "surface": 4
+  },
+  {
+    "row": 50,
+    "type": "MCSD",
+    "surface": 4
+  },
+  {
+    "row": 51,
+    "type": "CRVT",
+    "surface": 5
+  },
+  {
+    "row": 52,
+    "type": "THIC",
+    "surface": 5
+  },
+  {
+    "row": 53,
+    "type": "SDIA",
+    "surface": 5
+  },
+  {
+    "row": 54,
+    "type": "CHZN",
+    "surface": 5
+  },
+  {
+    "row": 55,
+    "type": "MCSD",
+    "surface": 5
+  },
+  {
+    "row": 56,
+    "type": "THIC",
+    "surface": 6
+  },
+  {
+    "row": 57,
+    "type": "CRVT",
+    "surface": 7
+  },
+  {
+    "row": 58,
+    "type": "THIC",
+    "surface": 7
+  },
+  {
+    "row": 59,
+    "type": "GLSS",
+    "surface": 7
+  },
+  {
+    "row": 60,
+    "type": "SDIA",
+    "surface": 7
+  },
+  {
+    "row": 61,
+    "type": "CHZN",
+    "surface": 7
+  },
+  {
+    "row": 62,
+    "type": "MCSD",
+    "surface": 7
+  },
+  {
+    "row": 63,
+    "type": "PRAM",
+    "surface": 7
+  },
+  {
+    "row": 64,
+    "type": "PRAM",
+    "surface": 7
+  },
+  {
+    "row": 65,
+    "type": "PRAM",
+    "surface": 7
+  },
+  {
+    "row": 66,
+    "type": "PRAM",
+    "surface": 7
+  },
+  {
+    "row": 67,
+    "type": "PRAM",
+    "surface": 7
+  },
+  {
+    "row": 68,
+    "type": "PRAM",
+    "surface": 7
+  },
+  {
+    "row": 69,
+    "type": "PRAM",
+    "surface": 7
+  },
+  {
+    "row": 70,
+    "type": "PRAM",
+    "surface": 7
+  },
+  {
+    "row": 71,
+    "type": "CRVT",
+    "surface": 8
+  },
+  {
+    "row": 72,
+    "type": "THIC",
+    "surface": 8
+  },
+  {
+    "row": 73,
+    "type": "GLSS",
+    "surface": 8
+  },
+  {
+    "row": 74,
+    "type": "SDIA",
+    "surface": 8
+  },
+  {
+    "row": 75,
+    "type": "CHZN",
+    "surface": 8
+  },
+  {
+    "row": 76,
+    "type": "MCSD",
+    "surface": 8
+  },
+  {
+    "row": 77,
+    "type": "CRVT",
+    "surface": 9
+  },
+  {
+    "row": 78,
+    "type": "THIC",
+    "surface": 9
+  },
+  {
+    "row": 79,
+    "type": "SDIA",
+    "surface": 9
+  },
+  {
+    "row": 80,
+    "type": "CHZN",
+    "surface": 9
+  },
+  {
+    "row": 81,
+    "type": "MCSD",
+    "surface": 9
+  },
+  {
+    "row": 82,
+    "type": "PRAM",
+    "surface": 9
+  },
+  {
+    "row": 83,
+    "type": "PRAM",
+    "surface": 9
+  },
+  {
+    "row": 84,
+    "type": "PRAM",
+    "surface": 9
+  },
+  {
+    "row": 85,
+    "type": "PRAM",
+    "surface": 9
+  },
+  {
+    "row": 86,
+    "type": "PRAM",
+    "surface": 9
+  },
+  {
+    "row": 87,
+    "type": "PRAM",
+    "surface": 9
+  },
+  {
+    "row": 88,
+    "type": "PRAM",
+    "surface": 9
+  },
+  {
+    "row": 89,
+    "type": "PRAM",
+    "surface": 9
+  },
+  {
+    "row": 90,
+    "type": "CRVT",
+    "surface": 10
+  },
+  {
+    "row": 91,
+    "type": "THIC",
+    "surface": 10
+  },
+  {
+    "row": 92,
+    "type": "GLSS",
+    "surface": 10
+  },
+  {
+    "row": 93,
+    "type": "SDIA",
+    "surface": 10
+  },
+  {
+    "row": 94,
+    "type": "CHZN",
+    "surface": 10
+  },
+  {
+    "row": 95,
+    "type": "MCSD",
+    "surface": 10
+  },
+  {
+    "row": 96,
+    "type": "PRAM",
+    "surface": 10
+  },
+  {
+    "row": 97,
+    "type": "PRAM",
+    "surface": 10
+  },
+  {
+    "row": 98,
+    "type": "PRAM",
+    "surface": 10
+  },
+  {
+    "row": 99,
+    "type": "PRAM",
+    "surface": 10
+  },
+  {
+    "row": 100,
+    "type": "PRAM",
+    "surface": 10
+  },
+  {
+    "row": 101,
+    "type": "PRAM",
+    "surface": 10
+  },
+  {
+    "row": 102,
+    "type": "PRAM",
+    "surface": 10
+  },
+  {
+    "row": 103,
+    "type": "PRAM",
+    "surface": 10
+  },
+  {
+    "row": 104,
+    "type": "CRVT",
+    "surface": 11
+  },
+  {
+    "row": 105,
+    "type": "THIC",
+    "surface": 11
+  },
+  {
+    "row": 106,
+    "type": "SDIA",
+    "surface": 11
+  },
+  {
+    "row": 107,
+    "type": "CHZN",
+    "surface": 11
+  },
+  {
+    "row": 108,
+    "type": "MCSD",
+    "surface": 11
+  },
+  {
+    "row": 109,
+    "type": "CRVT",
+    "surface": 12
+  },
+  {
+    "row": 110,
+    "type": "THIC",
+    "surface": 12
+  },
+  {
+    "row": 111,
+    "type": "GLSS",
+    "surface": 12
+  },
+  {
+    "row": 112,
+    "type": "SDIA",
+    "surface": 12
+  },
+  {
+    "row": 113,
+    "type": "CHZN",
+    "surface": 12
+  },
+  {
+    "row": 114,
+    "type": "MCSD",
+    "surface": 12
+  },
+  {
+    "row": 115,
+    "type": "PRAM",
+    "surface": 12
+  },
+  {
+    "row": 116,
+    "type": "PRAM",
+    "surface": 12
+  },
+  {
+    "row": 117,
+    "type": "PRAM",
+    "surface": 12
+  },
+  {
+    "row": 118,
+    "type": "PRAM",
+    "surface": 12
+  },
+  {
+    "row": 119,
+    "type": "PRAM",
+    "surface": 12
+  },
+  {
+    "row": 120,
+    "type": "PRAM",
+    "surface": 12
+  },
+  {
+    "row": 121,
+    "type": "PRAM",
+    "surface": 12
+  },
+  {
+    "row": 122,
+    "type": "PRAM",
+    "surface": 12
+  },
+  {
+    "row": 123,
+    "type": "CRVT",
+    "surface": 13
+  },
+  {
+    "row": 124,
+    "type": "THIC",
+    "surface": 13
+  },
+  {
+    "row": 125,
+    "type": "SDIA",
+    "surface": 13
+  },
+  {
+    "row": 126,
+    "type": "CHZN",
+    "surface": 13
+  },
+  {
+    "row": 127,
+    "type": "MCSD",
+    "surface": 13
+  },
+  {
+    "row": 128,
+    "type": "CRVT",
+    "surface": 14
+  },
+  {
+    "row": 129,
+    "type": "THIC",
+    "surface": 14
+  },
+  {
+    "row": 130,
+    "type": "GLSS",
+    "surface": 14
+  },
+  {
+    "row": 131,
+    "type": "SDIA",
+    "surface": 14
+  },
+  {
+    "row": 132,
+    "type": "CHZN",
+    "surface": 14
+  },
+  {
+    "row": 133,
+    "type": "MCSD",
+    "surface": 14
+  },
+  {
+    "row": 134,
+    "type": "CRVT",
+    "surface": 15
+  },
+  {
+    "row": 135,
+    "type": "THIC",
+    "surface": 15
+  },
+  {
+    "row": 136,
+    "type": "SDIA",
+    "surface": 15
+  },
+  {
+    "row": 137,
+    "type": "CHZN",
+    "surface": 15
+  },
+  {
+    "row": 138,
+    "type": "MCSD",
+    "surface": 15
+  },
+  {
+    "row": 139,
+    "type": "PRAM",
+    "surface": 15
+  },
+  {
+    "row": 140,
+    "type": "PRAM",
+    "surface": 15
+  },
+  {
+    "row": 141,
+    "type": "PRAM",
+    "surface": 15
+  },
+  {
+    "row": 142,
+    "type": "PRAM",
+    "surface": 15
+  },
+  {
+    "row": 143,
+    "type": "PRAM",
+    "surface": 15
+  },
+  {
+    "row": 144,
+    "type": "PRAM",
+    "surface": 15
+  },
+  {
+    "row": 145,
+    "type": "PRAM",
+    "surface": 15
+  },
+  {
+    "row": 146,
+    "type": "PRAM",
+    "surface": 15
+  }
+]

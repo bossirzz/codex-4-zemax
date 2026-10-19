@@ -1,0 +1,612 @@
+{
+  "efl_target": 35,
+  "f_number": 2.8,
+  "wd": 500,
+  "fields": [
+    0,
+    3,
+    6.3,
+    9.08
+  ],
+  "glasses": [
+    {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 6502,
+      "name": "H-LAF54",
+      "formula": 1,
+      "nd_nominal": 1.799519,
+      "vd_nominal": 42.253294,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        5.7,
+        7.0,
+        4.51,
+        -0.0064,
+        0.0,
+        0.0
+      ],
+      "CD": [
+        3.14470202,
+        -0.010105906,
+        0.0343096974,
+        -0.000833127912,
+        0.000217008428,
+        -8.70147899e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TD": [
+        6.31e-06,
+        2.13e-08,
+        9.75e-11,
+        1.02e-06,
+        2.29e-10,
+        0.077,
+        20.0
+      ],
+      "LD": [
+        0.365,
+        1.014
+      ],
+      "indices": {
+        "g": 1.8235390430044291,
+        "F": 1.8127957866353293,
+        "d": 1.7995185226689303,
+        "C": 1.7938737465515664,
+        "650nm": 1.794317624203645,
+        "850nm": 1.7843305242651544
+      },
+      "nd": 1.7995185226689303,
+      "vd": 42.253293996296044,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5677641692725703,
+      "nd_nominal_difference": -4.773310697814281e-07,
+      "vd_nominal_difference": -3.7039527001070383e-09,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false
+    },
+    {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 89,
+      "name": "H-FK61B",
+      "formula": 2,
+      "nd_nominal": 1.497,
+      "vd_nominal": 81.605419,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        12.7,
+        15.6,
+        3.68,
+        0.031,
+        0.0,
+        0.0
+      ],
+      "CD": [
+        0.714812161,
+        0.0108370689,
+        0.502984998,
+        0.00132155859,
+        0.836119846,
+        153.360674,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TD": [
+        -1.94e-05,
+        2.54e-09,
+        -2.83e-11,
+        3.05e-07,
+        -9.31e-11,
+        0.242,
+        20.0
+      ],
+      "LD": [
+        0.302,
+        2.325
+      ],
+      "indices": {
+        "g": 1.504504212137254,
+        "F": 1.5012293467706195,
+        "d": 1.4970001449410866,
+        "C": 1.495139063206736,
+        "650nm": 1.4952869571850114,
+        "850nm": 1.4918599800127423
+      },
+      "nd": 1.4970001449410866,
+      "vd": 81.60541947314174,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5377196861662027,
+      "nd_nominal_difference": 1.449410864662326e-07,
+      "vd_nominal_difference": 4.7314173912127444e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false
+    },
+    {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 7001,
+      "name": "H-ZLAF53B",
+      "formula": 2,
+      "nd_nominal": 1.834,
+      "vd_nominal": 37.210555,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        5.9,
+        7.2,
+        4.54,
+        -0.004,
+        0.0,
+        0.0
+      ],
+      "CD": [
+        0.302813825,
+        0.04559202,
+        1.25522353,
+        99.9412194,
+        1.95575794,
+        0.010816711,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TD": [
+        9.87e-06,
+        1.65e-08,
+        -3.22e-11,
+        8.9e-07,
+        1.12e-09,
+        0.243,
+        20.0
+      ],
+      "LD": [
+        0.365,
+        2.325
+      ],
+      "indices": {
+        "g": 1.8627698919439764,
+        "F": 1.8498080040727387,
+        "d": 1.8340000218339876,
+        "C": 1.8273950081435126,
+        "650nm": 1.8279109433546046,
+        "850nm": 1.8164669015558386
+      },
+      "nd": 1.8340000218339876,
+      "vd": 37.2105551826951,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5783201813879604,
+      "nd_nominal_difference": 2.1833987506880703e-08,
+      "vd_nominal_difference": 1.8269510349000484e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false
+    },
+    {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 6299,
+      "name": "H-LAF10LA",
+      "formula": 2,
+      "nd_nominal": 1.788,
+      "vd_nominal": 47.491731,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        6.1,
+        7.7,
+        4.3,
+        -0.0097,
+        0.0,
+        0.0
+      ],
+      "CD": [
+        1.93178403,
+        0.00997340769,
+        0.189897276,
+        0.0368891042,
+        1.09736515,
+        77.2777489,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TD": [
+        1.87e-06,
+        1.68e-08,
+        -3.95e-11,
+        5.95e-07,
+        4.28e-10,
+        0.194,
+        20.0
+      ],
+      "LD": [
+        0.302,
+        2.325
+      ],
+      "indices": {
+        "g": 1.8088097747682026,
+        "F": 1.7995992193940633,
+        "d": 1.7879999691441348,
+        "C": 1.783006857980513,
+        "650nm": 1.7834008622743445,
+        "850nm": 1.7744243578426382
+      },
+      "nd": 1.7879999691441348,
+      "vd": 47.49173125535975,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5551081696314407,
+      "nd_nominal_difference": -3.085586519624428e-08,
+      "vd_nominal_difference": 2.5535975112234155e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false
+    },
+    {
+      "catalog": "NHG",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\NHG.agf",
+      "line": 131,
+      "name": "H-FK69",
+      "formula": 1,
+      "nd_nominal": 1.592828,
+      "vd_nominal": 68.6293,
+      "exclude_substitution": false,
+      "status_code": 0,
+      "status": "Standard",
+      "comment": "environmentally improved optical glass",
+      "ED": [
+        11.3,
+        13.6,
+        4.07,
+        0.0145,
+        0.0,
+        0.0
+      ],
+      "CD": [
+        2.50210584,
+        -0.00729437368,
+        0.0122873858,
+        0.000257463363,
+        -1.16391265e-05,
+        6.15553004e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TD": [
+        -1.56e-05,
+        2.44e-09,
+        -1.24e-11,
+        2.89e-07,
+        2.96e-10,
+        0.233,
+        20.0
+      ],
+      "LD": [
+        0.28,
+        2.4
+      ],
+      "indices": {
+        "g": 1.6035327899605858,
+        "F": 1.5988436572204359,
+        "d": 1.592827769837984,
+        "C": 1.5902055424381074,
+        "650nm": 1.5904131066407117,
+        "850nm": 1.5856566571961006
+      },
+      "nd": 1.592827769837984,
+      "vd": 68.6292998850594,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5428421430267153,
+      "nd_nominal_difference": -2.3016201589065588e-07,
+      "vd_nominal_difference": -1.1494060458971944e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false
+    },
+    {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 6299,
+      "name": "H-LAF10LA",
+      "formula": 2,
+      "nd_nominal": 1.788,
+      "vd_nominal": 47.491731,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        6.1,
+        7.7,
+        4.3,
+        -0.0097,
+        0.0,
+        0.0
+      ],
+      "CD": [
+        1.93178403,
+        0.00997340769,
+        0.189897276,
+        0.0368891042,
+        1.09736515,
+        77.2777489,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TD": [
+        1.87e-06,
+        1.68e-08,
+        -3.95e-11,
+        5.95e-07,
+        4.28e-10,
+        0.194,
+        20.0
+      ],
+      "LD": [
+        0.302,
+        2.325
+      ],
+      "indices": {
+        "g": 1.8088097747682026,
+        "F": 1.7995992193940633,
+        "d": 1.7879999691441348,
+        "C": 1.783006857980513,
+        "650nm": 1.7834008622743445,
+        "850nm": 1.7744243578426382
+      },
+      "nd": 1.7879999691441348,
+      "vd": 47.49173125535975,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5551081696314407,
+      "nd_nominal_difference": -3.085586519624428e-08,
+      "vd_nominal_difference": 2.5535975112234155e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false
+    },
+    {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 7001,
+      "name": "H-ZLAF53B",
+      "formula": 2,
+      "nd_nominal": 1.834,
+      "vd_nominal": 37.210555,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        5.9,
+        7.2,
+        4.54,
+        -0.004,
+        0.0,
+        0.0
+      ],
+      "CD": [
+        0.302813825,
+        0.04559202,
+        1.25522353,
+        99.9412194,
+        1.95575794,
+        0.010816711,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TD": [
+        9.87e-06,
+        1.65e-08,
+        -3.22e-11,
+        8.9e-07,
+        1.12e-09,
+        0.243,
+        20.0
+      ],
+      "LD": [
+        0.365,
+        2.325
+      ],
+      "indices": {
+        "g": 1.8627698919439764,
+        "F": 1.8498080040727387,
+        "d": 1.8340000218339876,
+        "C": 1.8273950081435126,
+        "650nm": 1.8279109433546046,
+        "850nm": 1.8164669015558386
+      },
+      "nd": 1.8340000218339876,
+      "vd": 37.2105551826951,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5783201813879604,
+      "nd_nominal_difference": 2.1833987506880703e-08,
+      "vd_nominal_difference": 1.8269510349000484e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false
+    },
+    {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 4772,
+      "name": "H-ZF1",
+      "formula": 2,
+      "nd_nominal": 1.64769,
+      "vd_nominal": 33.840317,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        9.1,
+        11.7,
+        2.73,
+        0.0049,
+        0.0,
+        0.0
+      ],
+      "CD": [
+        1.06294164,
+        108.400406,
+        0.146910876,
+        0.0591797128,
+        1.48922543,
+        0.0115933111,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TD": [
+        -4.73e-06,
+        1.27e-08,
+        -8.17e-11,
+        8.61e-07,
+        9.43e-10,
+        0.263,
+        20.0
+      ],
+      "LD": [
+        0.365,
+        2.325
+      ],
+      "indices": {
+        "g": 1.672588894596038,
+        "F": 1.661239977985317,
+        "d": 1.6476900199667837,
+        "C": 1.6421003810484345,
+        "650nm": 1.6425357992285272,
+        "850nm": 1.6329106290949453
+      },
+      "nd": 1.6476900199667837,
+      "vd": 33.84031660137338,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5929548385029622,
+      "nd_nominal_difference": 1.996678355986603e-08,
+      "vd_nominal_difference": -3.9862661793677034e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false
+    }
+  ],
+  "curvatures": [
+    0.04942067593542607,
+    0.0007439490667716207,
+    0.08122173830240871,
+    -0.013807872220354045,
+    0.09777468276963462,
+    0.0,
+    -0.08675394186674147,
+    0.0480760246974356,
+    -0.09091484409806065,
+    0.036860151163028196,
+    -0.005605431725979404,
+    0.004896746977385794,
+    -0.04018621450266135,
+    -0.051450535818351364,
+    0.02221589897363926
+  ],
+  "thicknesses": [
+    3.9633753304695656,
+    0.12661457761749598,
+    3.4619914364228612,
+    0.6509698117731231,
+    3.1584802137814862,
+    6.545699064238738,
+    1.3224676174665733,
+    5.823284985259761,
+    0.09751014895056274,
+    2.907170076233162,
+    6.794173431581411,
+    2.6475686953739204,
+    0.6563421424911163,
+    1.0079057459655147,
+    14.550962493582473
+  ],
+  "media": [
+    0,
+    -1,
+    1,
+    2,
+    -1,
+    -1,
+    3,
+    4,
+    -1,
+    5,
+    -1,
+    6,
+    -1,
+    7,
+    -1
+  ],
+  "stop_index": 5,
+  "aspheres": [
+    {
+      "surface": 1,
+      "coefficients": [
+        1.3489871609161362e-06,
+        3.2961829300346716e-08,
+        -2.6623076559031224e-10
+      ]
+    },
+    {
+      "surface": 15,
+      "coefficients": [
+        -2.516924755531047e-05,
+        3.837499142443408e-08,
+        1.6822520839970985e-09
+      ]
+    },
+    {
+      "surface": 10,
+      "coefficients": [
+        -9.166591757147552e-06,
+        1.9036719598580079e-07,
+        -1.2676942322659998e-10
+      ]
+    }
+  ],
+  "focus_architecture": "Front six and rear two independently moving, fixed sensor",
+  "fixed_semi_diameters": {
+    "1": 9.06985175911403,
+    "2": 9.06985175911403,
+    "3": 6.91535053067918,
+    "4": 6.91535053067918,
+    "5": 6.91535053067918,
+    "7": 8.15047046589502,
+    "8": 8.15047046589502,
+    "9": 8.15047046589502,
+    "10": 10.1942371618679,
+    "11": 10.1942371618679,
+    "12": 9.40005192628777,
+    "13": 9.40005192628777,
+    "14": 9.24466692392796,
+    "15": 9.24466692392796
+  }
+}

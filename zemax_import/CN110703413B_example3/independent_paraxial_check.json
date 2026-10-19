@@ -1,0 +1,27 @@
+[
+  {
+    "config": "WD500_source",
+    "efl_mm": 29.86664147925419,
+    "paraxial_bfl_infinity_mm": 6.51518773289424
+  },
+  {
+    "config": "WD150_source",
+    "efl_mm": 29.624998009074066,
+    "paraxial_bfl_infinity_mm": 1.0789941182528324
+  },
+  {
+    "config": "WD300_source",
+    "efl_mm": 29.773846548829734,
+    "paraxial_bfl_infinity_mm": 4.427603045136979
+  },
+  {
+    "config": "WD1000_source",
+    "efl_mm": 29.93327849744086,
+    "paraxial_bfl_infinity_mm": 8.014304313595098
+  },
+  {
+    "config": "Infinity_source",
+    "efl_mm": 29.991629148882907,
+    "paraxial_bfl_infinity_mm": 9.327004543164648
+  }
+]

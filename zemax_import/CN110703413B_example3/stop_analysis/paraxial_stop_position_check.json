@@ -1,0 +1,40 @@
+{
+  "method": "independent paraxial ABCD calculation using published Nd",
+  "live_zemax_sweep_performed": false,
+  "stop_surface": 7,
+  "configuration": "WD500",
+  "total_gap_mm": 8.76,
+  "samples": [
+    {
+      "L3R2_to_stop_mm": 1.0,
+      "stop_to_L4R1_mm": 7.76,
+      "efl_mm": 29.86664147925419,
+      "paraxial_bfl_mm": 6.515187732894236,
+      "stop_radius_mm": 3.641147229312901,
+      "entrance_pupil_diameter_mm": 10.666657671162213,
+      "entrance_pupil_position_mm": 9.056290758960255,
+      "exit_pupil_position_relative_image_mm": -57.343122209298784
+    },
+    {
+      "L3R2_to_stop_mm": 4.38,
+      "stop_to_L4R1_mm": 4.38,
+      "efl_mm": 29.86664147925419,
+      "paraxial_bfl_mm": 6.51518773289424,
+      "stop_radius_mm": 3.2378623062522736,
+      "entrance_pupil_diameter_mm": 10.666657671162213,
+      "entrance_pupil_position_mm": 17.211156357478842,
+      "exit_pupil_position_relative_image_mm": -42.07473102538177
+    },
+    {
+      "L3R2_to_stop_mm": 7.76,
+      "stop_to_L4R1_mm": 1.0,
+      "efl_mm": 29.86664147925419,
+      "paraxial_bfl_mm": 6.515187732894236,
+      "stop_radius_mm": 2.8345773831916463,
+      "entrance_pupil_diameter_mm": 10.666657671162213,
+      "entrance_pupil_position_mm": 27.686462643183976,
+      "exit_pupil_position_relative_image_mm": -32.40239668587155
+    }
+  ],
+  "midpoint_agrees_with_saved_zemax_report": true
+}

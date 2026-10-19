@@ -1,0 +1,1071 @@
+{
+  "tag": "candidate_v32_native_focus_refine",
+  "calculation": "Independent geometry; not a native ray-trace or tolerance analysis",
+  "radial_samples_per_gap": 501,
+  "maximum_lens_diameter_mm": 20.697739382973374,
+  "group_strokes_mm": [
+    5.696045595964378,
+    5.4381646404557245,
+    5.8390786143342766
+  ],
+  "stroke_limit_mm": 6.01,
+  "cases": [
+    {
+      "wd": 500,
+      "spacing_passed": true,
+      "worst": {
+        "surface": 8,
+        "material": "glass",
+        "radius_checked_mm": 8.15047046589502,
+        "minimum_at_radius_mm": 8.15047046589502,
+        "minimum_mm": 0.45296247812888213,
+        "required_mm": 0.45,
+        "margin_mm": 0.002962478128882118
+      },
+      "gaps": [
+        {
+          "surface": 1,
+          "material": "glass",
+          "radius_checked_mm": 9.4,
+          "minimum_at_radius_mm": 9.4,
+          "minimum_mm": 1.7401887092215889,
+          "required_mm": 0.45,
+          "margin_mm": 1.290188709221589
+        },
+        {
+          "surface": 2,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.10300727604112,
+          "required_mm": 0.1,
+          "margin_mm": 0.0030072760411199995
+        },
+        {
+          "surface": 3,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.9581498104847568,
+          "required_mm": 0.45,
+          "margin_mm": 0.5081498104847568
+        },
+        {
+          "surface": 4,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.640001499578254,
+          "required_mm": 0.45,
+          "margin_mm": 0.19000149957825402
+        },
+        {
+          "surface": 5,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.31179737643864325,
+          "required_mm": 0.3,
+          "margin_mm": 0.011797376438643259
+        },
+        {
+          "surface": 6,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 3.1781318159295604,
+          "required_mm": 0.3,
+          "margin_mm": 2.8781318159295606
+        },
+        {
+          "surface": 7,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.39022477593015,
+          "required_mm": 0.45,
+          "margin_mm": 0.9402247759301501
+        },
+        {
+          "surface": 8,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 0.45296247812888213,
+          "required_mm": 0.45,
+          "margin_mm": 0.002962478128882118
+        },
+        {
+          "surface": 9,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.119986749625481,
+          "required_mm": 0.1,
+          "margin_mm": 0.019986749625481
+        },
+        {
+          "surface": 10,
+          "material": "glass",
+          "radius_checked_mm": 10.348869691486687,
+          "minimum_at_radius_mm": 10.348869691486687,
+          "minimum_mm": 0.45297711955563447,
+          "required_mm": 0.45,
+          "margin_mm": 0.0029771195556344554
+        },
+        {
+          "surface": 11,
+          "material": "air",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 6.822305456944513,
+          "required_mm": 0.1,
+          "margin_mm": 6.722305456944514
+        },
+        {
+          "surface": 12,
+          "material": "glass",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 9.40005192628777,
+          "minimum_mm": 0.7391026942880672,
+          "required_mm": 0.45,
+          "margin_mm": 0.2891026942880672
+        },
+        {
+          "surface": 13,
+          "material": "air",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 9.24466692392796,
+          "minimum_mm": 0.12692303036685915,
+          "required_mm": 0.1,
+          "margin_mm": 0.02692303036685914
+        },
+        {
+          "surface": 14,
+          "material": "glass",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.03375025571685,
+          "required_mm": 0.45,
+          "margin_mm": 0.5837502557168501
+        }
+      ],
+      "independent_paraxial_efl_mm": 35.04438018733194,
+      "independent_paraxial_bfl_mm": 12.006156060659983,
+      "group_positions_from_sensor_mm": [
+        53.89516704223569,
+        36.154850139931725,
+        18.981115749952053
+      ],
+      "geometric_back_clearance_mm": 14.607115959869693,
+      "ttl_mm": 53.89516704223569
+    },
+    {
+      "wd": 200,
+      "spacing_passed": true,
+      "worst": {
+        "surface": 8,
+        "material": "glass",
+        "radius_checked_mm": 8.15047046589502,
+        "minimum_at_radius_mm": 8.15047046589502,
+        "minimum_mm": 0.45296247812888213,
+        "required_mm": 0.45,
+        "margin_mm": 0.002962478128882118
+      },
+      "gaps": [
+        {
+          "surface": 1,
+          "material": "glass",
+          "radius_checked_mm": 9.4,
+          "minimum_at_radius_mm": 9.4,
+          "minimum_mm": 1.7401887092215889,
+          "required_mm": 0.45,
+          "margin_mm": 1.290188709221589
+        },
+        {
+          "surface": 2,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.10300727604112,
+          "required_mm": 0.1,
+          "margin_mm": 0.0030072760411199995
+        },
+        {
+          "surface": 3,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.9581498104847568,
+          "required_mm": 0.45,
+          "margin_mm": 0.5081498104847568
+        },
+        {
+          "surface": 4,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.640001499578254,
+          "required_mm": 0.45,
+          "margin_mm": 0.19000149957825402
+        },
+        {
+          "surface": 5,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.31179737643864325,
+          "required_mm": 0.3,
+          "margin_mm": 0.011797376438643259
+        },
+        {
+          "surface": 6,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 3.417607505270571,
+          "required_mm": 0.3,
+          "margin_mm": 3.117607505270571
+        },
+        {
+          "surface": 7,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.39022477593015,
+          "required_mm": 0.45,
+          "margin_mm": 0.9402247759301501
+        },
+        {
+          "surface": 8,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 0.45296247812888213,
+          "required_mm": 0.45,
+          "margin_mm": 0.002962478128882118
+        },
+        {
+          "surface": 9,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.119986749625481,
+          "required_mm": 0.1,
+          "margin_mm": 0.019986749625481
+        },
+        {
+          "surface": 10,
+          "material": "glass",
+          "radius_checked_mm": 10.348869691486687,
+          "minimum_at_radius_mm": 10.348869691486687,
+          "minimum_mm": 0.45297711955563447,
+          "required_mm": 0.45,
+          "margin_mm": 0.0029771195556344554
+        },
+        {
+          "surface": 11,
+          "material": "air",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 7.305461500667251,
+          "required_mm": 0.1,
+          "margin_mm": 7.205461500667251
+        },
+        {
+          "surface": 12,
+          "material": "glass",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 9.40005192628777,
+          "minimum_mm": 0.7391026942880672,
+          "required_mm": 0.45,
+          "margin_mm": 0.2891026942880672
+        },
+        {
+          "surface": 13,
+          "material": "air",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 9.24466692392796,
+          "minimum_mm": 0.12692303036685915,
+          "required_mm": 0.1,
+          "margin_mm": 0.02692303036685914
+        },
+        {
+          "surface": 14,
+          "material": "glass",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.03375025571685,
+          "required_mm": 0.45,
+          "margin_mm": 0.5837502557168501
+        }
+      ],
+      "independent_paraxial_efl_mm": 34.95893127377119,
+      "independent_paraxial_bfl_mm": 11.341946675748629,
+      "group_positions_from_sensor_mm": [
+        58.04530622147596,
+        40.06551362983099,
+        22.40862319612858
+      ],
+      "geometric_back_clearance_mm": 18.03462340604622,
+      "ttl_mm": 58.04530622147596
+    },
+    {
+      "wd": 800,
+      "spacing_passed": true,
+      "worst": {
+        "surface": 8,
+        "material": "glass",
+        "radius_checked_mm": 8.15047046589502,
+        "minimum_at_radius_mm": 8.15047046589502,
+        "minimum_mm": 0.45296247812888213,
+        "required_mm": 0.45,
+        "margin_mm": 0.002962478128882118
+      },
+      "gaps": [
+        {
+          "surface": 1,
+          "material": "glass",
+          "radius_checked_mm": 9.4,
+          "minimum_at_radius_mm": 9.4,
+          "minimum_mm": 1.7401887092215889,
+          "required_mm": 0.45,
+          "margin_mm": 1.290188709221589
+        },
+        {
+          "surface": 2,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.10300727604112,
+          "required_mm": 0.1,
+          "margin_mm": 0.0030072760411199995
+        },
+        {
+          "surface": 3,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.9581498104847568,
+          "required_mm": 0.45,
+          "margin_mm": 0.5081498104847568
+        },
+        {
+          "surface": 4,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.640001499578254,
+          "required_mm": 0.45,
+          "margin_mm": 0.19000149957825402
+        },
+        {
+          "surface": 5,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.31179737643864325,
+          "required_mm": 0.3,
+          "margin_mm": 0.011797376438643259
+        },
+        {
+          "surface": 6,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 2.6374158424211296,
+          "required_mm": 0.3,
+          "margin_mm": 2.3374158424211298
+        },
+        {
+          "surface": 7,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.39022477593015,
+          "required_mm": 0.45,
+          "margin_mm": 0.9402247759301501
+        },
+        {
+          "surface": 8,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 0.45296247812888213,
+          "required_mm": 0.45,
+          "margin_mm": 0.002962478128882118
+        },
+        {
+          "surface": 9,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.119986749625481,
+          "required_mm": 0.1,
+          "margin_mm": 0.019986749625481
+        },
+        {
+          "surface": 10,
+          "material": "glass",
+          "radius_checked_mm": 10.348869691486687,
+          "minimum_at_radius_mm": 10.348869691486687,
+          "minimum_mm": 0.45297711955563447,
+          "required_mm": 0.45,
+          "margin_mm": 0.0029771195556344554
+        },
+        {
+          "surface": 11,
+          "material": "air",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 6.817627095544689,
+          "required_mm": 0.1,
+          "margin_mm": 6.71762709554469
+        },
+        {
+          "surface": 12,
+          "material": "glass",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 9.40005192628777,
+          "minimum_mm": 0.7391026942880672,
+          "required_mm": 0.45,
+          "margin_mm": 0.2891026942880672
+        },
+        {
+          "surface": 13,
+          "material": "air",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 9.24466692392796,
+          "minimum_mm": 0.12692303036685915,
+          "required_mm": 0.1,
+          "margin_mm": 0.02692303036685914
+        },
+        {
+          "surface": 14,
+          "material": "glass",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.03375025571685,
+          "required_mm": 0.45,
+          "margin_mm": 0.5837502557168501
+        }
+      ],
+      "independent_paraxial_efl_mm": 34.7467814485404,
+      "independent_paraxial_bfl_mm": 12.164084145206484,
+      "group_positions_from_sensor_mm": [
+        52.50970179506236,
+        35.31010086626683,
+        18.141044837686984
+      ],
+      "geometric_back_clearance_mm": 13.767045047604624,
+      "ttl_mm": 52.50970179506236
+    },
+    {
+      "wd": 10000000.0,
+      "spacing_passed": true,
+      "worst": {
+        "surface": 8,
+        "material": "glass",
+        "radius_checked_mm": 8.15047046589502,
+        "minimum_at_radius_mm": 8.15047046589502,
+        "minimum_mm": 0.45296247812888213,
+        "required_mm": 0.45,
+        "margin_mm": 0.002962478128882118
+      },
+      "gaps": [
+        {
+          "surface": 1,
+          "material": "glass",
+          "radius_checked_mm": 9.4,
+          "minimum_at_radius_mm": 9.4,
+          "minimum_mm": 1.7401887092215889,
+          "required_mm": 0.45,
+          "margin_mm": 1.290188709221589
+        },
+        {
+          "surface": 2,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.10300727604112,
+          "required_mm": 0.1,
+          "margin_mm": 0.0030072760411199995
+        },
+        {
+          "surface": 3,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.9581498104847568,
+          "required_mm": 0.45,
+          "margin_mm": 0.5081498104847568
+        },
+        {
+          "surface": 4,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.640001499578254,
+          "required_mm": 0.45,
+          "margin_mm": 0.19000149957825402
+        },
+        {
+          "surface": 5,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.31179737643864325,
+          "required_mm": 0.3,
+          "margin_mm": 0.011797376438643259
+        },
+        {
+          "surface": 6,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 3.181075629820048,
+          "required_mm": 0.3,
+          "margin_mm": 2.881075629820048
+        },
+        {
+          "surface": 7,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.39022477593015,
+          "required_mm": 0.45,
+          "margin_mm": 0.9402247759301501
+        },
+        {
+          "surface": 8,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 0.45296247812888213,
+          "required_mm": 0.45,
+          "margin_mm": 0.002962478128882118
+        },
+        {
+          "surface": 9,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.119986749625481,
+          "required_mm": 0.1,
+          "margin_mm": 0.019986749625481
+        },
+        {
+          "surface": 10,
+          "material": "glass",
+          "radius_checked_mm": 10.348869691486687,
+          "minimum_at_radius_mm": 10.348869691486687,
+          "minimum_mm": 0.45297711955563447,
+          "required_mm": 0.45,
+          "margin_mm": 0.0029771195556344554
+        },
+        {
+          "surface": 11,
+          "material": "air",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.2155095050408422,
+          "required_mm": 0.1,
+          "margin_mm": 1.1155095050408421
+        },
+        {
+          "surface": 12,
+          "material": "glass",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 9.40005192628777,
+          "minimum_mm": 0.7391026942880672,
+          "required_mm": 0.45,
+          "margin_mm": 0.2891026942880672
+        },
+        {
+          "surface": 13,
+          "material": "air",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 9.24466692392796,
+          "minimum_mm": 0.12692303036685915,
+          "required_mm": 0.1,
+          "margin_mm": 0.02692303036685914
+        },
+        {
+          "surface": 14,
+          "material": "glass",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.03375025571685,
+          "required_mm": 0.45,
+          "margin_mm": 0.5837502557168501
+        }
+      ],
+      "independent_paraxial_efl_mm": 37.80707196186119,
+      "independent_paraxial_bfl_mm": 19.524135600670768,
+      "group_positions_from_sensor_mm": [
+        53.29032260629171,
+        35.54706189009726,
+        23.98012345202126
+      ],
+      "geometric_back_clearance_mm": 19.6061236619389,
+      "ttl_mm": 53.29032260629171
+    },
+    {
+      "wd": 300.0,
+      "spacing_passed": true,
+      "worst": {
+        "surface": 8,
+        "material": "glass",
+        "radius_checked_mm": 8.15047046589502,
+        "minimum_at_radius_mm": 8.15047046589502,
+        "minimum_mm": 0.45296247812888213,
+        "required_mm": 0.45,
+        "margin_mm": 0.002962478128882118
+      },
+      "gaps": [
+        {
+          "surface": 1,
+          "material": "glass",
+          "radius_checked_mm": 9.4,
+          "minimum_at_radius_mm": 9.4,
+          "minimum_mm": 1.7401887092215889,
+          "required_mm": 0.45,
+          "margin_mm": 1.290188709221589
+        },
+        {
+          "surface": 2,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.10300727604112,
+          "required_mm": 0.1,
+          "margin_mm": 0.0030072760411199995
+        },
+        {
+          "surface": 3,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.9581498104847568,
+          "required_mm": 0.45,
+          "margin_mm": 0.5081498104847568
+        },
+        {
+          "surface": 4,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.640001499578254,
+          "required_mm": 0.45,
+          "margin_mm": 0.19000149957825402
+        },
+        {
+          "surface": 5,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.31179737643864325,
+          "required_mm": 0.3,
+          "margin_mm": 0.011797376438643259
+        },
+        {
+          "surface": 6,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 3.942046654503265,
+          "required_mm": 0.3,
+          "margin_mm": 3.642046654503265
+        },
+        {
+          "surface": 7,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.39022477593015,
+          "required_mm": 0.45,
+          "margin_mm": 0.9402247759301501
+        },
+        {
+          "surface": 8,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 0.45296247812888213,
+          "required_mm": 0.45,
+          "margin_mm": 0.002962478128882118
+        },
+        {
+          "surface": 9,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.119986749625481,
+          "required_mm": 0.1,
+          "margin_mm": 0.019986749625481
+        },
+        {
+          "surface": 10,
+          "material": "glass",
+          "radius_checked_mm": 10.348869691486687,
+          "minimum_at_radius_mm": 10.348869691486687,
+          "minimum_mm": 0.45297711955563447,
+          "required_mm": 0.45,
+          "margin_mm": 0.0029771195556344554
+        },
+        {
+          "surface": 11,
+          "material": "air",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 6.826446582956873,
+          "required_mm": 0.1,
+          "margin_mm": 6.726446582956873
+        },
+        {
+          "surface": 12,
+          "material": "glass",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 9.40005192628777,
+          "minimum_mm": 0.7391026942880672,
+          "required_mm": 0.45,
+          "margin_mm": 0.2891026942880672
+        },
+        {
+          "surface": 13,
+          "material": "air",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 9.24466692392796,
+          "minimum_mm": 0.12692303036685915,
+          "required_mm": 0.1,
+          "margin_mm": 0.02692303036685914
+        },
+        {
+          "surface": 14,
+          "material": "glass",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.03375025571685,
+          "required_mm": 0.45,
+          "margin_mm": 0.5837502557168501
+        }
+      ],
+      "independent_paraxial_efl_mm": 35.47483194779419,
+      "independent_paraxial_bfl_mm": 11.781629411262513,
+      "group_positions_from_sensor_mm": [
+        56.324993121166344,
+        37.82076138028867,
+        20.642885864296645
+      ],
+      "geometric_back_clearance_mm": 16.268886074214283,
+      "ttl_mm": 56.324993121166344
+    },
+    {
+      "wd": 400.0,
+      "spacing_passed": true,
+      "worst": {
+        "surface": 8,
+        "material": "glass",
+        "radius_checked_mm": 8.15047046589502,
+        "minimum_at_radius_mm": 8.15047046589502,
+        "minimum_mm": 0.45296247812888213,
+        "required_mm": 0.45,
+        "margin_mm": 0.002962478128882118
+      },
+      "gaps": [
+        {
+          "surface": 1,
+          "material": "glass",
+          "radius_checked_mm": 9.4,
+          "minimum_at_radius_mm": 9.4,
+          "minimum_mm": 1.7401887092215889,
+          "required_mm": 0.45,
+          "margin_mm": 1.290188709221589
+        },
+        {
+          "surface": 2,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.10300727604112,
+          "required_mm": 0.1,
+          "margin_mm": 0.0030072760411199995
+        },
+        {
+          "surface": 3,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.9581498104847568,
+          "required_mm": 0.45,
+          "margin_mm": 0.5081498104847568
+        },
+        {
+          "surface": 4,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.640001499578254,
+          "required_mm": 0.45,
+          "margin_mm": 0.19000149957825402
+        },
+        {
+          "surface": 5,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.31179737643864325,
+          "required_mm": 0.3,
+          "margin_mm": 0.011797376438643259
+        },
+        {
+          "surface": 6,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 3.468524733532115,
+          "required_mm": 0.3,
+          "margin_mm": 3.168524733532115
+        },
+        {
+          "surface": 7,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.39022477593015,
+          "required_mm": 0.45,
+          "margin_mm": 0.9402247759301501
+        },
+        {
+          "surface": 8,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 0.45296247812888213,
+          "required_mm": 0.45,
+          "margin_mm": 0.002962478128882118
+        },
+        {
+          "surface": 9,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.119986749625481,
+          "required_mm": 0.1,
+          "margin_mm": 0.019986749625481
+        },
+        {
+          "surface": 10,
+          "material": "glass",
+          "radius_checked_mm": 10.348869691486687,
+          "minimum_at_radius_mm": 10.348869691486687,
+          "minimum_mm": 0.45297711955563447,
+          "required_mm": 0.45,
+          "margin_mm": 0.0029771195556344554
+        },
+        {
+          "surface": 11,
+          "material": "air",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 6.796457898299571,
+          "required_mm": 0.1,
+          "margin_mm": 6.696457898299571
+        },
+        {
+          "surface": 12,
+          "material": "glass",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 9.40005192628777,
+          "minimum_mm": 0.7391026942880672,
+          "required_mm": 0.45,
+          "margin_mm": 0.2891026942880672
+        },
+        {
+          "surface": 13,
+          "material": "air",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 9.24466692392796,
+          "minimum_mm": 0.12692303036685915,
+          "required_mm": 0.1,
+          "margin_mm": 0.02692303036685914
+        },
+        {
+          "surface": 14,
+          "material": "glass",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.03375025571685,
+          "required_mm": 0.45,
+          "margin_mm": 0.5837502557168501
+        }
+      ],
+      "independent_paraxial_efl_mm": 35.219336651169165,
+      "independent_paraxial_bfl_mm": 11.955472110046575,
+      "group_positions_from_sensor_mm": [
+        54.801023912201074,
+        36.770314092294555,
+        19.622427260959828
+      ],
+      "geometric_back_clearance_mm": 15.248427470877468,
+      "ttl_mm": 54.801023912201074
+    },
+    {
+      "wd": 2000.0,
+      "spacing_passed": true,
+      "worst": {
+        "surface": 8,
+        "material": "glass",
+        "radius_checked_mm": 8.15047046589502,
+        "minimum_at_radius_mm": 8.15047046589502,
+        "minimum_mm": 0.45296247812888213,
+        "required_mm": 0.45,
+        "margin_mm": 0.002962478128882118
+      },
+      "gaps": [
+        {
+          "surface": 1,
+          "material": "glass",
+          "radius_checked_mm": 9.4,
+          "minimum_at_radius_mm": 9.4,
+          "minimum_mm": 1.7401887092215889,
+          "required_mm": 0.45,
+          "margin_mm": 1.290188709221589
+        },
+        {
+          "surface": 2,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.10300727604112,
+          "required_mm": 0.1,
+          "margin_mm": 0.0030072760411199995
+        },
+        {
+          "surface": 3,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.9581498104847568,
+          "required_mm": 0.45,
+          "margin_mm": 0.5081498104847568
+        },
+        {
+          "surface": 4,
+          "material": "glass",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.640001499578254,
+          "required_mm": 0.45,
+          "margin_mm": 0.19000149957825402
+        },
+        {
+          "surface": 5,
+          "material": "air",
+          "radius_checked_mm": 7.0,
+          "minimum_at_radius_mm": 7.0,
+          "minimum_mm": 0.31179737643864325,
+          "required_mm": 0.3,
+          "margin_mm": 0.011797376438643259
+        },
+        {
+          "surface": 6,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 3.159726549761911,
+          "required_mm": 0.3,
+          "margin_mm": 2.8597265497619113
+        },
+        {
+          "surface": 7,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.39022477593015,
+          "required_mm": 0.45,
+          "margin_mm": 0.9402247759301501
+        },
+        {
+          "surface": 8,
+          "material": "glass",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 8.15047046589502,
+          "minimum_mm": 0.45296247812888213,
+          "required_mm": 0.45,
+          "margin_mm": 0.002962478128882118
+        },
+        {
+          "surface": 9,
+          "material": "air",
+          "radius_checked_mm": 8.15047046589502,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 0.119986749625481,
+          "required_mm": 0.1,
+          "margin_mm": 0.019986749625481
+        },
+        {
+          "surface": 10,
+          "material": "glass",
+          "radius_checked_mm": 10.348869691486687,
+          "minimum_at_radius_mm": 10.348869691486687,
+          "minimum_mm": 0.45297711955563447,
+          "required_mm": 0.45,
+          "margin_mm": 0.0029771195556344554
+        },
+        {
+          "surface": 11,
+          "material": "air",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 5.49547837975606,
+          "required_mm": 0.1,
+          "margin_mm": 5.39547837975606
+        },
+        {
+          "surface": 12,
+          "material": "glass",
+          "radius_checked_mm": 9.40005192628777,
+          "minimum_at_radius_mm": 9.40005192628777,
+          "minimum_mm": 0.7391026942880672,
+          "required_mm": 0.45,
+          "margin_mm": 0.2891026942880672
+        },
+        {
+          "surface": 13,
+          "material": "air",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 9.24466692392796,
+          "minimum_mm": 0.12692303036685915,
+          "required_mm": 0.1,
+          "margin_mm": 0.02692303036685914
+        },
+        {
+          "surface": 14,
+          "material": "glass",
+          "radius_checked_mm": 9.24466692392796,
+          "minimum_at_radius_mm": 0.0,
+          "minimum_mm": 1.03375025571685,
+          "required_mm": 0.45,
+          "margin_mm": 0.5837502557168501
+        }
+      ],
+      "independent_paraxial_efl_mm": 35.650248554225584,
+      "independent_paraxial_bfl_mm": 13.689954100902096,
+      "group_positions_from_sensor_mm": [
+        52.34926062551158,
+        34.627348989375264,
+        18.780441676584047
+      ],
+      "geometric_back_clearance_mm": 14.406441886501687,
+      "ttl_mm": 52.34926062551158
+    }
+  ],
+  "spacing_passed": true,
+  "length_passed": true,
+  "lens_diameter_passed": true,
+  "geometric_back_clearance_passed": true,
+  "paraxial_bfl_passed": true,
+  "stroke_passed": true,
+  "complete_requirement_acceptance": false
+}

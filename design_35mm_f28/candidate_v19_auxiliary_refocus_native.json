@@ -1,0 +1,27 @@
+[
+  {
+    "wavelength_um": 0.85,
+    "gap": 6.729598387105026,
+    "backfocus": 14.683138249980916,
+    "refocused_mtf": [
+      0.2406424290923381,
+      0.15740268211981126,
+      0.17442414214693977
+    ],
+    "relative_illumination": 0.9360368625424518,
+    "distortion_percent": 0.0615410039709996
+  },
+  {
+    "wavelength_um": 0.65,
+    "gap": 6.842535576802231,
+    "backfocus": 14.479082342728425,
+    "refocused_mtf": [
+      0.3357289346570781,
+      0.23323149900471662,
+      0.2174057453034599
+    ],
+    "relative_illumination": 0.9374147467329366,
+    "distortion_percent": -0.06712562881995288,
+    "saved_model": ".\\design_35mm_f28\\candidate_v19_650nm_refocused.zos"
+  }
+]

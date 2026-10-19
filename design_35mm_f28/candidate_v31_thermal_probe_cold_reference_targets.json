@@ -1,0 +1,54 @@
+[
+  {
+    "wd": 500,
+    "temperature_c": -20,
+    "gap": 6.74596535532771,
+    "iris_gap": 6.7185146393557025,
+    "backfocus": 14.627654377203331,
+    "fixed_stop_radius": 4.221638861462771,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "predicted_mtf": [
+      [
+        0.33708090943041086,
+        0.33708090944079816
+      ],
+      [
+        0.23725587423510908,
+        0.33964846085832645
+      ],
+      [
+        0.2089369467582723,
+        0.2298069643682894
+      ],
+      [
+        0.21083443611236183,
+        0.20896285618731864
+      ]
+    ],
+    "predicted_distortion_percent": [
+      0.11439994889670402,
+      -0.0022570457554271783,
+      -0.05825602256415152
+    ],
+    "predicted_image_circle_mm": 18.14942070630235,
+    "predicted_efl": 35.02393174494144,
+    "ttl_mm": 53.842082982940525,
+    "predicted_relative_illumination_primary": 0.9238154907848998,
+    "predicted_colour_centroid_span_um": [
+      5.104378565808809e-10,
+      0.5041909906026826,
+      2.1338786788883017,
+      2.745496593719014
+    ],
+    "group_positions_from_sensor_mm": [
+      53.842082982940525,
+      36.098181492605875,
+      18.99992391490061
+    ],
+    "spacer_tce_ppm_per_k": 23.0,
+    "stop_radius": 4.221638861462771,
+    "status": "PREDICTED_REFERENCE_REQUIRES_NEW_NATIVE_MAKE_THERMAL"
+  }
+]

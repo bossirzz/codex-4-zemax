@@ -1,0 +1,17 @@
+{
+  "status": "finished",
+  "source": "candidate_v33_native_mainrange",
+  "started_utc": "2026-10-15T19:04:33.903560+00:00",
+  "requested_cycles": 5,
+  "time_limit_seconds": 600.0,
+  "variables": 78,
+  "targets": 2406,
+  "cores": 8,
+  "algorithm": "DampedLeastSquares",
+  "initial_merit": 0.0001850607773085223,
+  "full_requirements_passed": false,
+  "elapsed_seconds": 497.2703410000031,
+  "current_merit": 0.00017318735218575226,
+  "succeeded": true,
+  "error": "None"
+}

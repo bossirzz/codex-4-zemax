@@ -1,0 +1,111 @@
+{
+  "parent": "candidate_v33_native_mainrange",
+  "optimizer": "OpticStudio native DampedLeastSquares",
+  "added_LDE_thickness_variable_surfaces": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    9,
+    12,
+    13,
+    14
+  ],
+  "materials": [
+    {
+      "surface": 1,
+      "name": "H-LAF54",
+      "indices_F_d_C": [
+        1.812795786635329,
+        1.7995185226689303,
+        1.7938737465515664
+      ]
+    },
+    {
+      "surface": 3,
+      "name": "H-FK61B",
+      "indices_F_d_C": [
+        1.5012293467706195,
+        1.4970001449410866,
+        1.4951390632067358
+      ]
+    },
+    {
+      "surface": 4,
+      "name": "H-ZLAF53B",
+      "indices_F_d_C": [
+        1.8498080040727387,
+        1.8340000218339876,
+        1.8273950081435126
+      ]
+    },
+    {
+      "surface": 7,
+      "name": "H-LAF10LA",
+      "indices_F_d_C": [
+        1.799599219394063,
+        1.7879999691441346,
+        1.783006857980513
+      ]
+    },
+    {
+      "surface": 8,
+      "name": "H-FK69",
+      "indices_F_d_C": [
+        1.5988436572204359,
+        1.592827769837984,
+        1.5902055424381074
+      ]
+    },
+    {
+      "surface": 10,
+      "name": "H-LAF10LA",
+      "indices_F_d_C": [
+        1.799599219394063,
+        1.7879999691441346,
+        1.783006857980513
+      ]
+    },
+    {
+      "surface": 12,
+      "name": "H-ZLAF53B",
+      "indices_F_d_C": [
+        1.8498080040727387,
+        1.8340000218339876,
+        1.8273950081435126
+      ]
+    },
+    {
+      "surface": 14,
+      "name": "H-ZF1",
+      "indices_F_d_C": [
+        1.661239977985317,
+        1.6476900199667837,
+        1.6421003810484345
+      ]
+    }
+  ],
+  "merit": "Inherit audited main-range merit; aperture guard weight raised to 1e8",
+  "changed_aperture_guard_rows": [
+    1852,
+    1853,
+    2036,
+    2037,
+    2217,
+    2218,
+    2398,
+    2399,
+    2565,
+    2566,
+    2746,
+    2747,
+    2927,
+    2928
+  ],
+  "independent_acceptance_required": true,
+  "other_distances": "Engineering goals, not new user acceptance thresholds",
+  "temperature_in_objective": false,
+  "seconds_limit": 600.0
+}

@@ -1,0 +1,573 @@
+{
+  "merit": 0.01007329187442493,
+  "contributions": [
+    {
+      "index": 280,
+      "configuration": 1,
+      "type": "MECT",
+      "value": -8.163686951692416,
+      "target": 0.0,
+      "weight": 0.029088820866572006,
+      "contribution": 9.465975907584387
+    },
+    {
+      "index": 1820,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -10.494063570924855,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 7.820780466205735
+    },
+    {
+      "index": 262,
+      "configuration": 1,
+      "type": "MECT",
+      "value": -5.8322675270764694,
+      "target": 0.0,
+      "weight": 0.029088820866572006,
+      "contribution": 4.83133979604476
+    },
+    {
+      "index": 1204,
+      "configuration": 5,
+      "type": "MECT",
+      "value": -8.20118729488463,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 4.776570302212556
+    },
+    {
+      "index": 896,
+      "configuration": 3,
+      "type": "MECT",
+      "value": -7.86625713764501,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 4.394393982748438
+    },
+    {
+      "index": 1512,
+      "configuration": 6,
+      "type": "MECT",
+      "value": -7.450920543236926,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 3.942598731841075
+    },
+    {
+      "index": 1802,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -7.311975611739226,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 3.796926428407462
+    },
+    {
+      "index": 1778,
+      "configuration": 7,
+      "type": "MECT",
+      "value": 6.377060002482317,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 2.8880434336174092
+    },
+    {
+      "index": 1186,
+      "configuration": 5,
+      "type": "MECT",
+      "value": -5.949858445083536,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 2.5140619813551797
+    },
+    {
+      "index": 878,
+      "configuration": 3,
+      "type": "MECT",
+      "value": -5.503792208749529,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 2.1512296342732444
+    },
+    {
+      "index": 1494,
+      "configuration": 6,
+      "type": "MECT",
+      "value": -5.24603212297969,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 1.9544501814735813
+    },
+    {
+      "index": 1765,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -5.025495420311153,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 1.793578861337787
+    },
+    {
+      "index": 225,
+      "configuration": 1,
+      "type": "MECT",
+      "value": -3.339050715325346,
+      "target": 0.0,
+      "weight": 0.029088820866572006,
+      "contribution": 1.5835753765296405
+    },
+    {
+      "index": 244,
+      "configuration": 1,
+      "type": "MECT",
+      "value": -3.13055709867955,
+      "target": 0.0,
+      "weight": 0.029088820866572006,
+      "contribution": 1.391989527953864
+    },
+    {
+      "index": 278,
+      "configuration": 1,
+      "type": "MECT",
+      "value": -2.4676571404352785,
+      "target": 0.0,
+      "weight": 0.04654211338651545,
+      "contribution": 1.3838286833289148
+    },
+    {
+      "index": 1929,
+      "configuration": 2,
+      "type": "OPGT",
+      "value": 0.17117837001449776,
+      "target": 0.2,
+      "weight": 300.0,
+      "contribution": 1.2168160334778462
+    },
+    {
+      "index": 1747,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -3.61529104102787,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.9282164132653346
+    },
+    {
+      "index": 1788,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -2.8271271340940025,
+      "target": 0.0,
+      "weight": 0.023271056693257724,
+      "contribution": 0.9081830122806992
+    },
+    {
+      "index": 1962,
+      "configuration": 3,
+      "type": "OPGT",
+      "value": 0.17561887233164275,
+      "target": 0.2,
+      "weight": 300.0,
+      "contribution": 0.8707538915338868
+    },
+    {
+      "index": 1796,
+      "configuration": 7,
+      "type": "MECT",
+      "value": 3.4759921655011534,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.8580652051623366
+    },
+    {
+      "index": 1149,
+      "configuration": 5,
+      "type": "MECT",
+      "value": -3.473957702643715,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.8570610654316816
+    },
+    {
+      "index": 1168,
+      "configuration": 5,
+      "type": "MECT",
+      "value": -3.466003872113074,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.8531409747548502
+    },
+    {
+      "index": 1784,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -3.357481182298114,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.8005526292158177
+    },
+    {
+      "index": 207,
+      "configuration": 1,
+      "type": "MECT",
+      "value": -2.258572085502337,
+      "target": 0.0,
+      "weight": 0.029088820866572006,
+      "contribution": 0.7245370889103033
+    },
+    {
+      "index": 1202,
+      "configuration": 5,
+      "type": "MECT",
+      "value": -2.5239104072915097,
+      "target": 0.0,
+      "weight": 0.023271056693257724,
+      "contribution": 0.7238199770364523
+    },
+    {
+      "index": 1888,
+      "configuration": 1,
+      "type": "OPGT",
+      "value": 0.17809639692261692,
+      "target": 0.2,
+      "weight": 300.0,
+      "contribution": 0.7027793121320196
+    },
+    {
+      "index": 1818,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -2.451548608092951,
+      "target": 0.0,
+      "weight": 0.023271056693257724,
+      "contribution": 0.6829103795848425
+    },
+    {
+      "index": 841,
+      "configuration": 3,
+      "type": "MECT",
+      "value": -3.081419152112859,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.6743172485430003
+    },
+    {
+      "index": 1457,
+      "configuration": 6,
+      "type": "MECT",
+      "value": -2.790348951090132,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.5529422172353188
+    },
+    {
+      "index": 894,
+      "configuration": 3,
+      "type": "MECT",
+      "value": -2.176425732393183,
+      "target": 0.0,
+      "weight": 0.023271056693257724,
+      "contribution": 0.538233097670251
+    },
+    {
+      "index": 1476,
+      "configuration": 6,
+      "type": "MECT",
+      "value": -2.7430648116247927,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.534361120289555
+    },
+    {
+      "index": 1814,
+      "configuration": 7,
+      "type": "MECT",
+      "value": 2.7187181353783827,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.5249175366411551
+    },
+    {
+      "index": 860,
+      "configuration": 3,
+      "type": "MECT",
+      "value": -2.6917857905903007,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.5145691035540642
+    },
+    {
+      "index": 1510,
+      "configuration": 6,
+      "type": "MECT",
+      "value": -2.0584531097471843,
+      "target": 0.0,
+      "weight": 0.023271056693257724,
+      "contribution": 0.48146492424949766
+    },
+    {
+      "index": 1777,
+      "configuration": 7,
+      "type": "MECS",
+      "value": 2.5686317708033974,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.4685612974230418
+    },
+    {
+      "index": 1541,
+      "configuration": 6,
+      "type": "MECT",
+      "value": 0.9134874068234846,
+      "target": 0.0,
+      "weight": 0.10471975511965921,
+      "contribution": 0.4266780870858783
+    },
+    {
+      "index": 617,
+      "configuration": 2,
+      "type": "MECT",
+      "value": 0.633023329555997,
+      "target": 0.0,
+      "weight": 0.20943951023931842,
+      "contribution": 0.4097930961899571
+    },
+    {
+      "index": 1131,
+      "configuration": 5,
+      "type": "MECT",
+      "value": -2.39203561996214,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.4063478803179683
+    },
+    {
+      "index": 1780,
+      "configuration": 7,
+      "type": "MECT",
+      "value": 2.364617869937962,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.3970860666061921
+    },
+    {
+      "index": 260,
+      "configuration": 1,
+      "type": "MECT",
+      "value": -1.287987188116248,
+      "target": 0.0,
+      "weight": 0.04654211338651545,
+      "contribution": 0.3769951629899695
+    },
+    {
+      "index": 1921,
+      "configuration": 2,
+      "type": "OPGT",
+      "value": 0.18399746977381873,
+      "target": 0.2,
+      "weight": 300.0,
+      "contribution": 0.37511562903381074
+    },
+    {
+      "index": 1853,
+      "configuration": 1,
+      "type": "OPLT",
+      "value": 2.8066000660209123,
+      "target": 2.8005,
+      "weight": 2000.0,
+      "contribution": 0.3633838807153239
+    },
+    {
+      "index": 1806,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -1.7873066943120155,
+      "target": 0.0,
+      "weight": 0.023271056693257724,
+      "contribution": 0.36297846552999513
+    },
+    {
+      "index": 1535,
+      "configuration": 6,
+      "type": "MECT",
+      "value": 0.827731367813857,
+      "target": 0.0,
+      "weight": 0.10471975511965921,
+      "contribution": 0.3503273446402431
+    },
+    {
+      "index": 1526,
+      "configuration": 6,
+      "type": "MECS",
+      "value": -0.6248658626874766,
+      "target": 0.0,
+      "weight": 0.1675516081914556,
+      "contribution": 0.319439627792487
+    },
+    {
+      "index": 1970,
+      "configuration": 3,
+      "type": "OPGT",
+      "value": 0.1853845009069433,
+      "target": 0.2,
+      "weight": 300.0,
+      "contribution": 0.31290690540772104
+    },
+    {
+      "index": 286,
+      "configuration": 1,
+      "type": "MECT",
+      "value": 1.4772807531260366,
+      "target": 0.0,
+      "weight": 0.029088820866572006,
+      "contribution": 0.3099693756937187
+    },
+    {
+      "index": 1789,
+      "configuration": 7,
+      "type": "MECS",
+      "value": 2.0568794811652737,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.30045567079512703
+    },
+    {
+      "index": 1710,
+      "configuration": 7,
+      "type": "MECT",
+      "value": -2.0453190322656565,
+      "target": 0.0,
+      "weight": 0.014544410433286003,
+      "contribution": 0.29708781036782717
+    },
+    {
+      "index": 268,
+      "configuration": 1,
+      "type": "MECT",
+      "value": 1.4313214191769215,
+      "target": 0.0,
+      "weight": 0.029088820866572006,
+      "contribution": 0.2909826201137255
+    }
+  ],
+  "sampling": [
+    {
+      "configuration": 1,
+      "grid": 1,
+      "sampling": 3,
+      "mtf": [
+        0.17809639692261692,
+        0.19683324006089326
+      ]
+    },
+    {
+      "configuration": 1,
+      "grid": 1,
+      "sampling": 4,
+      "mtf": [
+        0.17864850496976284,
+        0.19736506160148695
+      ]
+    },
+    {
+      "configuration": 1,
+      "grid": 0,
+      "sampling": 3,
+      "mtf": [
+        0.17915564541242887,
+        0.18711200699423328
+      ]
+    },
+    {
+      "configuration": 1,
+      "grid": 0,
+      "sampling": 5,
+      "mtf": [
+        0.17931141352229577,
+        0.19774089876354065
+      ]
+    },
+    {
+      "configuration": 1,
+      "grid": 0,
+      "sampling": 7,
+      "mtf": [
+        0.1792055682280609,
+        0.1977473571532093
+      ]
+    },
+    {
+      "configuration": 2,
+      "grid": 1,
+      "sampling": 3,
+      "mtf": [
+        0.17117837001449776,
+        0.2699414844542438
+      ]
+    },
+    {
+      "configuration": 2,
+      "grid": 1,
+      "sampling": 4,
+      "mtf": [
+        0.17156431696534408,
+        0.27075079290158216
+      ]
+    },
+    {
+      "configuration": 2,
+      "grid": 0,
+      "sampling": 3,
+      "mtf": [
+        0.17522009331315722,
+        0.2755811597439157
+      ]
+    },
+    {
+      "configuration": 2,
+      "grid": 0,
+      "sampling": 5,
+      "mtf": [
+        0.17183896752084926,
+        0.2712015629538608
+      ]
+    },
+    {
+      "configuration": 2,
+      "grid": 0,
+      "sampling": 7,
+      "mtf": [
+        0.17194266329652788,
+        0.2712064088274369
+      ]
+    }
+  ],
+  "infinity": [
+    {
+      "object_distance": 10000000.0,
+      "image": 9.095276879718046,
+      "cra": 9.932852202263156,
+      "fno": 2.800557535003023
+    },
+    {
+      "object_distance": Infinity,
+      "image": 9.095303974393058,
+      "cra": 9.93287672435249,
+      "fno": 2.800557535003023
+    },
+    {
+      "object_distance": Infinity,
+      "image": 9.095303974393058,
+      "cra": 9.93287672435249,
+      "fno": 2.800557535003023
+    },
+    {
+      "object_distance": Infinity,
+      "image": 0.0,
+      "cra": 0.0,
+      "fno": 2.8066000660209123
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+[
+  {
+    "catalog": "SUMITA",
+    "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\Sumita.agf",
+    "line": 5876,
+    "name": "K-LaSFn3",
+    "formula": 1,
+    "nd_nominal": 1.7995,
+    "vd_nominal": 42.3,
+    "exclude_substitution": false,
+    "status_code": 0,
+    "status": "Standard",
+    "ED": [
+      6.9,
+      8.0,
+      4.39,
+      -0.006,
+      0.0
+    ],
+    "CD": [
+      3.1507226,
+      -0.012460963,
+      0.029910697,
+      0.00050733106,
+      3.6278868e-05,
+      -2.5019766e-08,
+      0.0,
+      0.0
+    ],
+    "TD": [
+      3.38e-07,
+      3.13e-08,
+      -2.27e-11,
+      6.92e-07,
+      5.55e-10,
+      0.218,
+      20.0
+    ],
+    "LD": [
+      0.36,
+      1.55
+    ],
+    "indices": {
+      "g": 1.8235008190699706,
+      "F": 1.8127791548396393,
+      "d": 1.799499267989485,
+      "C": 1.7938762042922045,
+      "650nm": 1.794317343707551,
+      "850nm": 1.784428880681622
+    },
+    "nd": 1.799499267989485,
+    "vd": 42.294945753745445,
+    "basis": "Computed from AGF CD dispersion coefficients",
+    "pgf_computed": 0.5671952748025566,
+    "nd_nominal_difference": -7.320105150920853e-07,
+    "vd_nominal_difference": -0.005054246254552197,
+    "covers_486_to_850nm": true,
+    "variant_name_flag": false,
+    "reference_inconsistency_flag": false
+  },
+  {
+    "catalog": "HOYA",
+    "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\HOYA.AGF",
+    "line": 92,
+    "name": "FCD1B",
+    "formula": 1,
+    "nd_nominal": 1.4971,
+    "vd_nominal": 81.56,
+    "exclude_substitution": false,
+    "status_code": 0,
+    "status": "Standard",
+    "comment": "General glass Type",
+    "ED": [
+      12.9,
+      16.3,
+      3.64,
+      0.0369,
+      0.0,
+      0.0
+    ],
+    "CD": [
+      2.2189068,
+      -0.0061707065,
+      0.0080887631,
+      0.00013357782,
+      1.9476186e-07,
+      -2.2577804e-07,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "TD": [
+      -1.75e-05,
+      -5.28e-09,
+      2.39e-11,
+      3.52e-07,
+      1.97e-10,
+      0.186,
+      20.0
+    ],
+    "LD": [
+      0.36501,
+      1.01398
+    ],
+    "indices": {
+      "g": 1.5046179119976755,
+      "F": 1.5013360417493917,
+      "d": 1.4971026214040963,
+      "C": 1.4952410787808088,
+      "650nm": 1.4953890743479832,
+      "850nm": 1.4919448935504331
+    },
+    "nd": 1.4971026214040963,
+    "vd": 81.55958025774076,
+    "basis": "Computed from AGF CD dispersion coefficients",
+    "pgf_computed": 0.5384561424245673,
+    "nd_nominal_difference": 2.621404096236901e-06,
+    "vd_nominal_difference": -0.000419742259239797,
+    "covers_486_to_850nm": true,
+    "variant_name_flag": false,
+    "reference_inconsistency_flag": false
+  },
+  {
+    "catalog": "CDGM",
+    "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+    "line": 6541,
+    "name": "H-LAF55",
+    "formula": 2,
+    "nd_nominal": 1.762,
+    "vd_nominal": 40.105472,
+    "exclude_substitution": false,
+    "status_code": 0,
+    "status": "Standard",
+    "comment": "",
+    "ED": [
+      8.2,
+      9.5,
+      4.3,
+      -0.0027,
+      0.0,
+      0.0
+    ],
+    "CD": [
+      1.73920103,
+      0.00974400845,
+      1.16162575,
+      111.118099,
+      0.279488106,
+      0.0423325277,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "TD": [
+      -2.76e-06,
+      1.53e-08,
+      -4.05e-11,
+      7.53e-07,
+      5.1e-10,
+      0.241,
+      20.0
+    ],
+    "LD": [
+      0.365,
+      2.325
+    ],
+    "indices": {
+      "g": 1.7863059275831805,
+      "F": 1.7753861586340154,
+      "d": 1.762000058932398,
+      "C": 1.7563862562516277,
+      "650nm": 1.7568251955111145,
+      "850nm": 1.7470712700306936
+    },
+    "nd": 1.762000058932398,
+    "vd": 40.10547231225504,
+    "basis": "Computed from AGF CD dispersion coefficients",
+    "pgf_computed": 0.5747276343528698,
+    "nd_nominal_difference": 5.8932398072641945e-08,
+    "vd_nominal_difference": 3.1225503960286005e-07,
+    "covers_486_to_850nm": true,
+    "variant_name_flag": false,
+    "reference_inconsistency_flag": false
+  },
+  {
+    "catalog": "HOYA",
+    "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\HOYA.AGF",
+    "line": 1083,
+    "name": "E-FEL2",
+    "formula": 1,
+    "nd_nominal": 1.54072,
+    "vd_nominal": 47.2,
+    "exclude_substitution": false,
+    "status_code": 0,
+    "status": "Standard",
+    "comment": "General glass Type",
+    "ED": [
+      8.2,
+      10.0,
+      2.53,
+      0.0044,
+      0.0,
+      0.0
+    ],
+    "CD": [
+      2.3317983,
+      -0.0097042192,
+      0.014032761,
+      0.00064822896,
+      -4.0813761e-05,
+      3.9064873e-06,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "TD": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      20.0
+    ],
+    "LD": [
+      0.36501,
+      1.01398
+    ],
+    "indices": {
+      "g": 1.5552626117075388,
+      "F": 1.5487578507984023,
+      "d": 1.5407199107549094,
+      "C": 1.5373021017637436,
+      "650nm": 1.537571054120338,
+      "850nm": 1.5314559840562418
+    },
+    "nd": 1.5407199107549094,
+    "vd": 47.20074690175136,
+    "basis": "Computed from AGF CD dispersion coefficients",
+    "pgf_computed": 0.567816289398156,
+    "nd_nominal_difference": -8.924509065089126e-08,
+    "vd_nominal_difference": 0.0007469017513557219,
+    "covers_486_to_850nm": true,
+    "variant_name_flag": false,
+    "reference_inconsistency_flag": false
+  },
+  {
+    "catalog": "HOYA",
+    "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\HOYA.AGF",
+    "line": 225,
+    "name": "FCD515",
+    "formula": 1,
+    "nd_nominal": 1.59282,
+    "vd_nominal": 68.62,
+    "exclude_substitution": false,
+    "status_code": 1,
+    "status": "Preferred",
+    "comment": "Recommended glass type",
+    "ED": [
+      11.1,
+      13.4,
+      4.13,
+      0.0194,
+      0.0,
+      0.0
+    ],
+    "CD": [
+      2.502355,
+      -0.0072080042,
+      0.012012743,
+      0.00034920842,
+      -2.4729676e-05,
+      1.3801567e-06,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "TD": [
+      -1.58e-05,
+      3.73e-09,
+      -1.83e-11,
+      3.66e-07,
+      1.72e-10,
+      0.169,
+      20.0
+    ],
+    "LD": [
+      0.36501,
+      1.01398
+    ],
+    "indices": {
+      "g": 1.603545182646911,
+      "F": 1.5988447423906629,
+      "d": 1.5928242844404694,
+      "C": 1.590206058843811,
+      "650nm": 1.590413104486107,
+      "850nm": 1.585680396401393
+    },
+    "nd": 1.5928242844404694,
+    "vd": 68.6243779188443,
+    "basis": "Computed from AGF CD dispersion coefficients",
+    "pgf_computed": 0.5441153424309613,
+    "nd_nominal_difference": 4.2844404695152605e-06,
+    "vd_nominal_difference": 0.004377918844298279,
+    "covers_486_to_850nm": true,
+    "variant_name_flag": false,
+    "reference_inconsistency_flag": false
+  },
+  {
+    "catalog": "SUMITA",
+    "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\Sumita.agf",
+    "line": 6173,
+    "name": "K-LaSFn16",
+    "formula": 1,
+    "nd_nominal": 1.7883,
+    "vd_nominal": 47.4,
+    "exclude_substitution": false,
+    "status_code": 0,
+    "status": "Standard",
+    "ED": [
+      5.4,
+      7.2,
+      4.76,
+      -0.0094,
+      0.0
+    ],
+    "CD": [
+      3.124535,
+      -0.014985014,
+      0.024795878,
+      0.00096271556,
+      -6.4587038e-05,
+      4.6162437e-06,
+      0.0,
+      0.0
+    ],
+    "TD": [
+      2.27e-06,
+      1.53e-08,
+      -2.61e-10,
+      5.42e-07,
+      5.61e-10,
+      0.206,
+      20.0
+    ],
+    "LD": [
+      0.36,
+      1.55
+    ],
+    "indices": {
+      "g": 1.8091518305073793,
+      "F": 1.7999279497742833,
+      "d": 1.7883006139890345,
+      "C": 1.783302743976206,
+      "650nm": 1.7836967145644707,
+      "850nm": 1.774744441534351
+    },
+    "nd": 1.7883006139890345,
+    "vd": 47.415991330477155,
+    "basis": "Computed from AGF CD dispersion coefficients",
+    "pgf_computed": 0.5548130257829769,
+    "nd_nominal_difference": 6.139890345036036e-07,
+    "vd_nominal_difference": 0.015991330477156396,
+    "covers_486_to_850nm": true,
+    "variant_name_flag": false,
+    "reference_inconsistency_flag": false
+  },
+  {
+    "catalog": "OHARA",
+    "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\OHARA.agf",
+    "line": 10370,
+    "name": "S-LAH60V",
+    "formula": 2,
+    "nd_nominal": 1.833999,
+    "vd_nominal": 37.206855,
+    "exclude_substitution": false,
+    "status_code": 1,
+    "status": "Preferred",
+    "comment": "Recommended",
+    "ED": [
+      6.1,
+      0.0,
+      4.43,
+      -0.0006,
+      0.0,
+      0.0
+    ],
+    "CD": [
+      2.05081962,
+      0.0116035991,
+      0.208475257,
+      0.0526489359,
+      1.31486394,
+      99.38065,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "TD": [
+      6.66e-06,
+      1.34e-08,
+      -1.2e-11,
+      8.73e-07,
+      1.09e-09,
+      0.24,
+      25.0
+    ],
+    "LD": [
+      0.365015,
+      2.32542
+    ],
+    "indices": {
+      "g": 1.862832973453988,
+      "F": 1.8498143572468078,
+      "d": 1.8339994841509621,
+      "C": 1.827399147063951,
+      "650nm": 1.8279147880168152,
+      "850nm": 1.816459741221898
+    },
+    "nd": 1.8339994841509621,
+    "vd": 37.2068554052109,
+    "basis": "Computed from AGF CD dispersion coefficients",
+    "pgf_computed": 0.5807938493986035,
+    "nd_nominal_difference": 4.841509622099949e-07,
+    "vd_nominal_difference": 4.0521090483025546e-07,
+    "covers_486_to_850nm": true,
+    "variant_name_flag": false,
+    "reference_inconsistency_flag": false
+  },
+  {
+    "catalog": "SCHOTT",
+    "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\SCHOTT.AGF",
+    "line": 2476,
+    "name": "N-SF2",
+    "formula": 2,
+    "nd_nominal": 1.64769,
+    "vd_nominal": 33.82,
+    "exclude_substitution": false,
+    "status_code": 1,
+    "status": "Preferred",
+    "comment": "",
+    "ED": [
+      6.68,
+      7.81,
+      2.718,
+      0.0081,
+      0.0
+    ],
+    "CD": [
+      1.47343127,
+      0.0109019098,
+      0.163681849,
+      0.0585683687,
+      1.36920899,
+      127.404933,
+      0.0,
+      0.0
+    ],
+    "TD": [
+      3.1e-06,
+      1.75e-08,
+      6.62e-11,
+      7.51e-07,
+      8.99e-10,
+      0.277,
+      20.0
+    ],
+    "LD": [
+      0.365,
+      2.5
+    ],
+    "indices": {
+      "g": 1.672647304302275,
+      "F": 1.661251825696682,
+      "d": 1.6476897745794499,
+      "C": 1.642100856949545,
+      "650nm": 1.6425363320574977,
+      "850nm": 1.632886014910542
+    },
+    "nd": 1.6476897745794499,
+    "vd": 33.82020946988798,
+    "basis": "Computed from AGF CD dispersion coefficients",
+    "pgf_computed": 0.5950340557731101,
+    "nd_nominal_difference": -2.2542055022611862e-07,
+    "vd_nominal_difference": 0.00020946988797732047,
+    "covers_486_to_850nm": true,
+    "variant_name_flag": false,
+    "reference_inconsistency_flag": false
+  }
+]

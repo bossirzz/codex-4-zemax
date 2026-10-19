@@ -1,0 +1,32 @@
+{
+  "tag": "candidate_v32_native_contrast_c",
+  "actual_native_optimizer": true,
+  "native_run": {
+    "status": "cancelled_at_time_limit",
+    "started_utc": "2026-10-15T17:45:57.331637+00:00",
+    "algorithm": "DampedLeastSquares",
+    "variables": 68,
+    "targets": 2406,
+    "cores": 8,
+    "initial_merit": 0.0010271683607762498,
+    "source": "candidate_v31_thermal_probe",
+    "full_requirements_passed": false,
+    "elapsed_seconds": 911.9338919000002,
+    "progress": 0.0,
+    "current_merit": 0.0009585772419428699,
+    "succeeded": true,
+    "error": "None"
+  },
+  "room_temperature_primary_mtf_passed": true,
+  "geometry_passed": true,
+  "infinity_cra_passed": true,
+  "checked_relative_illumination_passed": true,
+  "sampling_512_1024_max_difference": {
+    "500": 0.00043680897180431444,
+    "200": 0.000496705692158872
+  },
+  "previous_validated_baseline": "candidate_v31_thermal_probe_review.zos",
+  "thermal_result_carried_over": false,
+  "complete_requirements_passed": false,
+  "promotion": "experimental candidate; v31 retained as previously validated baseline"
+}

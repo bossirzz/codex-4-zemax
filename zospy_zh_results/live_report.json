@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "tests": [
+    {
+      "name": "SingleRayTrace",
+      "status": "passed"
+    },
+    {
+      "name": "RayFan",
+      "status": "passed"
+    },
+    {
+      "name": "SystemData",
+      "status": "passed"
+    }
+  ],
+  "lens_unchanged": true
+}

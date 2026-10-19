@@ -1,0 +1,288 @@
+{
+  "variables": [
+    [
+      1,
+      "Par2"
+    ],
+    [
+      1,
+      "Par3"
+    ],
+    [
+      1,
+      "Par4"
+    ],
+    [
+      10,
+      "Par2"
+    ],
+    [
+      10,
+      "Par3"
+    ],
+    [
+      10,
+      "Par4"
+    ],
+    [
+      15,
+      "Par2"
+    ],
+    [
+      15,
+      "Par3"
+    ],
+    [
+      15,
+      "Par4"
+    ],
+    [
+      15,
+      "Thickness"
+    ]
+  ],
+  "operands": [
+    {
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        1,
+        225,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 3
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        2,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 1
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        2,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 1
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        3,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 1
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        3,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 1
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        4,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 2
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        4,
+        180,
+        0,
+        0
+      ],
+      "target": 0.46,
+      "weight": 2
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        1,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 0.2
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        1,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 0.2
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        3,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 0.2
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        3,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 0.2
+    },
+    {
+      "type": "MTFT",
+      "parameters": [
+        3,
+        0,
+        4,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 0.2
+    },
+    {
+      "type": "MTFS",
+      "parameters": [
+        3,
+        0,
+        4,
+        90,
+        0,
+        0
+      ],
+      "target": 0.8,
+      "weight": 0.2
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        1
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        3
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        4
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        7
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        8
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        10
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        12
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "ETGT",
+      "parameters": [
+        14
+      ],
+      "target": 0.5,
+      "weight": 1000
+    },
+    {
+      "type": "CTGT",
+      "parameters": [
+        15
+      ],
+      "target": 8.0,
+      "weight": 1000
+    }
+  ],
+  "final_merit": 0.009173104111647791
+}

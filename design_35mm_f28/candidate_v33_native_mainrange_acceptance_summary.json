@@ -1,0 +1,81 @@
+{
+  "tag": "candidate_v33_native_mainrange",
+  "actual_native_optimizer": true,
+  "native_run": {
+    "status": "finished",
+    "started_utc": "2026-10-15T18:46:21.574627+00:00",
+    "source": "candidate_v32_native_contrast_c",
+    "floating_group_seed": "candidate_v32_native_focus_refine",
+    "algorithm": "DampedLeastSquares",
+    "requested_cycles": 5,
+    "variables": 68,
+    "targets": 2406,
+    "cores": 8,
+    "initial_merit": 0.0002617531620193283,
+    "full_requirements_passed": false,
+    "elapsed_seconds": 387.1027170000016,
+    "current_merit": 0.00020859900167029865,
+    "succeeded": true,
+    "error": "None"
+  },
+  "room_temperature_primary_mtf_passed": true,
+  "geometry_passed": true,
+  "primary_distortion_passed": true,
+  "checked_image_circle_passed": true,
+  "infinity_cra_passed": true,
+  "checked_relative_illumination_passed": true,
+  "room_temperature_checked_subset_passed": true,
+  "sampling_512_1024_max_difference": {
+    "500": 0.0004384812966737872,
+    "200": 0.0004963950682741469
+  },
+  "previous_validated_baseline": "candidate_v31_thermal_probe_review.zos",
+  "thermal_result_carried_over": false,
+  "complete_requirements_passed": false,
+  "promotion": "experimental candidate; v31 retained as previously validated baseline",
+  "reference_candidate_comparison": [
+    {
+      "wd": 200,
+      "source_centre": 0.42088323479627543,
+      "source_worst_offaxis": 0.20585703339492284,
+      "final_centre": 0.4178265764603813,
+      "final_worst_offaxis": 0.21117810872172782
+    },
+    {
+      "wd": 300,
+      "source_centre": 0.31336364792478716,
+      "source_worst_offaxis": 0.12112169245890378,
+      "final_centre": 0.30221999242573544,
+      "final_worst_offaxis": 0.12151054968952187
+    },
+    {
+      "wd": 400,
+      "source_centre": 0.32372599545244074,
+      "source_worst_offaxis": 0.18613843590181323,
+      "final_centre": 0.32167968283303766,
+      "final_worst_offaxis": 0.18377056907182562
+    },
+    {
+      "wd": 500,
+      "source_centre": 0.32817396374303126,
+      "source_worst_offaxis": 0.20928288738392486,
+      "final_centre": 0.32554032234621794,
+      "final_worst_offaxis": 0.20882354204719109
+    },
+    {
+      "wd": 800,
+      "source_centre": 0.32120052930891185,
+      "source_worst_offaxis": 0.21211849448242384,
+      "final_centre": 0.31764238558320834,
+      "final_worst_offaxis": 0.2139114630322539
+    },
+    {
+      "wd": 2000,
+      "source_centre": 0.31290717282475655,
+      "source_worst_offaxis": 0.027386653313605208,
+      "final_centre": 0.3082605411051521,
+      "final_worst_offaxis": 0.029592214082688487
+    }
+  ],
+  "reference_candidate": "candidate_v32_native_focus_refine"
+}

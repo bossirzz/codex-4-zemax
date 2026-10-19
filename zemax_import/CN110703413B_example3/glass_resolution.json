@@ -1,0 +1,66 @@
+[
+  {
+    "lens": "L1",
+    "resolution": "ModelGlass",
+    "nd": 1.77,
+    "vd": 49.1,
+    "dpgf": 0,
+    "catalog_name": null
+  },
+  {
+    "lens": "L2",
+    "resolution": "ModelGlass",
+    "nd": 1.59,
+    "vd": 68.5,
+    "dpgf": 0,
+    "catalog_name": null
+  },
+  {
+    "lens": "L3",
+    "resolution": "ModelGlass",
+    "nd": 1.57,
+    "vd": 41.5,
+    "dpgf": 0,
+    "catalog_name": null
+  },
+  {
+    "lens": "L4",
+    "resolution": "ModelGlass",
+    "nd": 1.72,
+    "vd": 28.3,
+    "dpgf": 0,
+    "catalog_name": null
+  },
+  {
+    "lens": "L5",
+    "resolution": "ModelGlass",
+    "nd": 1.8,
+    "vd": 46.7,
+    "dpgf": 0,
+    "catalog_name": null
+  },
+  {
+    "lens": "L6",
+    "resolution": "ModelGlass",
+    "nd": 1.77,
+    "vd": 49.1,
+    "dpgf": 0,
+    "catalog_name": null
+  },
+  {
+    "lens": "L7",
+    "resolution": "ModelGlass",
+    "nd": 1.76,
+    "vd": 26,
+    "dpgf": 0,
+    "catalog_name": null
+  },
+  {
+    "lens": "L8",
+    "resolution": "ModelGlass",
+    "nd": 1.77,
+    "vd": 49.1,
+    "dpgf": 0,
+    "catalog_name": null
+  }
+]

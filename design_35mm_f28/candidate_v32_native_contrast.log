@@ -1,0 +1,16 @@
+NATIVE_CONTRAST_BLOCK {"configuration": 1, "wd": 500, "frequency": 180.0, "centre_only": false, "start": 1, "end": 120}
+NATIVE_CONTRAST_BLOCK {"configuration": 1, "wd": 500, "frequency": 225.0, "centre_only": true, "start": 122, "end": 144}
+NATIVE_CONTRAST_BLOCK {"configuration": 2, "wd": 200, "frequency": 120.0, "centre_only": false, "start": 145, "end": 264}
+NATIVE_CONTRAST_BLOCK {"configuration": 2, "wd": 200, "frequency": 150.0, "centre_only": true, "start": 265, "end": 287}
+NATIVE_CONTRAST_BLOCK {"configuration": 3, "wd": 800, "frequency": 180.0, "centre_only": false, "start": 288, "end": 407}
+NATIVE_CONTRAST_BLOCK {"configuration": 3, "wd": 800, "frequency": 225.0, "centre_only": true, "start": 408, "end": 430}
+NATIVE_CONTRAST_BLOCK {"configuration": 5, "wd": 300.0, "frequency": 180.0, "centre_only": false, "start": 431, "end": 550}
+NATIVE_CONTRAST_BLOCK {"configuration": 5, "wd": 300.0, "frequency": 225.0, "centre_only": true, "start": 551, "end": 573}
+NATIVE_CONTRAST_BLOCK {"configuration": 6, "wd": 400.0, "frequency": 180.0, "centre_only": false, "start": 574, "end": 693}
+NATIVE_CONTRAST_BLOCK {"configuration": 6, "wd": 400.0, "frequency": 225.0, "centre_only": true, "start": 694, "end": 716}
+NATIVE_CONTRAST_BLOCK {"configuration": 7, "wd": 2000.0, "frequency": 180.0, "centre_only": false, "start": 717, "end": 836}
+NATIVE_CONTRAST_BLOCK {"configuration": 7, "wd": 2000.0, "frequency": 225.0, "centre_only": true, "start": 837, "end": 859}
+NATIVE_PREPARED 9000000000.0 VARIABLES 68 OPERANDS 1276
+NATIVE_DLS_START {"status": "starting", "started_utc": "2026-10-15T17:21:15.519276+00:00", "algorithm": "DampedLeastSquares", "variables": 68, "targets": 1043, "cores": 8, "initial_merit": 9000000000.0, "source": "candidate_v31_thermal_probe", "full_requirements_passed": false}
+NATIVE_DLS_DONE {"status": "finished", "started_utc": "2026-10-15T17:21:15.519276+00:00", "algorithm": "DampedLeastSquares", "variables": 68, "targets": 1043, "cores": 8, "initial_merit": 9000000000.0, "source": "candidate_v31_thermal_probe", "full_requirements_passed": false, "elapsed_seconds": 0.00026029999935417436, "succeeded": false, "current_merit": 0.0, "error": "Input settings are invalid"}
+*** FRU__delta_init(): Attempt to start when running!

@@ -1,0 +1,9 @@
+# Original optical reports record ZOSPy 2.1.5 / OpticStudio 24R1.
+zospy==2.1.5
+numpy
+scipy
+pandas
+matplotlib
+numba
+pythonnet
+pymupdf

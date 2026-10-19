@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "analyses": [
+    "SingleRayTrace",
+    "RayFan",
+    "SystemData"
+  ],
+  "ray_numeric_cells_compared": 51,
+  "fan_values_compared": 82,
+  "system_required_fields_validated": true,
+  "unicode_user_text_preserved": true
+}

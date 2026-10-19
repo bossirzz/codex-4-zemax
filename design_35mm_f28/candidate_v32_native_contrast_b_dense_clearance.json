@@ -1,0 +1,674 @@
+[
+  {
+    "wd": 500,
+    "passed": false,
+    "worst": {
+      "surface": 8,
+      "minimum_mm": 0.42950828429194243,
+      "required_mm": 0.45,
+      "margin_mm": -0.02049171570805758
+    },
+    "gaps": [
+      {
+        "surface": 1,
+        "minimum_mm": 1.737354811824599,
+        "required_mm": 0.45,
+        "margin_mm": 1.287354811824599
+      },
+      {
+        "surface": 2,
+        "minimum_mm": 0.10300727604112,
+        "required_mm": 0.1,
+        "margin_mm": 0.0030072760411199995
+      },
+      {
+        "surface": 3,
+        "minimum_mm": 0.9581404381932863,
+        "required_mm": 0.45,
+        "margin_mm": 0.5081404381932864
+      },
+      {
+        "surface": 4,
+        "minimum_mm": 0.640001499578254,
+        "required_mm": 0.45,
+        "margin_mm": 0.19000149957825402
+      },
+      {
+        "surface": 5,
+        "minimum_mm": 0.3081142447774923,
+        "required_mm": 0.3,
+        "margin_mm": 0.008114244777492285
+      },
+      {
+        "surface": 6,
+        "minimum_mm": 3.2355853647988453,
+        "required_mm": 0.3,
+        "margin_mm": 2.9355853647988455
+      },
+      {
+        "surface": 7,
+        "minimum_mm": 1.39022477593015,
+        "required_mm": 0.45,
+        "margin_mm": 0.9402247759301501
+      },
+      {
+        "surface": 8,
+        "minimum_mm": 0.42950828429194243,
+        "required_mm": 0.45,
+        "margin_mm": -0.02049171570805758
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.119986749625481,
+        "required_mm": 0.1,
+        "margin_mm": 0.019986749625481
+      },
+      {
+        "surface": 10,
+        "minimum_mm": 0.45619055177042434,
+        "required_mm": 0.45,
+        "margin_mm": 0.006190551770424324
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 6.822730423124194,
+        "required_mm": 0.1,
+        "margin_mm": 6.722730423124195
+      },
+      {
+        "surface": 12,
+        "minimum_mm": 0.7348144435139186,
+        "required_mm": 0.45,
+        "margin_mm": 0.28481444351391855
+      },
+      {
+        "surface": 13,
+        "minimum_mm": 0.13296452120717195,
+        "required_mm": 0.1,
+        "margin_mm": 0.03296452120717194
+      },
+      {
+        "surface": 14,
+        "minimum_mm": 1.03375025571685,
+        "required_mm": 0.45,
+        "margin_mm": 0.5837502557168501
+      }
+    ]
+  },
+  {
+    "wd": 200,
+    "passed": false,
+    "worst": {
+      "surface": 8,
+      "minimum_mm": 0.42950828429194243,
+      "required_mm": 0.45,
+      "margin_mm": -0.02049171570805758
+    },
+    "gaps": [
+      {
+        "surface": 1,
+        "minimum_mm": 1.737354811824599,
+        "required_mm": 0.45,
+        "margin_mm": 1.287354811824599
+      },
+      {
+        "surface": 2,
+        "minimum_mm": 0.10300727604112,
+        "required_mm": 0.1,
+        "margin_mm": 0.0030072760411199995
+      },
+      {
+        "surface": 3,
+        "minimum_mm": 0.9581404381932863,
+        "required_mm": 0.45,
+        "margin_mm": 0.5081404381932864
+      },
+      {
+        "surface": 4,
+        "minimum_mm": 0.640001499578254,
+        "required_mm": 0.45,
+        "margin_mm": 0.19000149957825402
+      },
+      {
+        "surface": 5,
+        "minimum_mm": 0.3081142447774923,
+        "required_mm": 0.3,
+        "margin_mm": 0.008114244777492285
+      },
+      {
+        "surface": 6,
+        "minimum_mm": 3.539176804577591,
+        "required_mm": 0.3,
+        "margin_mm": 3.2391768045775913
+      },
+      {
+        "surface": 7,
+        "minimum_mm": 1.39022477593015,
+        "required_mm": 0.45,
+        "margin_mm": 0.9402247759301501
+      },
+      {
+        "surface": 8,
+        "minimum_mm": 0.42950828429194243,
+        "required_mm": 0.45,
+        "margin_mm": -0.02049171570805758
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.119986749625481,
+        "required_mm": 0.1,
+        "margin_mm": 0.019986749625481
+      },
+      {
+        "surface": 10,
+        "minimum_mm": 0.45619055177042434,
+        "required_mm": 0.45,
+        "margin_mm": 0.006190551770424324
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 7.284455842923026,
+        "required_mm": 0.1,
+        "margin_mm": 7.184455842923026
+      },
+      {
+        "surface": 12,
+        "minimum_mm": 0.7348144435139186,
+        "required_mm": 0.45,
+        "margin_mm": 0.28481444351391855
+      },
+      {
+        "surface": 13,
+        "minimum_mm": 0.13296452120717195,
+        "required_mm": 0.1,
+        "margin_mm": 0.03296452120717194
+      },
+      {
+        "surface": 14,
+        "minimum_mm": 1.03375025571685,
+        "required_mm": 0.45,
+        "margin_mm": 0.5837502557168501
+      }
+    ]
+  },
+  {
+    "wd": 800,
+    "passed": false,
+    "worst": {
+      "surface": 8,
+      "minimum_mm": 0.42950828429194243,
+      "required_mm": 0.45,
+      "margin_mm": -0.02049171570805758
+    },
+    "gaps": [
+      {
+        "surface": 1,
+        "minimum_mm": 1.737354811824599,
+        "required_mm": 0.45,
+        "margin_mm": 1.287354811824599
+      },
+      {
+        "surface": 2,
+        "minimum_mm": 0.10300727604112,
+        "required_mm": 0.1,
+        "margin_mm": 0.0030072760411199995
+      },
+      {
+        "surface": 3,
+        "minimum_mm": 0.9581404381932863,
+        "required_mm": 0.45,
+        "margin_mm": 0.5081404381932864
+      },
+      {
+        "surface": 4,
+        "minimum_mm": 0.640001499578254,
+        "required_mm": 0.45,
+        "margin_mm": 0.19000149957825402
+      },
+      {
+        "surface": 5,
+        "minimum_mm": 0.3081142447774923,
+        "required_mm": 0.3,
+        "margin_mm": 0.008114244777492285
+      },
+      {
+        "surface": 6,
+        "minimum_mm": 2.701133498436169,
+        "required_mm": 0.3,
+        "margin_mm": 2.401133498436169
+      },
+      {
+        "surface": 7,
+        "minimum_mm": 1.39022477593015,
+        "required_mm": 0.45,
+        "margin_mm": 0.9402247759301501
+      },
+      {
+        "surface": 8,
+        "minimum_mm": 0.42950828429194243,
+        "required_mm": 0.45,
+        "margin_mm": -0.02049171570805758
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.119986749625481,
+        "required_mm": 0.1,
+        "margin_mm": 0.019986749625481
+      },
+      {
+        "surface": 10,
+        "minimum_mm": 0.45619055177042434,
+        "required_mm": 0.45,
+        "margin_mm": 0.006190551770424324
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 6.815523735873467,
+        "required_mm": 0.1,
+        "margin_mm": 6.715523735873467
+      },
+      {
+        "surface": 12,
+        "minimum_mm": 0.7348144435139186,
+        "required_mm": 0.45,
+        "margin_mm": 0.28481444351391855
+      },
+      {
+        "surface": 13,
+        "minimum_mm": 0.13296452120717195,
+        "required_mm": 0.1,
+        "margin_mm": 0.03296452120717194
+      },
+      {
+        "surface": 14,
+        "minimum_mm": 1.03375025571685,
+        "required_mm": 0.45,
+        "margin_mm": 0.5837502557168501
+      }
+    ]
+  },
+  {
+    "wd": 10000000.0,
+    "passed": false,
+    "worst": {
+      "surface": 8,
+      "minimum_mm": 0.42950828429194243,
+      "required_mm": 0.45,
+      "margin_mm": -0.02049171570805758
+    },
+    "gaps": [
+      {
+        "surface": 1,
+        "minimum_mm": 1.737354811824599,
+        "required_mm": 0.45,
+        "margin_mm": 1.287354811824599
+      },
+      {
+        "surface": 2,
+        "minimum_mm": 0.10300727604112,
+        "required_mm": 0.1,
+        "margin_mm": 0.0030072760411199995
+      },
+      {
+        "surface": 3,
+        "minimum_mm": 0.9581404381932863,
+        "required_mm": 0.45,
+        "margin_mm": 0.5081404381932864
+      },
+      {
+        "surface": 4,
+        "minimum_mm": 0.640001499578254,
+        "required_mm": 0.45,
+        "margin_mm": 0.19000149957825402
+      },
+      {
+        "surface": 5,
+        "minimum_mm": 0.3081142447774923,
+        "required_mm": 0.3,
+        "margin_mm": 0.008114244777492285
+      },
+      {
+        "surface": 6,
+        "minimum_mm": 3.2304936730534304,
+        "required_mm": 0.3,
+        "margin_mm": 2.9304936730534306
+      },
+      {
+        "surface": 7,
+        "minimum_mm": 1.39022477593015,
+        "required_mm": 0.45,
+        "margin_mm": 0.9402247759301501
+      },
+      {
+        "surface": 8,
+        "minimum_mm": 0.42950828429194243,
+        "required_mm": 0.45,
+        "margin_mm": -0.02049171570805758
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.119986749625481,
+        "required_mm": 0.1,
+        "margin_mm": 0.019986749625481
+      },
+      {
+        "surface": 10,
+        "minimum_mm": 0.45619055177042434,
+        "required_mm": 0.45,
+        "margin_mm": 0.006190551770424324
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 1.1667155030605265,
+        "required_mm": 0.1,
+        "margin_mm": 1.0667155030605264
+      },
+      {
+        "surface": 12,
+        "minimum_mm": 0.7348144435139186,
+        "required_mm": 0.45,
+        "margin_mm": 0.28481444351391855
+      },
+      {
+        "surface": 13,
+        "minimum_mm": 0.13296452120717195,
+        "required_mm": 0.1,
+        "margin_mm": 0.03296452120717194
+      },
+      {
+        "surface": 14,
+        "minimum_mm": 1.03375025571685,
+        "required_mm": 0.45,
+        "margin_mm": 0.5837502557168501
+      }
+    ]
+  },
+  {
+    "wd": 300.0,
+    "passed": false,
+    "worst": {
+      "surface": 8,
+      "minimum_mm": 0.42950828429194243,
+      "required_mm": 0.45,
+      "margin_mm": -0.02049171570805758
+    },
+    "gaps": [
+      {
+        "surface": 1,
+        "minimum_mm": 1.737354811824599,
+        "required_mm": 0.45,
+        "margin_mm": 1.287354811824599
+      },
+      {
+        "surface": 2,
+        "minimum_mm": 0.10300727604112,
+        "required_mm": 0.1,
+        "margin_mm": 0.0030072760411199995
+      },
+      {
+        "surface": 3,
+        "minimum_mm": 0.9581404381932863,
+        "required_mm": 0.45,
+        "margin_mm": 0.5081404381932864
+      },
+      {
+        "surface": 4,
+        "minimum_mm": 0.640001499578254,
+        "required_mm": 0.45,
+        "margin_mm": 0.19000149957825402
+      },
+      {
+        "surface": 5,
+        "minimum_mm": 0.3081142447774923,
+        "required_mm": 0.3,
+        "margin_mm": 0.008114244777492285
+      },
+      {
+        "surface": 6,
+        "minimum_mm": 3.9603891584688173,
+        "required_mm": 0.3,
+        "margin_mm": 3.6603891584688175
+      },
+      {
+        "surface": 7,
+        "minimum_mm": 1.39022477593015,
+        "required_mm": 0.45,
+        "margin_mm": 0.9402247759301501
+      },
+      {
+        "surface": 8,
+        "minimum_mm": 0.42950828429194243,
+        "required_mm": 0.45,
+        "margin_mm": -0.02049171570805758
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.119986749625481,
+        "required_mm": 0.1,
+        "margin_mm": 0.019986749625481
+      },
+      {
+        "surface": 10,
+        "minimum_mm": 0.45619055177042434,
+        "required_mm": 0.45,
+        "margin_mm": 0.006190551770424324
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 6.827032546539716,
+        "required_mm": 0.1,
+        "margin_mm": 6.727032546539716
+      },
+      {
+        "surface": 12,
+        "minimum_mm": 0.7348144435139186,
+        "required_mm": 0.45,
+        "margin_mm": 0.28481444351391855
+      },
+      {
+        "surface": 13,
+        "minimum_mm": 0.13296452120717195,
+        "required_mm": 0.1,
+        "margin_mm": 0.03296452120717194
+      },
+      {
+        "surface": 14,
+        "minimum_mm": 1.03375025571685,
+        "required_mm": 0.45,
+        "margin_mm": 0.5837502557168501
+      }
+    ]
+  },
+  {
+    "wd": 400.0,
+    "passed": false,
+    "worst": {
+      "surface": 8,
+      "minimum_mm": 0.42950828429194243,
+      "required_mm": 0.45,
+      "margin_mm": -0.02049171570805758
+    },
+    "gaps": [
+      {
+        "surface": 1,
+        "minimum_mm": 1.737354811824599,
+        "required_mm": 0.45,
+        "margin_mm": 1.287354811824599
+      },
+      {
+        "surface": 2,
+        "minimum_mm": 0.10300727604112,
+        "required_mm": 0.1,
+        "margin_mm": 0.0030072760411199995
+      },
+      {
+        "surface": 3,
+        "minimum_mm": 0.9581404381932863,
+        "required_mm": 0.45,
+        "margin_mm": 0.5081404381932864
+      },
+      {
+        "surface": 4,
+        "minimum_mm": 0.640001499578254,
+        "required_mm": 0.45,
+        "margin_mm": 0.19000149957825402
+      },
+      {
+        "surface": 5,
+        "minimum_mm": 0.3081142447774923,
+        "required_mm": 0.3,
+        "margin_mm": 0.008114244777492285
+      },
+      {
+        "surface": 6,
+        "minimum_mm": 3.2822521379024727,
+        "required_mm": 0.3,
+        "margin_mm": 2.982252137902473
+      },
+      {
+        "surface": 7,
+        "minimum_mm": 1.39022477593015,
+        "required_mm": 0.45,
+        "margin_mm": 0.9402247759301501
+      },
+      {
+        "surface": 8,
+        "minimum_mm": 0.42950828429194243,
+        "required_mm": 0.45,
+        "margin_mm": -0.02049171570805758
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.119986749625481,
+        "required_mm": 0.1,
+        "margin_mm": 0.019986749625481
+      },
+      {
+        "surface": 10,
+        "minimum_mm": 0.45619055177042434,
+        "required_mm": 0.45,
+        "margin_mm": 0.006190551770424324
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 6.891523146356785,
+        "required_mm": 0.1,
+        "margin_mm": 6.791523146356785
+      },
+      {
+        "surface": 12,
+        "minimum_mm": 0.7348144435139186,
+        "required_mm": 0.45,
+        "margin_mm": 0.28481444351391855
+      },
+      {
+        "surface": 13,
+        "minimum_mm": 0.13296452120717195,
+        "required_mm": 0.1,
+        "margin_mm": 0.03296452120717194
+      },
+      {
+        "surface": 14,
+        "minimum_mm": 1.03375025571685,
+        "required_mm": 0.45,
+        "margin_mm": 0.5837502557168501
+      }
+    ]
+  },
+  {
+    "wd": 2000.0,
+    "passed": false,
+    "worst": {
+      "surface": 8,
+      "minimum_mm": 0.42950828429194243,
+      "required_mm": 0.45,
+      "margin_mm": -0.02049171570805758
+    },
+    "gaps": [
+      {
+        "surface": 1,
+        "minimum_mm": 1.737354811824599,
+        "required_mm": 0.45,
+        "margin_mm": 1.287354811824599
+      },
+      {
+        "surface": 2,
+        "minimum_mm": 0.10300727604112,
+        "required_mm": 0.1,
+        "margin_mm": 0.0030072760411199995
+      },
+      {
+        "surface": 3,
+        "minimum_mm": 0.9581404381932863,
+        "required_mm": 0.45,
+        "margin_mm": 0.5081404381932864
+      },
+      {
+        "surface": 4,
+        "minimum_mm": 0.640001499578254,
+        "required_mm": 0.45,
+        "margin_mm": 0.19000149957825402
+      },
+      {
+        "surface": 5,
+        "minimum_mm": 0.3081142447774923,
+        "required_mm": 0.3,
+        "margin_mm": 0.008114244777492285
+      },
+      {
+        "surface": 6,
+        "minimum_mm": 3.2094085778553976,
+        "required_mm": 0.3,
+        "margin_mm": 2.9094085778553977
+      },
+      {
+        "surface": 7,
+        "minimum_mm": 1.39022477593015,
+        "required_mm": 0.45,
+        "margin_mm": 0.9402247759301501
+      },
+      {
+        "surface": 8,
+        "minimum_mm": 0.42950828429194243,
+        "required_mm": 0.45,
+        "margin_mm": -0.02049171570805758
+      },
+      {
+        "surface": 9,
+        "minimum_mm": 0.119986749625481,
+        "required_mm": 0.1,
+        "margin_mm": 0.019986749625481
+      },
+      {
+        "surface": 10,
+        "minimum_mm": 0.45619055177042434,
+        "required_mm": 0.45,
+        "margin_mm": 0.006190551770424324
+      },
+      {
+        "surface": 11,
+        "minimum_mm": 5.481198298568348,
+        "required_mm": 0.1,
+        "margin_mm": 5.381198298568348
+      },
+      {
+        "surface": 12,
+        "minimum_mm": 0.7348144435139186,
+        "required_mm": 0.45,
+        "margin_mm": 0.28481444351391855
+      },
+      {
+        "surface": 13,
+        "minimum_mm": 0.13296452120717195,
+        "required_mm": 0.1,
+        "margin_mm": 0.03296452120717194
+      },
+      {
+        "surface": 14,
+        "minimum_mm": 1.03375025571685,
+        "required_mm": 0.45,
+        "margin_mm": 0.5837502557168501
+      }
+    ]
+  }
+]

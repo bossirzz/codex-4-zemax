@@ -1,0 +1,37 @@
+{
+  "selections_before": [
+    {
+      "selected": [
+        "64 x 64"
+      ],
+      "position": "491,278,125,23"
+    },
+    {
+      "selected": [
+        "All"
+      ],
+      "position": "781,277,125,25"
+    },
+    {
+      "selected": [
+        "All"
+      ],
+      "position": "781,302,125,25"
+    },
+    {
+      "selected": [
+        "Modulation"
+      ],
+      "position": "491,328,125,23"
+    },
+    {
+      "selected": [
+        "Image"
+      ],
+      "position": "781,327,125,25"
+    }
+  ],
+  "lens_parameters_modified": false,
+  "frequency_before": "0",
+  "sampling_requested": 512
+}

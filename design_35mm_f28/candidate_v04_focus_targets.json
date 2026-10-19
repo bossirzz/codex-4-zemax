@@ -1,0 +1,58 @@
+[
+  {
+    "wd": 200,
+    "gap": 9.981244446793891,
+    "backfocus": 17.120371104121013,
+    "frequency_center": 150,
+    "frequency_edge": 120
+  },
+  {
+    "wd": 300,
+    "gap": 8.383733378776796,
+    "backfocus": 16.31803189803934,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 400,
+    "gap": 7.63775540219811,
+    "backfocus": 15.916862294998502,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 450,
+    "gap": 7.396538148793601,
+    "backfocus": 15.78313909398489,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 500,
+    "gap": 7.206181712209515,
+    "backfocus": 15.676160533174,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 800,
+    "gap": 6.37585232639937,
+    "backfocus": 15.503296071511922,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 2000,
+    "gap": 5.570993319056162,
+    "backfocus": 15.330431609849844,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  },
+  {
+    "wd": 100000000.0,
+    "gap": 5.048112598117324,
+    "backfocus": 15.215190940267949,
+    "frequency_center": 225,
+    "frequency_edge": 180
+  }
+]

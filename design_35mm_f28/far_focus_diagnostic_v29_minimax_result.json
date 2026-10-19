@@ -1,0 +1,42 @@
+{
+  "wd": 2000.0,
+  "gap": 6.102225240380714,
+  "iris_gap": 6.584683131691386,
+  "backfocus": 13.596123661938861,
+  "fixed_stop_radius": 4.261941584382103,
+  "frequency_center": 225.0,
+  "frequency_edge": 180.0,
+  "nominal_fno_target": 2.8,
+  "predicted_mtf_225_180": [
+    [
+      0.06705863097431054,
+      0.06705863100063383
+    ],
+    [
+      0.06705863086414288,
+      0.13080977795904628
+    ],
+    [
+      0.2282252525231231,
+      0.23549562551047498
+    ],
+    [
+      0.08365907533505648,
+      0.22658657766662416
+    ]
+  ],
+  "ttl_mm": 52.041219213855115,
+  "predicted_efl": 35.30560596031946,
+  "distortion_percent": [
+    0.06437505219452078,
+    0.055144243253916925,
+    0.1662935821457745
+  ],
+  "three_group_stroke_mm": [
+    6.009999999999959,
+    5.6440947720536805,
+    6.009999999999998
+  ],
+  "minimum_constraint": 0.0,
+  "note": "Strict max-min numerical prediction for frozen optics. Physical pupil clipping retained. Native verification required."
+}

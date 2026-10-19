@@ -1,0 +1,401 @@
+{
+  "zospy_version": "2.1.5",
+  "tests": [
+    {
+      "name": "lens_and_system_read",
+      "status": "passed",
+      "seconds": 0.04,
+      "details": {
+        "file": "<ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+        "needs_save": true,
+        "rows": [
+          {
+            "surface": 0,
+            "comment": "",
+            "radius": "inf",
+            "thickness": "inf",
+            "material": "",
+            "semi_diameter": 0.0,
+            "conic": 0.0,
+            "is_stop": false,
+            "type": "Standard"
+          },
+          {
+            "surface": 1,
+            "comment": "",
+            "radius": 124.50000000000001,
+            "thickness": 2.0,
+            "material": "1.50,0.0",
+            "semi_diameter": 3.0,
+            "conic": 0.0,
+            "is_stop": true,
+            "type": "Standard"
+          },
+          {
+            "surface": 2,
+            "comment": "",
+            "radius": -70.76,
+            "thickness": "inf",
+            "material": "",
+            "semi_diameter": 2.9847692881652845,
+            "conic": 0.0,
+            "is_stop": false,
+            "type": "Standard"
+          }
+        ],
+        "fields": [
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "weight": 1.0
+          }
+        ],
+        "wavelengths": [
+          {
+            "wavelength": 0.55,
+            "weight": 1.0
+          }
+        ],
+        "aperture_type": "FloatByStopSize",
+        "aperture_value": 3.0,
+        "merit_operands": 1
+      }
+    },
+    {
+      "name": "single_ray_trace",
+      "status": "failed",
+      "seconds": 0.99,
+      "error_type": "ValidationError",
+      "error": "3 validation errors for SingleRayTraceResult\nUnits\n  Field required [type=missing, input_value=ArgsKwargs(()), input_type=ArgsKwargs]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nCoordinates\n  Field required [type=missing, input_value=ArgsKwargs(()), input_type=ArgsKwargs]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nWavelength\n  Field required [type=missing, input_value=ArgsKwargs(()), input_type=ArgsKwargs]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing"
+    },
+    {
+      "name": "ray_fan",
+      "status": "failed",
+      "seconds": 0.52,
+      "error_type": "ValueError",
+      "error": "Could not parse description: 子午光扇，视场号1 = 0.0000 (度)"
+    },
+    {
+      "name": "standard_spot",
+      "status": "passed",
+      "seconds": 4.73,
+      "details": {
+        "messages": [],
+        "text_lines": 18,
+        "metrics": [
+          "RMS光斑半径   :   2.27052315E+03 µm",
+          "RMS X方向光斑尺寸   :   1.60550232E+03 µm",
+          "RMS Y方向光斑尺寸   :   1.60550232E+03 µm",
+          "最大光斑半径   :   2.98476929E+03 µm"
+        ],
+        "text_excerpt": [
+          "参考: 主光线",
+          "参考: 主光线",
+          "面    : 像",
+          "波长:           值  权重",
+          "0.550000\t1.00",
+          "X                Y",
+          "视场坐标  :   0.00000000E+00   0.00000000E+00",
+          "像坐标  :   0.00000000E+00   0.00000000E+00",
+          "RMS光斑半径   :   2.27052315E+03 µm",
+          "RMS X方向光斑尺寸   :   1.60550232E+03 µm",
+          "RMS Y方向光斑尺寸   :   1.60550232E+03 µm",
+          "最大光斑半径   :   2.98476929E+03 µm"
+        ]
+      }
+    },
+    {
+      "name": "single_ray_trace_native",
+      "status": "passed",
+      "seconds": 0.24,
+      "details": {
+        "messages": [],
+        "text_lines": 23,
+        "text_excerpt": [
+          "﻿光线追迹数据",
+          "文件 : <ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+          "题目:",
+          "日期 : 2026/10/10",
+          "单位       :\t 毫米",
+          "波长  :\t 0.550000 µm",
+          "坐标:\t 局部",
+          "方向余弦在来自表面或物体的折射或反射之后.",
+          "近轴光线追迹数据:",
+          "表面\t       X-坐标\t       Y-坐标\t       Z-坐标\t       X-余弦\t       Y-余弦\t       Z-余弦\t       X-法线\t       Y-法线\t       Z-法线\t       角\t        路径长度\t 注释",
+          "物面             无限                 无限                  无限          0.0000000000        0.0000000000        1.0000000000",
+          "1\t    0.0000000000E+00\t   1.5000000000E+00\t   0.0000000000E+00\t   0.0000000000\t  -0.0040053083\t   0.9999919787",
+          "2\t    0.0000000000E+00\t   1.4919893191E+00\t   0.0000000000E+00\t   0.0000000000\t  -0.0164981878\t   0.9998638956"
+        ],
+        "series_count": 0,
+        "series": []
+      }
+    },
+    {
+      "name": "ray_fan_native",
+      "status": "passed",
+      "seconds": 0.27,
+      "details": {
+        "messages": [],
+        "text_lines": 95,
+        "text_excerpt": [
+          "﻿光扇图数据列表",
+          "文件 : <ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+          "题目:",
+          "日期 : 2026/10/10",
+          "面: 像面",
+          "单位是 µm.",
+          "像差数据是由像平面局部坐标测量的。",
+          "子午数据是y像差作为Py的函数。",
+          "0.800  \t  2387.587592",
+          "0.850  \t  2536.867279",
+          "0.900  \t  2686.157060",
+          "0.950  \t  2835.457530",
+          "1.000  \t  2984.769288"
+        ],
+        "series_count": 2,
+        "series": [
+          {
+            "shape": [
+              41,
+              1
+            ],
+            "columns": [
+              "('子午光扇，视场号1 = 0.0000 (度)', '0.550000')"
+            ],
+            "finite_numeric_values": 41,
+            "nonfinite_numeric_values": 0,
+            "first_rows": {
+              "columns": [
+                [
+                  "子午光扇，视场号1 = 0.0000 (度)",
+                  "0.550000"
+                ]
+              ],
+              "index": [
+                -1.0,
+                -0.95,
+                -0.9
+              ],
+              "data": [
+                [
+                  -2984.7692881653
+                ],
+                [
+                  -2835.4575302276
+                ],
+                [
+                  -2686.1570595018
+                ]
+              ]
+            }
+          },
+          {
+            "shape": [
+              41,
+              1
+            ],
+            "columns": [
+              "('弧矢光扇，视场号1 = 0.0000 (度)', '0.550000')"
+            ],
+            "finite_numeric_values": 41,
+            "nonfinite_numeric_values": 0,
+            "first_rows": {
+              "columns": [
+                [
+                  "弧矢光扇，视场号1 = 0.0000 (度)",
+                  "0.550000"
+                ]
+              ],
+              "index": [
+                -1.0,
+                -0.95,
+                -0.9
+              ],
+              "data": [
+                [
+                  -2984.7692881653
+                ],
+                [
+                  -2835.4575302276
+                ],
+                [
+                  -2686.1570595018
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "fft_mtf",
+      "status": "passed",
+      "seconds": 1.22,
+      "details": {
+        "messages": [
+          "AnalysisMessage(ErrorCode='Success', Message='取样太低, 数据不准确!')"
+        ],
+        "shape": [
+          300,
+          4
+        ],
+        "columns": [
+          "('视场: 衍射极限', '子午')",
+          "('视场: 衍射极限', '弧矢')",
+          "('视场：0.0000 (度)', '子午')",
+          "('视场：0.0000 (度)', '弧矢')"
+        ],
+        "finite_numeric_values": 1200,
+        "nonfinite_numeric_values": 0,
+        "first_rows": {
+          "columns": [
+            [
+              "视场: 衍射极限",
+              "子午"
+            ],
+            [
+              "视场: 衍射极限",
+              "弧矢"
+            ],
+            [
+              "视场：0.0000 (度)",
+              "子午"
+            ],
+            [
+              "视场：0.0000 (度)",
+              "弧矢"
+            ]
+          ],
+          "index": [
+            0.0,
+            0.3344481605,
+            0.6688963211
+          ],
+          "data": [
+            [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            [
+              0.9962852648,
+              0.9962852648,
+              0.7650308403,
+              0.7650308403
+            ],
+            [
+              0.9925773456,
+              0.9925773456,
+              0.5426784053,
+              0.5426784053
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "name": "system_data_report",
+      "status": "failed",
+      "seconds": 0.33,
+      "error_type": "UnexpectedCharacters",
+      "error": "No terminal matches '文' in the current parser context, at line 3 col 1\n\n文件 : <ZEMAX_USER_DATA>\\SAMPL\n^\nExpected one of: \n\t* zospy__FIELD_NAME\n"
+    },
+    {
+      "name": "system_data_report_native",
+      "status": "passed",
+      "seconds": 0.27,
+      "details": {
+        "messages": [],
+        "text_lines": 68,
+        "text_excerpt": [
+          "﻿系统/详细数据",
+          "文件 : <ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+          "题目:",
+          "日期 : 2026/10/10",
+          "常用透镜数据:",
+          "面                      : \t               2",
+          "光阑                    : \t               1",
+          "系统孔径                : \t光阑尺寸浮动 = \t3",
+          "预测坐标 ABCD 矩阵:",
+          "A = \t       1.335",
+          "B = \t           0",
+          "C = \t           0",
+          "D = \t       1.335"
+        ],
+        "series_count": 0,
+        "series": []
+      }
+    },
+    {
+      "name": "lens_unchanged",
+      "status": "passed",
+      "seconds": 0.03,
+      "details": {
+        "unchanged": true
+      }
+    }
+  ],
+  "connection": {
+    "license_status": "PremiumEdition",
+    "api_license_valid": true,
+    "application_mode": "Plugin"
+  },
+  "previous_baselines": [
+    {
+      "file": "<ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+      "needs_save": false,
+      "rows": [
+        {
+          "surface": 0,
+          "comment": "",
+          "radius": "inf",
+          "thickness": "inf",
+          "material": "",
+          "semi_diameter": 0.0,
+          "conic": 0.0,
+          "is_stop": false,
+          "type": "Standard"
+        },
+        {
+          "surface": 1,
+          "comment": "",
+          "radius": 124.50000000000001,
+          "thickness": 2.0,
+          "material": "1.50,0.0",
+          "semi_diameter": 3.0,
+          "conic": 0.0,
+          "is_stop": true,
+          "type": "Standard"
+        },
+        {
+          "surface": 2,
+          "comment": "",
+          "radius": -70.76,
+          "thickness": "inf",
+          "material": "",
+          "semi_diameter": 2.9847692881652845,
+          "conic": 0.0,
+          "is_stop": false,
+          "type": "Standard"
+        }
+      ],
+      "fields": [
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "weight": 1.0
+        }
+      ],
+      "wavelengths": [
+        {
+          "wavelength": 0.55,
+          "weight": 1.0
+        }
+      ],
+      "aperture_type": "FloatByStopSize",
+      "aperture_value": 3.0,
+      "merit_operands": 1
+    }
+  ]
+}

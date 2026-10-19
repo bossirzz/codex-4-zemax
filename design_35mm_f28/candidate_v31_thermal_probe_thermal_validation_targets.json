@@ -1,0 +1,510 @@
+[
+  {
+    "wd": 200.0,
+    "temperature_c": -20.0,
+    "spacer_tce_ppm_per_k": 23.0,
+    "mounting_assumption": "Native thin-shell spacers; spacer material is assumed",
+    "manufactured_assembly_validated": false,
+    "iris_gap": 7.0875438330034175,
+    "gap": 7.1412710848522565,
+    "backfocus": 18.162783218250954,
+    "stop_radius": 4.224914365542898,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "predicted_mtf": [
+      [
+        0.38925294007824884,
+        0.38925294007618133
+      ],
+      [
+        0.2851121114452067,
+        0.334035432476161
+      ],
+      [
+        0.21500125915945886,
+        0.22805206478411005
+      ],
+      [
+        0.21530540163330805,
+        0.22862254641965288
+      ]
+    ],
+    "predicted_cra": 9.586892940769904,
+    "predicted_illumination": 0.9543207445997478,
+    "predicted_distortion_percent": [
+      0.0767135266872554,
+      -0.20880842087630525,
+      -0.5661145765691655
+    ],
+    "predicted_image_circle_mm": 18.05719359289504,
+    "predicted_colour_centroid_span_um": [
+      4.6136965530189945e-11,
+      0.3283470582750314,
+      1.0026964577438628,
+      1.603297963841739
+    ],
+    "min_constraint": 0.0,
+    "geometry_constraints": {
+      "clearance_1": 1.2901665942216238,
+      "clearance_2": 0.023980110907834012,
+      "clearance_3": 0.5077214968014594,
+      "clearance_4": 0.18985045922435356,
+      "clearance_5": 0.027267904518006685,
+      "clearance_6": 3.2786275884468545,
+      "clearance_7": 0.9398855610848231,
+      "clearance_8": 0.0027952434362474438,
+      "clearance_9": 0.04451018802477032,
+      "clearance_10": 0.002889468052450897,
+      "clearance_11": 7.061271084852256,
+      "clearance_12": 0.2891441779315604,
+      "clearance_13": 0.04613108638796433,
+      "clearance_14": 0.5833739706237691,
+      "ttl": 0.18581264743100975,
+      "stroke_front": 0.027519043240295284,
+      "stroke_middle": 0.0605548257754764,
+      "stroke_rear": 0.10099999999999963,
+      "backfocus": 1.0162783218250955,
+      "image_circle": 0.002859679644751978,
+      "illumination": 0.15432074459974776,
+      "valid_rays": 0.0,
+      "max_diameter": 0.11536554327180237,
+      "distortion_1": 0.5232864733127446,
+      "distortion_2": 0.39119157912369473,
+      "distortion_3": 0.03388542343083445
+    },
+    "predicted_mtf_acceptance_margin": 0.015001259159458852,
+    "predicted_group_strokes_mm": [
+      5.734809567597047,
+      5.404451742245236,
+      5.0000000000000036
+    ],
+    "group_positions_from_sensor_mm": [
+      58.1418735256899,
+      40.02894284170753,
+      22.535052755948232
+    ],
+    "focus_corrections_mm": [
+      0.1455425108001549,
+      0.146829794093021,
+      -0.1602145484518207
+    ],
+    "evaluated_poses": 389,
+    "status": "PREDICTION_ONLY_REQUIRES_NATIVE_VALIDATION"
+  },
+  {
+    "wd": 200.0,
+    "temperature_c": 60.0,
+    "spacer_tce_ppm_per_k": 23.0,
+    "mounting_assumption": "Native thin-shell spacers; spacer material is assumed",
+    "manufactured_assembly_validated": false,
+    "iris_gap": 7.027177366776858,
+    "gap": 7.204196371049142,
+    "backfocus": 18.26115426054619,
+    "stop_radius": 4.23277647379782,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "predicted_mtf": [
+      [
+        0.4304991693985367,
+        0.43049916940631233
+      ],
+      [
+        0.2181466687180712,
+        0.34236767921270644
+      ],
+      [
+        0.22811418437872186,
+        0.25374058810213757
+      ],
+      [
+        0.21668451863526103,
+        0.2618599000359055
+      ]
+    ],
+    "predicted_cra": 9.609438599337699,
+    "predicted_illumination": 0.9603573081073545,
+    "predicted_distortion_percent": [
+      0.07326370258453618,
+      -0.21970847630694568,
+      -0.588438874021413
+    ],
+    "predicted_image_circle_mm": 18.053139500477712,
+    "predicted_colour_centroid_span_um": [
+      1.7771766332169748e-11,
+      0.35996226377731894,
+      1.018969017211342,
+      1.7695340274091318
+    ],
+    "min_constraint": 0.0,
+    "geometry_constraints": {
+      "clearance_1": 1.2909602911514886,
+      "clearance_2": 0.02203339391771401,
+      "clearance_3": 0.508575736012131,
+      "clearance_4": 0.19015253993215447,
+      "clearance_5": 0.036401611131811326,
+      "clearance_6": 3.216538590795284,
+      "clearance_7": 0.9405639907754768,
+      "clearance_8": 0.0032047554357363534,
+      "clearance_9": 0.0354541204608952,
+      "clearance_10": 0.0031105320524768693,
+      "clearance_11": 7.124196371049142,
+      "clearance_12": 0.2894931363377276,
+      "clearance_13": 0.047692300515595434,
+      "clearance_14": 0.5841265408099312,
+      "ttl": 0.17413781264102257,
+      "stroke_front": 0.015844208450308095,
+      "stroke_middle": 0.048172784370536625,
+      "stroke_rear": 0.10099999999999963,
+      "backfocus": 1.0261154260546188,
+      "image_circle": 0.0026569750238856216,
+      "illumination": 0.1603573081073545,
+      "valid_rays": 0.0,
+      "max_diameter": 0.1148605184308579,
+      "distortion_1": 0.5267362974154638,
+      "distortion_2": 0.3802915236930543,
+      "distortion_3": 0.01156112597858694
+    },
+    "predicted_mtf_acceptance_margin": 0.01668451863526102,
+    "predicted_group_strokes_mm": [
+      5.851557915496919,
+      5.5282721562946335,
+      5.0000000000000036
+    ],
+    "group_positions_from_sensor_mm": [
+      58.258621873589775,
+      40.192075398193026,
+      22.63688417944022
+    ],
+    "focus_corrections_mm": [
+      0.20947756821423624,
+      0.06670622707553164,
+      -0.11028932782734557
+    ],
+    "evaluated_poses": 215,
+    "status": "PREDICTION_ONLY_REQUIRES_NATIVE_VALIDATION"
+  },
+  {
+    "wd": 500,
+    "temperature_c": -20,
+    "gap": 6.74596535532771,
+    "iris_gap": 6.7185146393557025,
+    "backfocus": 14.627654377203331,
+    "fixed_stop_radius": 4.221638861462771,
+    "nominal_fno_target": 2.8,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "predicted_mtf": [
+      [
+        0.33708090943041086,
+        0.33708090944079816
+      ],
+      [
+        0.23725587423510908,
+        0.33964846085832645
+      ],
+      [
+        0.2089369467582723,
+        0.2298069643682894
+      ],
+      [
+        0.21083443611236183,
+        0.20896285618731864
+      ]
+    ],
+    "predicted_distortion_percent": [
+      0.11439994889670402,
+      -0.0022570457554271783,
+      -0.05825602256415152
+    ],
+    "predicted_image_circle_mm": 18.14942070630235,
+    "predicted_efl": 35.02393174494144,
+    "ttl_mm": 53.842082982940525,
+    "predicted_relative_illumination_primary": 0.9238154907848998,
+    "predicted_colour_centroid_span_um": [
+      5.104378565808809e-10,
+      0.5041909906026826,
+      2.1338786788883017,
+      2.745496593719014
+    ],
+    "group_positions_from_sensor_mm": [
+      53.842082982940525,
+      36.098181492605875,
+      18.99992391490061
+    ],
+    "spacer_tce_ppm_per_k": 23.0,
+    "stop_radius": 4.221638861462771,
+    "status": "PREDICTED_REFERENCE_REQUIRES_NEW_NATIVE_MAKE_THERMAL"
+  },
+  {
+    "wd": 500.0,
+    "temperature_c": 60.0,
+    "spacer_tce_ppm_per_k": 23.0,
+    "mounting_assumption": "Native thin-shell spacers; spacer material is assumed",
+    "manufactured_assembly_validated": false,
+    "iris_gap": 6.57499115256098,
+    "gap": 6.85766054721998,
+    "backfocus": 14.668526542065651,
+    "stop_radius": 4.221294386677399,
+    "frequency_center": 225.0,
+    "frequency_edge": 180.0,
+    "predicted_mtf": [
+      [
+        0.320397282369799,
+        0.3203972823699542
+      ],
+      [
+        0.21825879735209763,
+        0.3279357767976299
+      ],
+      [
+        0.22697683983592754,
+        0.216206916253768
+      ],
+      [
+        0.21504154871411058,
+        0.22352210559145938
+      ]
+    ],
+    "predicted_cra": 10.651878432940045,
+    "predicted_illumination": 0.9276021240675808,
+    "predicted_distortion_percent": [
+      0.12765729279540228,
+      -0.006747863666667353,
+      -0.08642427421424737
+    ],
+    "predicted_image_circle_mm": 18.144305351802693,
+    "predicted_colour_centroid_span_um": [
+      9.871426091531774e-10,
+      0.5015718669373731,
+      2.0147464350863507,
+      2.319238340958169
+    ],
+    "min_constraint": 0.0,
+    "geometry_constraints": {
+      "clearance_1": 1.2909602911514886,
+      "clearance_2": 0.02203339391771401,
+      "clearance_3": 0.508575736012131,
+      "clearance_4": 0.19015253993215447,
+      "clearance_5": 0.036401611131811326,
+      "clearance_6": 2.764352376579406,
+      "clearance_7": 0.9405639907754768,
+      "clearance_8": 0.0032047554357363534,
+      "clearance_9": 0.0354541204608952,
+      "clearance_10": 0.0031105320524768693,
+      "clearance_11": 6.77766054721998,
+      "clearance_12": 0.2894931363377276,
+      "clearance_13": 0.047692300515595434,
+      "clearance_14": 0.5841265408099312,
+      "ttl": 0.6132727882935811,
+      "stroke_front": 0.015844208450308095,
+      "stroke_middle": 0.048172784370536625,
+      "stroke_rear": 0.10099999999999963,
+      "backfocus": 0.6668526542065651,
+      "image_circle": 0.007215267590134644,
+      "illumination": 0.12760212406758076,
+      "valid_rays": 0.0,
+      "max_diameter": 0.1148605184308579,
+      "distortion_1": 0.1723427072045977,
+      "distortion_2": 0.29325213633333264,
+      "distortion_3": 0.21357572578575262
+    },
+    "predicted_mtf_acceptance_margin": 0.015041548714110564,
+    "predicted_group_strokes_mm": [
+      5.851557915496919,
+      5.5282721562946335,
+      5.0000000000000036
+    ],
+    "group_positions_from_sensor_mm": [
+      53.86727211706419,
+      36.25291185588332,
+      19.04425646095968
+    ],
+    "focus_corrections_mm": [
+      0.04833811498746776,
+      -0.14555594639092018,
+      0.029788973597171697
+    ],
+    "evaluated_poses": 312,
+    "status": "PREDICTION_ONLY_REQUIRES_NATIVE_VALIDATION"
+  },
+  {
+    "wd": 10000000.0,
+    "temperature_c": -20.0,
+    "spacer_tce_ppm_per_k": 23.0,
+    "mounting_assumption": "Native thin-shell spacers; spacer material is assumed",
+    "manufactured_assembly_validated": false,
+    "iris_gap": 6.701231052625842,
+    "gap": 1.2106180819071815,
+    "backfocus": 19.587460577120968,
+    "stop_radius": 4.549386882609385,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "predicted_mtf": [
+      [
+        0.004644695337223533,
+        0.004644695337227021
+      ],
+      [
+        0.04691807560736025,
+        0.02204447818409678
+      ],
+      [
+        0.02070847873981314,
+        0.040861109002793404
+      ],
+      [
+        0.005078700160188813,
+        0.023196468265556738
+      ]
+    ],
+    "predicted_cra": 9.978863849588565,
+    "predicted_illumination": 0.7847859271925717,
+    "predicted_distortion_percent": [
+      0.28730170124244836,
+      0.3239577884627476,
+      0.27173188468421205
+    ],
+    "predicted_image_circle_mm": 18.20934651025865,
+    "predicted_colour_centroid_span_um": [
+      2.1628511118602007e-07,
+      4.985304786420881,
+      12.854081588370526,
+      19.51672057536413
+    ],
+    "min_constraint": -0.01521407280742837,
+    "geometry_constraints": {
+      "clearance_1": 1.2901665942216238,
+      "clearance_2": 0.023980110907834012,
+      "clearance_3": 0.5077214968014594,
+      "clearance_4": 0.18985045922435356,
+      "clearance_5": 0.027267904518006685,
+      "clearance_6": 2.8923148080692793,
+      "clearance_7": 0.9398855610848231,
+      "clearance_8": 0.0027952434362474438,
+      "clearance_9": 0.04451018802477032,
+      "clearance_10": 0.002889468052450897,
+      "clearance_11": 1.1306180819071814,
+      "clearance_12": 0.2891441779315604,
+      "clearance_13": 0.04613108638796433,
+      "clearance_14": 0.5833739706237691,
+      "ttl": 0.6750414898762742,
+      "stroke_front": 0.015844208450308095,
+      "stroke_middle": 0.048172784370536625,
+      "stroke_rear": 0.10099999999999572,
+      "backfocus": 1.158746057712097,
+      "image_circle": 0.010467325512932746,
+      "illumination": -0.01521407280742837,
+      "valid_rays": 0.0,
+      "max_diameter": 0.11536554327180237,
+      "cra": 0.0021136150411434685
+    },
+    "predicted_mtf_acceptance_margin": null,
+    "predicted_group_strokes_mm": [
+      5.851557915496919,
+      5.5282721562946335,
+      5.000000000000043
+    ],
+    "group_positions_from_sensor_mm": [
+      53.24958510123726,
+      35.522967197632475,
+      23.959730114818246
+    ],
+    "focus_corrections_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "evaluated_poses": 1,
+    "status": "PREDICTION_ONLY_REQUIRES_NATIVE_VALIDATION"
+  },
+  {
+    "wd": 10000000.0,
+    "temperature_c": 60.0,
+    "spacer_tce_ppm_per_k": 23.0,
+    "mounting_assumption": "Native thin-shell spacers; spacer material is assumed",
+    "manufactured_assembly_validated": false,
+    "iris_gap": 6.7205470989519,
+    "gap": 1.2124006310699238,
+    "backfocus": 19.62478842707818,
+    "stop_radius": 4.566039895393547,
+    "frequency_center": 150.0,
+    "frequency_edge": 120.0,
+    "predicted_mtf": [
+      [
+        0.08031054139476936,
+        0.08031054139476625
+      ],
+      [
+        0.04364387518242541,
+        0.22507382705030232
+      ],
+      [
+        0.018036472936451883,
+        0.05403933028392258
+      ],
+      [
+        0.010396807306719151,
+        0.03894378492478782
+      ]
+    ],
+    "predicted_cra": 9.942263718504298,
+    "predicted_illumination": 0.7842032687590916,
+    "predicted_distortion_percent": [
+      0.09232944212622662,
+      0.1270060125183825,
+      0.07064503545302081
+    ],
+    "predicted_image_circle_mm": 18.172829138438267,
+    "predicted_colour_centroid_span_um": [
+      1.0948624934028414e-08,
+      5.029379544462496,
+      12.882365904248928,
+      17.916960731706173
+    ],
+    "min_constraint": -0.015796731240908413,
+    "geometry_constraints": {
+      "clearance_1": 1.2909602911514886,
+      "clearance_2": 0.02203339391771401,
+      "clearance_3": 0.508575736012131,
+      "clearance_4": 0.19015253993215447,
+      "clearance_5": 0.036401611131811326,
+      "clearance_6": 2.909908322970326,
+      "clearance_7": 0.9405639907754768,
+      "clearance_8": 0.0032047554357363534,
+      "clearance_9": 0.0354541204608952,
+      "clearance_10": 0.0031105320524768693,
+      "clearance_11": 1.1324006310699237,
+      "clearance_12": 0.2894931363377276,
+      "clearance_13": 0.047692300515595434,
+      "clearance_14": 0.5841265408099312,
+      "ttl": 0.6676169967682419,
+      "stroke_front": 0.015844208450308095,
+      "stroke_middle": 0.048172784370536625,
+      "stroke_rear": 0.0989605106049007,
+      "backfocus": 1.162478842707818,
+      "image_circle": 0.00864145692191336,
+      "illumination": -0.015796731240908413,
+      "valid_rays": 0.0,
+      "max_diameter": 0.1148605184308579,
+      "cra": 0.005773628149570165
+    },
+    "predicted_mtf_acceptance_margin": null,
+    "predicted_group_strokes_mm": [
+      5.851557915496919,
+      5.5282721562946335,
+      5.020394893950993
+    ],
+    "group_positions_from_sensor_mm": [
+      53.32383003231758,
+      35.563913824745796,
+      24.00051834597221
+    ],
+    "focus_corrections_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "evaluated_poses": 1,
+    "status": "PREDICTION_ONLY_REQUIRES_NATIVE_VALIDATION"
+  }
+]

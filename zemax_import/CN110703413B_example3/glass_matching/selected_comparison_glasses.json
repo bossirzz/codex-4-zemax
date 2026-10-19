@@ -1,0 +1,322 @@
+[
+  {
+    "lenses": [
+      "L1",
+      "L6",
+      "L8"
+    ],
+    "target_nd": 1.77,
+    "target_vd": 49.1,
+    "candidate": {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 6340,
+      "name": "H-LAF50B",
+      "formula": 2,
+      "nd_nominal": 1.7725,
+      "vd_nominal": 49.598996,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        5.8,
+        7.5,
+        4.24,
+        -0.0096,
+        0.0,
+        0.0
+      ],
+      "LD": [
+        0.302,
+        2.325
+      ],
+      "indices": {
+        "g": 1.7919645479604502,
+        "F": 1.7833730595066908,
+        "d": 1.7724999642194605,
+        "C": 1.7677981482893248,
+        "650nm": 1.7681697632550866,
+        "850nm": 1.7596648342039398
+      },
+      "nd": 1.7724999642194605,
+      "vd": 49.59899632417328,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5516235909056078,
+      "nd_nominal_difference": -3.578053942021597e-08,
+      "vd_nominal_difference": 3.241732784431406e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false,
+      "delta_nd": 0.0024999642194605265,
+      "delta_vd": 0.49899632417327666,
+      "within_published_rounding": false,
+      "score": 1.1162357143977621
+    }
+  },
+  {
+    "lenses": [
+      "L2"
+    ],
+    "target_nd": 1.59,
+    "target_vd": 68.5,
+    "candidate": {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 1191,
+      "name": "H-ZPK5",
+      "formula": 2,
+      "nd_nominal": 1.5928,
+      "vd_nominal": 68.342024,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        12.4,
+        14.5,
+        4.29,
+        0.0154,
+        0.0,
+        0.0
+      ],
+      "LD": [
+        0.302,
+        2.325
+      ],
+      "indices": {
+        "g": 1.6035699956094398,
+        "F": 1.598845219041491,
+        "d": 1.5927999667494963,
+        "C": 1.590171200699445,
+        "650nm": 1.590379065813093,
+        "850nm": 1.5856370116590286
+      },
+      "nd": 1.5927999667494963,
+      "vd": 68.34202365886071,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5447044704812494,
+      "nd_nominal_difference": -3.3250503683746047e-08,
+      "vd_nominal_difference": -3.4113928393253445e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false,
+      "delta_nd": 0.00279996674949623,
+      "delta_vd": -0.15797634113928893,
+      "within_published_rounding": false,
+      "score": 0.6429763987662435
+    }
+  },
+  {
+    "lenses": [
+      "L3"
+    ],
+    "target_nd": 1.57,
+    "target_vd": 41.5,
+    "candidate": {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 3552,
+      "name": "H-QF3",
+      "formula": 2,
+      "nd_nominal": 1.57501,
+      "vd_nominal": 41.504715,
+      "exclude_substitution": false,
+      "status_code": 0,
+      "status": "Standard",
+      "comment": "",
+      "ED": [
+        9.0,
+        10.3,
+        2.6,
+        0.0025,
+        0.0,
+        0.0
+      ],
+      "LD": [
+        0.365,
+        2.325
+      ],
+      "indices": {
+        "g": 1.5927646647121843,
+        "F": 1.5847638885260236,
+        "d": 1.5750100644611542,
+        "C": 1.5709097985030156,
+        "650nm": 1.5712312515859097,
+        "850nm": 1.5640034410963284
+      },
+      "nd": 1.5750100644611542,
+      "vd": 41.50471546714472,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.5775028293358508,
+      "nd_nominal_difference": 6.44611541922302e-08,
+      "vd_nominal_difference": 4.671447229043224e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false,
+      "delta_nd": 0.005010064461154151,
+      "delta_vd": 0.0047154671447202645,
+      "within_published_rounding": false,
+      "score": 1.0020572731727289
+    }
+  },
+  {
+    "lenses": [
+      "L4"
+    ],
+    "target_nd": 1.72,
+    "target_vd": 28.3,
+    "candidate": {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 4916,
+      "name": "H-ZF4A",
+      "formula": 2,
+      "nd_nominal": 1.72825,
+      "vd_nominal": 28.318797,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        9.3,
+        11.2,
+        3.05,
+        0.0107,
+        0.0,
+        0.0
+      ],
+      "LD": [
+        0.365,
+        2.325
+      ],
+      "indices": {
+        "g": 1.762182527458345,
+        "F": 1.7465439025401663,
+        "d": 1.7282500362635431,
+        "C": 1.7208277665530738,
+        "650nm": 1.7214029813466918,
+        "850nm": 1.7088426527291725
+      },
+      "nd": 1.7282500362635431,
+      "vd": 28.3187970630217,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.6081249891518665,
+      "nd_nominal_difference": 3.626354305730217e-08,
+      "vd_nominal_difference": 6.302170163507981e-08,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false,
+      "delta_nd": 0.008250036263543148,
+      "delta_vd": 0.01879706302170092,
+      "within_published_rounding": false,
+      "score": 1.650435473535408
+    }
+  },
+  {
+    "lenses": [
+      "L5"
+    ],
+    "target_nd": 1.8,
+    "target_vd": 46.7,
+    "candidate": {
+      "catalog": "NHG",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\NHG.agf",
+      "line": 9457,
+      "name": "H-ZLAF2",
+      "formula": 1,
+      "nd_nominal": 1.802784,
+      "vd_nominal": 46.727914,
+      "exclude_substitution": false,
+      "status_code": 0,
+      "status": "Standard",
+      "comment": "environmentally improved optical glass",
+      "ED": [
+        5.9,
+        7.4,
+        4.68,
+        -0.0079,
+        0.0,
+        0.0
+      ],
+      "LD": [
+        0.31,
+        2.4
+      ],
+      "indices": {
+        "g": 1.8243672295026978,
+        "F": 1.8148074607652072,
+        "d": 1.8027842901585311,
+        "C": 1.7976274878431004,
+        "650nm": 1.7980337219005371,
+        "850nm": 1.7888100918965295
+      },
+      "nd": 1.8027842901585311,
+      "vd": 46.72791358859074,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.55644841705131,
+      "nd_nominal_difference": 2.9015853120206714e-07,
+      "vd_nominal_difference": -4.114092604368125e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false,
+      "delta_nd": 0.0027842901585310997,
+      "delta_vd": 0.027913588590735117,
+      "within_published_rounding": true,
+      "score": 0.5596494806463924
+    }
+  },
+  {
+    "lenses": [
+      "L7"
+    ],
+    "target_nd": 1.76,
+    "target_vd": 26,
+    "candidate": {
+      "catalog": "CDGM",
+      "catalog_file": "<ZEMAX_USER_DATA>\\Glasscat\\CDGM.AGF",
+      "line": 5381,
+      "name": "H-ZF12",
+      "formula": 2,
+      "nd_nominal": 1.76182,
+      "vd_nominal": 26.607986,
+      "exclude_substitution": false,
+      "status_code": 1,
+      "status": "Preferred",
+      "comment": "",
+      "ED": [
+        8.4,
+        10.1,
+        3.17,
+        0.0128,
+        0.0,
+        0.0
+      ],
+      "LD": [
+        0.4047,
+        2.325
+      ],
+      "indices": {
+        "g": 1.7997810495515787,
+        "F": 1.7822240799102689,
+        "d": 1.761819963819777,
+        "C": 1.7535928271418524,
+        "650nm": 1.7542292579897576,
+        "850nm": 1.7403789610283553
+      },
+      "nd": 1.761819963819777,
+      "vd": 26.607985685493663,
+      "basis": "Computed from AGF CD dispersion coefficients",
+      "pgf_computed": 0.6132099696551573,
+      "nd_nominal_difference": -3.6180223039750103e-08,
+      "vd_nominal_difference": -3.1450633741769707e-07,
+      "covers_486_to_850nm": true,
+      "variant_name_flag": false,
+      "reference_inconsistency_flag": false,
+      "delta_nd": 0.001819963819776893,
+      "delta_vd": 0.6079856854936629,
+      "within_published_rounding": false,
+      "score": 1.2692821228051205
+    }
+  }
+]

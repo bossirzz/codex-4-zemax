@@ -1,0 +1,113 @@
+{
+  "source": "candidate_v31_thermal_probe_review.zos",
+  "glasses": [
+    {
+      "surface": 1,
+      "name": "H-LAF54",
+      "indices": [
+        1.812795786635329,
+        1.7995185226689303,
+        1.7938737465515664
+      ]
+    },
+    {
+      "surface": 3,
+      "name": "H-FK61B",
+      "indices": [
+        1.5012293467706195,
+        1.4970001449410866,
+        1.4951390632067358
+      ]
+    },
+    {
+      "surface": 4,
+      "name": "H-ZLAF53B",
+      "indices": [
+        1.8498080040727387,
+        1.8340000218339876,
+        1.8273950081435126
+      ]
+    },
+    {
+      "surface": 7,
+      "name": "H-LAF10LA",
+      "indices": [
+        1.799599219394063,
+        1.7879999691441346,
+        1.783006857980513
+      ]
+    },
+    {
+      "surface": 8,
+      "name": "H-FK69",
+      "indices": [
+        1.5988436572204359,
+        1.592827769837984,
+        1.5902055424381074
+      ]
+    },
+    {
+      "surface": 10,
+      "name": "H-LAF10LA",
+      "indices": [
+        1.799599219394063,
+        1.7879999691441346,
+        1.783006857980513
+      ]
+    },
+    {
+      "surface": 12,
+      "name": "H-ZLAF53B",
+      "indices": [
+        1.8498080040727387,
+        1.8340000218339876,
+        1.8273950081435126
+      ]
+    },
+    {
+      "surface": 14,
+      "name": "H-ZF1",
+      "indices": [
+        1.661239977985317,
+        1.6476900199667837,
+        1.6421003810484345
+      ]
+    }
+  ],
+  "configurations": [
+    {
+      "configuration": 1,
+      "wd": 500
+    },
+    {
+      "configuration": 2,
+      "wd": 200
+    },
+    {
+      "configuration": 3,
+      "wd": 800
+    },
+    {
+      "configuration": 4,
+      "wd": 10000000.0
+    },
+    {
+      "configuration": 5,
+      "wd": 300.0
+    },
+    {
+      "configuration": 6,
+      "wd": 400.0
+    },
+    {
+      "configuration": 7,
+      "wd": 2000.0
+    }
+  ],
+  "optimizer": "OpticStudio DampedLeastSquares",
+  "objective": "Native Contrast MECS/MECT plus native constraints",
+  "main_user_thresholds": "500mm:225/180 at .30/.20; 200mm:150/120 at .30/.20",
+  "other_distances": "Engineering objectives; no new user acceptance thresholds",
+  "temperature_cases_in_objective": false,
+  "high_sampling_acceptance_required": true
+}

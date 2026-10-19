@@ -1,0 +1,193 @@
+{
+    "data": {
+        "units": "Millimeters",
+        "coordinates": "Local",
+        "wavelength": {
+            "value": 0.55,
+            "unit": "µm"
+        },
+        "normalized_x_field_coord": 0.0,
+        "normalized_y_field_coord": 0.0,
+        "normalized_x_pupil_coord": 0.0,
+        "normalized_y_pupil_coord": 0.5,
+        "real_ray_trace_data": {
+            "index": [
+                0,
+                1,
+                2
+            ],
+            "columns": [
+                "Surf",
+                "X-coordinate",
+                "Y-coordinate",
+                "Z-coordinate",
+                "X-cosine",
+                "Y-cosine",
+                "Z-cosine",
+                "X-normal",
+                "Y-normal",
+                "Z-normal",
+                "Angle in",
+                "Path length",
+                "Comment"
+            ],
+            "data": [
+                [
+                    "OBJ",
+                    Infinity,
+                    Infinity,
+                    Infinity,
+                    0.0,
+                    0.0,
+                    1.0,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN
+                ],
+                [
+                    1,
+                    0.0,
+                    1.5,
+                    0.0090364725214,
+                    0.0,
+                    -0.0040055345,
+                    0.9999919778,
+                    0.0,
+                    0.0120481928,
+                    -0.9999274179,
+                    0.690327298,
+                    0.0090364725214,
+                    NaN
+                ],
+                [
+                    2,
+                    0.0,
+                    1.4920880836,
+                    -0.015733284238,
+                    0.0,
+                    -0.0165063748,
+                    0.9998637605,
+                    -0.0,
+                    -0.0210866038,
+                    -0.9997776529,
+                    1.437763791,
+                    1.975246089,
+                    NaN
+                ]
+            ],
+            "index_names": [
+                null
+            ],
+            "column_names": [
+                null
+            ]
+        },
+        "paraxial_ray_trace_data": {
+            "index": [
+                0,
+                1,
+                2
+            ],
+            "columns": [
+                "Surf",
+                "X-coordinate",
+                "Y-coordinate",
+                "Z-coordinate",
+                "X-cosine",
+                "Y-cosine",
+                "Z-cosine",
+                "X-normal",
+                "Y-normal",
+                "Z-normal",
+                "Angle in",
+                "Path length",
+                "Comment"
+            ],
+            "data": [
+                [
+                    "OBJ",
+                    Infinity,
+                    Infinity,
+                    Infinity,
+                    0.0,
+                    0.0,
+                    1.0,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN
+                ],
+                [
+                    1,
+                    0.0,
+                    1.5,
+                    0.0,
+                    0.0,
+                    -0.0040053083,
+                    0.9999919787,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN
+                ],
+                [
+                    2,
+                    0.0,
+                    1.4919893191,
+                    0.0,
+                    0.0,
+                    -0.0164981878,
+                    0.9998638956,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN,
+                    NaN
+                ]
+            ],
+            "index_names": [
+                null
+            ],
+            "column_names": [
+                null
+            ]
+        },
+        "ym_um_yc_uc_ray_trace_data": null
+    },
+    "settings": {
+        "hx": 0.0,
+        "hy": 0.0,
+        "px": 0.0,
+        "py": 0.5,
+        "wavelength": 1,
+        "field": 0,
+        "raytrace_type": "DirectionCosines",
+        "global_coordinates": false
+    },
+    "metadata": {
+        "DateTime": "2026-10-10T13:56:12.143000",
+        "FeatureDescription": "",
+        "LensFile": "<ZEMAX_USER_DATA>\\SAMPLES\\LENS.zos",
+        "LensTitle": ""
+    },
+    "header": [],
+    "messages": [],
+    "__analysis_data__": {
+        "data_type": "zospy_class",
+        "name": "SingleRayTraceResult",
+        "module": "zospy.analyses.raysandspots.single_ray_trace"
+    },
+    "__analysis_settings__": {
+        "data_type": "zospy_class",
+        "name": "SingleRayTraceSettings",
+        "module": "zospy.analyses.raysandspots.single_ray_trace"
+    }
+}

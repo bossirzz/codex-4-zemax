@@ -1,0 +1,245 @@
+{
+  "status": "INCOMPLETE_CHECKPOINT",
+  "manufactured_assembly_validated": false,
+  "spacer_tce_ppm_per_k": 23.0,
+  "cases": [
+    {
+      "wd": 500,
+      "temperature_c": 20,
+      "gap": 6.8220862041424635,
+      "iris_gap": 6.71088484612067,
+      "backfocus": 14.606123661938858,
+      "fixed_stop_radius": 4.2244858776314445,
+      "nominal_fno_target": 2.8,
+      "frequency_center": 225.0,
+      "frequency_edge": 180.0,
+      "predicted_mtf": [
+        [
+          0.32807522554634033,
+          0.3280752255439173
+        ],
+        [
+          0.21991053350996267,
+          0.3360188228432189
+        ],
+        [
+          0.21768661761092412,
+          0.22694334798403762
+        ],
+        [
+          0.22077726717684384,
+          0.21032123622473714
+        ]
+      ],
+      "predicted_distortion_percent": [
+        0.12063607756127581,
+        -0.00014600298963163283,
+        -0.06026080930608968
+      ],
+      "predicted_image_circle_mm": 18.149056637030014,
+      "predicted_efl": 35.04493338083696,
+      "ttl_mm": 53.89695503231043,
+      "predicted_relative_illumination_primary": 0.926072190005442,
+      "predicted_colour_centroid_span_um": [
+        7.086682136974249e-10,
+        0.4903264678101163,
+        2.0610843023777154,
+        2.4415142754688817
+      ],
+      "group_positions_from_sensor_mm": [
+        53.89695503231043,
+        36.15369431611597,
+        18.980123452021218
+      ]
+    },
+    {
+      "wd": 200,
+      "temperature_c": 20,
+      "gap": 7.305835942107475,
+      "iris_gap": 6.95058835963766,
+      "backfocus": 18.034457859730686,
+      "fixed_stop_radius": 4.214171136271049,
+      "nominal_fno_target": 2.8,
+      "frequency_center": 150.0,
+      "frequency_edge": 120.0,
+      "predicted_mtf": [
+        [
+          0.410127826561577,
+          0.4101278265613174
+        ],
+        [
+          0.21749541879912315,
+          0.31190863809257047
+        ],
+        [
+          0.20599012098200506,
+          0.23265674640643197
+        ],
+        [
+          0.20589477428468902,
+          0.2669522345817852
+        ]
+      ],
+      "predicted_distortion_percent": [
+        0.07400910656980564,
+        -0.21765288015007656,
+        -0.5786549697983423
+      ],
+      "predicted_image_circle_mm": 18.05491625748462,
+      "predicted_efl": 34.959365708394344,
+      "ttl_mm": 58.048742481584256,
+      "predicted_relative_illumination_primary": 0.9612357797290285,
+      "predicted_colour_centroid_span_um": [
+        3.682148796273784e-10,
+        0.2929172808677485,
+        0.8716137358028392,
+        2.101310976083866
+      ],
+      "group_positions_from_sensor_mm": [
+        58.048742481584256,
+        40.0657782518728,
+        22.408457649813045
+      ]
+    },
+    {
+      "wd": 800,
+      "temperature_c": 20,
+      "gap": 6.817704860207798,
+      "iris_gap": 6.16856670664828,
+      "backfocus": 13.7664610144844,
+      "fixed_stop_radius": 4.188484794637238,
+      "nominal_fno_target": 2.8,
+      "frequency_center": 225.0,
+      "frequency_edge": 180.0,
+      "predicted_mtf": [
+        [
+          0.31220755863473676,
+          0.3122075586480581
+        ],
+        [
+          0.2661196980767536,
+          0.3276269397935954
+        ],
+        [
+          0.2218883025753329,
+          0.2291935824160911
+        ],
+        [
+          0.21889619417211426,
+          0.24219181741597212
+        ]
+      ],
+      "predicted_distortion_percent": [
+        0.1286059647750415,
+        0.031153860495125585,
+        0.0274903708632257
+      ],
+      "predicted_image_circle_mm": 18.16499225134876,
+      "predicted_efl": 34.746280339563846,
+      "ttl_mm": 52.510592901448916,
+      "predicted_relative_illumination_primary": 0.919397142186509,
+      "predicted_colour_centroid_span_um": [
+        5.133905214630409e-10,
+        0.5138517047251178,
+        2.1902083833953125,
+        3.3066569545821562
+      ],
+      "group_positions_from_sensor_mm": [
+        52.510592901448916,
+        35.30965032472684,
+        18.14046080456676
+      ]
+    },
+    {
+      "wd": 500,
+      "temperature_c": -20,
+      "gap": 6.74596535532771,
+      "iris_gap": 6.7185146393557025,
+      "backfocus": 14.627654377203331,
+      "fixed_stop_radius": 4.221638861462771,
+      "nominal_fno_target": 2.8,
+      "frequency_center": 225.0,
+      "frequency_edge": 180.0,
+      "predicted_mtf": [
+        [
+          0.33708090943041086,
+          0.33708090944079816
+        ],
+        [
+          0.23725587423510908,
+          0.33964846085832645
+        ],
+        [
+          0.2089369467582723,
+          0.2298069643682894
+        ],
+        [
+          0.21083443611236183,
+          0.20896285618731864
+        ]
+      ],
+      "predicted_distortion_percent": [
+        0.11439994889670402,
+        -0.0022570457554271783,
+        -0.05825602256415152
+      ],
+      "predicted_image_circle_mm": 18.14942070630235,
+      "predicted_efl": 35.02393174494144,
+      "ttl_mm": 53.842082982940525,
+      "predicted_relative_illumination_primary": 0.9238154907848998,
+      "predicted_colour_centroid_span_um": [
+        5.104378565808809e-10,
+        0.5041909906026826,
+        2.1338786788883017,
+        2.745496593719014
+      ],
+      "group_positions_from_sensor_mm": [
+        53.842082982940525,
+        36.098181492605875,
+        18.99992391490061
+      ]
+    },
+    {
+      "wd": 10000000.0,
+      "temperature_c": 20,
+      "gap": 1.21150950504084,
+      "iris_gap": 6.71088484612067,
+      "backfocus": 19.60612366193886,
+      "fixed_stop_radius": 4.557537698599102,
+      "nominal_fno_target": 2.8,
+      "frequency_center": 225.0,
+      "frequency_edge": 180.0,
+      "predicted_cra_deg": 9.961641946320698,
+      "predicted_relative_illumination_primary": 0.7852670160590645,
+      "illumination_constraint": "Preserve the calibrated model baseline; native acceptance required",
+      "group_positions_from_sensor_mm": [
+        53.2863783332088,
+        35.543117617014346,
+        23.980123452021218
+      ]
+    }
+  ],
+  "minimum_constraint": -0.001052257153109637,
+  "group_strokes_mm": [
+    5.851557834290695,
+    5.52827207508841,
+    5.86005754140545
+  ],
+  "selected_variables": [
+    "S1_A4",
+    "S10_A6",
+    "S10_A4",
+    "S1_A6",
+    "S12_A4",
+    "S12_A8",
+    "L5_thickness",
+    "L6_thickness",
+    "500_20_g11",
+    "200_20_g11",
+    "800_20_g11",
+    "500_-20_g11"
+  ],
+  "warm_native_800_calibration_error_max": 0.0075216594004606785,
+  "frozen_from": "candidate_v31_thermal_joint",
+  "native_validation_required": true
+}

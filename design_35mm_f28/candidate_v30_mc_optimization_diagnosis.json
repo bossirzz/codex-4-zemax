@@ -1,0 +1,77 @@
+{
+  "status": "LOCAL_NUMERICAL_DIAGNOSTIC_COMPLETE_FAR_DISTANCE_UNSOLVED",
+  "native_api_used": false,
+  "optimizer_process_stopped": true,
+  "source": "candidate_v29",
+  "primary_thresholds_unchanged": {
+    "500mm": "center225>=0.30,alloff180>=0.20",
+    "200mm": "center150>=0.30,alloff120>=0.20"
+  },
+  "numerical_floor_used": {
+    "center": 0.307,
+    "offaxis": 0.206
+  },
+  "final_far_main_frequencies_lpmm": [
+    225,
+    180
+  ],
+  "final_far_mtf": [
+    [
+      0.21799911921866744,
+      0.2179991191873582
+    ],
+    [
+      0.27018877133573216,
+      0.2774139154297742
+    ],
+    [
+      0.07173003473441722,
+      0.013988328160698175
+    ],
+    [
+      0.04502218608316699,
+      0.04211455495297496
+    ]
+  ],
+  "final_far_90lp_mtf": [
+    [
+      0.45677803885607937,
+      0.4567780388533003
+    ],
+    [
+      0.44569000432496897,
+      0.44857631972436274
+    ],
+    [
+      0.07577536643389855,
+      0.1725789860323897
+    ],
+    [
+      0.08790661085270514,
+      0.09307525063026215
+    ]
+  ],
+  "final_group_strokes_mm": [
+    5.653427333303583,
+    5.408480150001921,
+    5.840020901909842
+  ],
+  "native_validation_required": true,
+  "accepted_as_replacement": false,
+  "findings": [
+    "Frozen-lens 800mm floating focus is a separate native-verified improvement reported by root.",
+    "500/200 numerical MTF gates preserved; final candidate itself is not natively validated.",
+    "Broad SQP steps repeatedly left the high-frequency feasible region.",
+    "Local trust-region least squares with four main aspheres, L5/L6 material thickness and90lp continuation moved2m away from an OTF zero but did not repair edge image quality.",
+    "Final2m center falls to0.218 and edge remains0.045/0.042; engineering0.25/0.10 objective remains unmet.",
+    "Cold500mm was not included in this bounded warm-state round."
+  ],
+  "artifacts": [
+    "multi_conjugate_refine.py",
+    "candidate_v30_mc_cont_final_schema.json",
+    "candidate_v30_mc_cont_final_validation_configs.json",
+    "candidate_v30_mc_cont_final_multi_parameters.npy",
+    "candidate_v30_mc_cont_final_prediction.json",
+    "candidate_v30_mc_cont.log"
+  ]
+}

@@ -1,0 +1,77 @@
+系统/详细数据
+
+File:  <ZEMAX_USER_DATA>\SAMPLES\LENS.zos
+Title:  
+Date:  2026/10/10
+
+
+GENERAL LENS DATA: 
+
+Surfaces:  	               2
+Stop:  	               1
+System Aperture:  	光阑尺寸浮动 = 	3
+Fast Semi-Diameters: 	on 
+Field Unpolarized: 	On 
+Convert thin film phase to ray equivalent:  	On 
+J/E Conversion Method: 	X轴参考   
+Glass Catalogs:  	SCHOTT 
+Ray Aiming: Off
+Apodization:  	Uniform,factor = 	   0.00000E+00
+Reference OPD: 	出瞳  
+Paraxial Rays Setting: 	忽略坐标断点  
+Method to Compute F/#: 	追迹光线  
+Method to Compute Huygens Integral:  自动
+Print Coordinate Breaks: 	on 
+Multi-Threading: 	on 
+OPD Modulo 2 Pi: 	off
+Temperature (C):  	    2.00000E+01
+Pressure (ATM):  	    1.00000E+00
+Adjust Index Data To Environment: 	off
+Effective Focal Length: 	         90.9067	(in air at system temperature and pressure)
+Effective Focal Length: 	         90.9067	 (in image space)
+Back Focal Length: 	        90.42122
+Total Track: 	               2
+Image Space F/#: 	        15.15112
+Paraxial Working F/#: 	        15.15112
+Working F/#: 	        15.12928
+Image Space NA: 	      0.03298291
+Object Space NA: 	           3.0e-10
+Stop Radius: 	               3
+Paraxial Image Height: 	               0
+Paraxial Magnification: 	               0
+Entrance Pupil Diameter: 	               6
+Entrance Pupil Position: 	               0
+Exit Pupil Diameter: 	        6.056913
+Exit Pupil Position: 	       -1.347778
+Field Type:  	角（度）
+Maximum Radial Field: 	               0
+Primary Wavelength [µm]: 	            0.55
+Angular Magnification: 	      -0.7594686
+Lens Units: 	            毫米
+Source Units: 	   瓦特 
+Analysis Units: 	   瓦特/cm^2 
+Afocal Mode Units: 	   毫弧度 
+MTF Units: 	   周期/毫米  
+Include Calculated Data in Session File: 	On  
+Include Calculated Data in Session File: 	On  
+
+Fields:  1
+Field Type:  	角（度）
+ #  	   X-Value     	  Y-Value     	    Weight
+ 1 	      0.000000 	      0.000000 	      1.000000
+
+Vignetting Factors
+ #     	VDX     	VDY     	VCX     	VCY     	VAN
+ 1 	 0.000000 	 0.000000 	 0.000000 	 0.000000 	 0.000000
+
+Wavelengths:  1
+Units:  μm
+ #       	 Value         	 Weight
+ 1 	      0.550000 	      1.000000
+
+Predicted coordinate ABCD matrix: 
+A = 	       1.335
+B = 	           0
+C = 	           0
+D = 	       1.335
+

@@ -1,0 +1,101 @@
+[
+  {
+    "candidate": "candidate_v08",
+    "mode": "WD500",
+    "efl": 35.00175364434592,
+    "gap": 6.794173431581411,
+    "backfocus": 14.550962493582473,
+    "ttl": 53.714515771207765,
+    "chief_angle_deg": 10.140393814523515,
+    "relative_illumination": 0.8930998117111301,
+    "image_height": 9.06799493327482
+  },
+  {
+    "candidate": "candidate_v08",
+    "mode": "infinity_whole_group",
+    "efl": 35.00175364434592,
+    "gap": 6.794173431581411,
+    "backfocus": 11.96894983884996,
+    "ttl": 51.13250311647525,
+    "chief_angle_deg": 10.624645525439467,
+    "relative_illumination": 0.8551135093521153,
+    "image_height": 9.11219476397997
+  },
+  {
+    "candidate": "candidate_v08",
+    "mode": "infinity_front_six",
+    "efl": 35.744864869011025,
+    "gap": 4.59379809476521,
+    "backfocus": 14.550962493582473,
+    "ttl": 51.514140434391564,
+    "chief_angle_deg": 10.254358123147023,
+    "relative_illumination": 0.8481302953158606,
+    "image_height": 9.093055455226441
+  },
+  {
+    "candidate": "candidate_v10",
+    "mode": "WD500",
+    "efl": 35.00150743459849,
+    "gap": 6.794036996747492,
+    "backfocus": 14.55282108961105,
+    "ttl": 53.71372449247878,
+    "chief_angle_deg": 10.138634034380063,
+    "relative_illumination": 0.893334029987411,
+    "image_height": 9.067538190986543
+  },
+  {
+    "candidate": "candidate_v10",
+    "mode": "infinity_whole_group",
+    "efl": 35.00150743459849,
+    "gap": 6.794036996747492,
+    "backfocus": 11.971532827499567,
+    "ttl": 51.1324362303673,
+    "chief_angle_deg": 10.621934264929079,
+    "relative_illumination": 0.8553372028932371,
+    "image_height": 9.111775157933046
+  },
+  {
+    "candidate": "candidate_v10",
+    "mode": "infinity_front_six",
+    "efl": 35.74444184895805,
+    "gap": 4.59437018525105,
+    "backfocus": 14.55282108961105,
+    "ttl": 51.51405768098234,
+    "chief_angle_deg": 10.252755308023966,
+    "relative_illumination": 0.8483948661371382,
+    "image_height": 9.092726554080997
+  },
+  {
+    "candidate": "candidate_v11",
+    "mode": "WD500",
+    "efl": 35.00364156449131,
+    "gap": 6.784551931006121,
+    "backfocus": 14.542619441477475,
+    "ttl": 54.51748130488957,
+    "chief_angle_deg": 9.132609756777136,
+    "relative_illumination": 0.9051281076504426,
+    "image_height": 9.01388555404832
+  },
+  {
+    "candidate": "candidate_v11",
+    "mode": "infinity_whole_group",
+    "efl": 35.00364156449131,
+    "gap": 6.784551931006121,
+    "backfocus": 11.967959865611311,
+    "ttl": 51.94282172902341,
+    "chief_angle_deg": 9.482933933431024,
+    "relative_illumination": 0.8609790501088268,
+    "image_height": 9.061328052609218
+  },
+  {
+    "candidate": "candidate_v11",
+    "mode": "infinity_front_six",
+    "efl": 35.731162479278325,
+    "gap": 4.578451146510383,
+    "backfocus": 14.542619441477475,
+    "ttl": 52.31138052039383,
+    "chief_angle_deg": 9.196431052606581,
+    "relative_illumination": 0.8453660595565456,
+    "image_height": 9.041784978843335
+  }
+]

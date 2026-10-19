@@ -1,0 +1,2 @@
+CONFIG_CURVE_EXPORTED {"candidate": "candidate_v31_thermal_probe", "configuration": 3, "wd": 800.0, "sampling": 1024, "messages": []}
+*** FRU__delta_init(): Attempt to start when running!
